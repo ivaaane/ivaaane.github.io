@@ -1,0 +1,15 @@
+{{ partial "header.html" . }}
+
+<div class="{{ .Params.lang }}">
+    <div class="box">
+    {{ replace .Content "<hr>" "</div><br/><div class='box'>" | safeHTML}}
+    </div>
+    <br/>
+    <div class="box" style="text-align:center;">
+        <a href=".." class="details">↩
+            {{ index .Site.Data.langs .Params.lang "select" }}
+        </a>
+    </div>
+</div>
+
+{{ partial "footer.html" . }}

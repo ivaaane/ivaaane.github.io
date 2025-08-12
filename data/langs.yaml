@@ -1,0 +1,9 @@
+tp:
+  select: "o lukin lon toki ante"
+  back: "o tawa open"
+sp:
+  select: "o lukin lon toki ante"
+  back: "o tawa open"
+eo:
+  select: "ŝanĝi lingvon"
+  back: "reen"

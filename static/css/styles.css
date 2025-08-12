@@ -1,0 +1,158 @@
+/* color */
+:root {
+    --text: black;
+    --bg: antiquewhite;
+    --page: white;
+    --link: darkblue;
+}
+
+/* general */
+
+body {
+    background-color: var(--bg);
+    color: var(--text);
+    max-width: 45rem;
+    margin: 0 auto;
+    padding: 1rem;
+    text-align: justify;
+    line-height: 175%;
+    font-family: "Times New Roman";
+    font-size: 110%;
+}
+
+h1, h2, h3 {
+    text-align: center;
+    font-size: 100%;
+    padding: 1rem;
+    font-weight: normal;
+}
+
+h2, h3 {
+    padding: 0;
+}
+
+a {
+    text-decoration: none;
+    color: var(--link);
+
+    &:hover {
+        text-decoration: underline;
+    }
+}
+
+video {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 25%;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+/* classes */
+
+.box {
+    background-color: var(--page);
+    border: 1px solid var(--text);
+    padding: 3rem;
+    padding-bottom: 1rem;
+    padding-top: 1rem;
+    position: relative;
+}
+
+.details {
+    font-size: 90%;
+}
+
+.right {
+    text-align: right;
+}
+
+.foot {
+    text-align: center;
+    padding: 2rem;
+    opacity: 75%;
+    font-size: 80%;
+
+    a {
+        color: black;
+    }
+}
+
+.ss {
+    width: 20%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.rss {
+    width: 3%;
+    position: absolute;
+    top: 15px;
+    right: 15px;
+}
+
+.mobile {
+    display: none;
+}
+
+/* fonts */
+
+@font-face {
+    font-family: "nasin-nanpa";
+    src: url("../fonts/nasin-nanpa-5.0.0-beta.2.otf") format("opentype");
+}
+
+.sp {
+    font-family: nasin-nanpa, sans-serif;
+    font-size: 100%;
+
+    h1 {
+        font-size: 120%;
+    }
+
+    em {
+        color: gray;
+        font-style: normal;
+    }
+}
+
+.tp {
+    font-family: Tahoma, sans-serif;
+    font-size: 90%;
+
+    em {
+        color: gray;
+    }
+}
+
+@media (max-width: 320px) {
+    body {
+        padding: 0;
+        font-size: 100%;
+    }
+
+    video {
+        width: 50%;
+    }
+    
+    .box {
+        padding: 1rem;
+    }
+
+    .ss {
+        width: 30%;
+    }
+
+    .rss {
+        display: none;
+    }
+
+    .mobile {
+        display: block;
+    }
+}
