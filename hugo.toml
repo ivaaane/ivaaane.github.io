@@ -10,3 +10,7 @@ disableKinds = ["taxonomy", "term"]
 [markup.goldmark.parser.attribute]
   block = true
   title = true
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
