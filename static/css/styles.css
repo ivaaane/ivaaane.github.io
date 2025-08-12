@@ -130,29 +130,14 @@ img {
     }
 }
 
-@media (max-width: 320px) {
+@media (max-width: 600px) {
     body {
         padding: 0;
         font-size: 100%;
     }
-
-    video {
-        width: 50%;
-    }
-    
-    .box {
-        padding: 1rem;
-    }
-
-    .ss {
-        width: 30%;
-    }
-
-    .rss {
-        display: none;
-    }
-
-    .mobile {
-        display: block;
-    }
+    video {width: 50%;} 
+    .box {padding: 1rem;}
+    .ss {width: 30%;}
+    .rss {display: none;}
+    .mobile {display: block;}
 }
