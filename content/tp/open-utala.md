@@ -2,16 +2,10 @@
 title: open utala
 date: 2025-04-15
 lang: tp
----
-
-# **open utala**
-
-{{<details title="sona namako">}}
-**tenpo pana:** 15/4/2025  
-**ante nanpa pini:** 8/8/2025  
-**kon lipu:** toki open nanpa pini lon lipu te ma suno".
-{{</details>}}
-
+details:
+- date: 15/4/2025
+- edit: 8/8/2025
+- note: toki open nanpa pini lon lipu "ma suno".
 ---
 
 open la, jan li pali e kulupu utala. jan pi mama sama taso li lon kulupu la, kulupu li lili. jan li moli la kulupu li moli. tenpo la mute kulupu li lili, taso kulupu awen li kama suli. tenpo mute la, kulupu mute lili li utala e kulupu wan suli. ni la, jan pi mama sama ala li open lon kulupu sama.

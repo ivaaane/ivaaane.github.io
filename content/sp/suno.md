@@ -2,17 +2,11 @@
 title: suno suwi o
 date: 2025-05-30
 lang: sp
----
-
-# suno suwi o
-
-{{<details title="sona namako">}}
-_tenpo pana la_ suno nanpa mute2 luka-luka la mun nanpa luka la sike nanpa owe mute2 luka  
-_kon lipu la_ jan lili lon ma [kasi,, tawa,, lawa,,] li kalama musi ni  
-zzzzzz mi toki+pona e musi  
-zzzzzz [o kute e kalama mama [SOL SOLET]](https://www.mamalisa.com/mp3/sol_solet.mp3)
-{{</details>}}
-
+details:
+- date: suno nanpa mute2 luka-luka la mun nanpa luka la sike nanpa owe mute2 luka  
+- note: |
+    jan lili lon ma [kasi,, tawa,, lawa,,] li kalama musi ni [SOL SOLET]  
+    zzzzzz mi toki+pona e musi  
 ---
 
 suno suwi o  

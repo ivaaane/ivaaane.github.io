@@ -20,7 +20,7 @@ toki a! mi soko sijeni. mi mama e lipu la mi pana tawa poki ni. awen o pona!!!
 
 # **ma suno**
 
-lipu ni li toki musi pi kulupu jan tan tenpo pini.
+lipu ni li kulupu e toki musi tan kulupu jan pi tenpo pini.
 
 **toki open**
 

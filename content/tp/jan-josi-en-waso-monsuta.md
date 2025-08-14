@@ -2,16 +2,10 @@
 title: jan Josi en waso monsuta
 date: 2025-04-23
 lang: tp
----
-
-# **jan Josi en waso monsuta**
-
-{{<details title="sona namako">}}
-**tenpo pana:** 23/4/2025  
-**ante nanpa pini:** 10/8/2025  
-**kon lipu:** kulupu mute lon ma Elopa li toki e musi ni.
-{{</details>}}
-
+details:
+- date: "23/4/2025"
+- edit: "10/8/2025"
+- note: kulupu mute lon ma Elopa li toki e musi ni.
 ---
 
 tenpo pini suli a la, waso akesi suli li monsuta e ma tomo. waso li utala ala e ma la, kulupu li pana e jan. waso li moku e jan li utala ala.

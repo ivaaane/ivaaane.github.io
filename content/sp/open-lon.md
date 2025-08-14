@@ -1,19 +1,14 @@
 ---
-title: "open lon"
+title: open lon
 date: 2025-03-29
 lang: sp
----
-
-# open lon
-
-{{<details title="sona namako">}}
-_tenpo pana la_ suno nanpa mute1 luka tu-tu la mun nanpa tu-wan la sike nanpa owe mute2 wan  
-_ante nanpa+pini la_ suno nanpa luka tu-wan la mun nanpa luka tu-wan la sike nanpa owe mute2 wan  
-_kon lipu la_ ni li toki e open ale lon sona pi(jansuno)  
-zzzzzz jan suno li tan tenpo pini a  
-zzzzzz ni li open e lipu te ma suno to
-{{</details>}}
-
+details:
+- date: suno nanpa mute2 luka tu-tu la mun nanpa tu-wan la sike nanpa owe mute2 wan  
+- edit: suno nanpa luka tu-wan la mun nanpa luka tu-wan la sike nanpa owe mute2 wan  
+- note: |
+    ni li toki e open ale lon sona pi(jansuno)  
+    zzzzzz jan suno li tan tenpo pini a  
+    zzzzzz ni li open e lipu te ma suno to
 ---
 
 open la ala li lon  

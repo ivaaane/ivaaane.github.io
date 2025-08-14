@@ -2,17 +2,9 @@
 title: ma tomo
 date: 2025-05-31
 lang: sp
----
-
-# ma tomo
-
-{{<details title="sona namako">}}
-_tenpo pana la_ suno nanpa mute2 luka-luka wan lon mun nanpa luka lon sike nanpa owe mute2 wan  
-_ante nanpa+pini la_ suno nanpa luka-luka la mun nanpa luka tu-wan la sike nanpa owe mute2 luka  
-_kon lipu la_ toki te jan suno li tu to la lipu ni li nanpa tu  
-zzzzzz toki te utala pi(matomo) to la lipu ni li nanpa open
-{{</details>}}
-
+details:
+- date: suno nanpa mute2 luka-luka wan lon mun nanpa luka lon sike nanpa owe mute2 wan  
+- edit: suno nanpa luka-luka la mun nanpa luka tu-wan la sike nanpa owe mute2 luka  
 ---
 
 jan pi(lenjelo) li toki tawa mun suli la  

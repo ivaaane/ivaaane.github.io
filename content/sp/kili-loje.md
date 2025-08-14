@@ -2,15 +2,9 @@
 title: kili loje
 date: 2025-05-29
 lang: sp
----
-
-# kili loje
-
-{{<details title="sona namako">}}
-_tenpo pana la_ suno nanpa mute2 luka tu-wan la mun nanpa luka la sike nanpa owe mute2 luka  
-_kon lipu la_ mi toki+pona e [kalama musi [KALINKA]](https://www.youtube.com/watch?v=oXIXwZWMXdg) tan toki [lupa,, sina,,]
-{{</details>}}
-
+details:
+- date: suno nanpa mute2 luka tu-wan la mun nanpa luka la sike nanpa owe mute2 luka  
+- note: mi toki+pona e kalama musi [KALINKA] tan toki [lupa,, sina,,]
 ---
 
 kili loje li loje li loje li mi  

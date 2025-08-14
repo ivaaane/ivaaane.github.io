@@ -2,16 +2,10 @@
 title: open jan
 date: 2025-03-10
 lang: tp
----
-
-# **open jan**
-
-{{<details title="sona namako">}}
-**tenpo pana:** 10/3/2025  
-**ante nanpa pini:** 8/8/2025  
-**kon lipu:** toki open nanpa tu lon lipu "ma suno".
-{{</details>}}
-
+details:
+- date: 10/3/2025
+- edit: 8/8/2025
+- note: toki open nanpa tu lon lipu "ma suno".
 ---
 
 open la, jan li sama soweli li sama akesi. ona li moku e kili taso li jaki tan anpa ma, li lon kulupu lili lon anpa kasi, li wile suli ala. jan li sona ala e monsuta. ona li lape mute li pali lili, li pilin pona.

@@ -2,22 +2,16 @@
 title: jan Kamela
 date: 2025-03-29
 lang: tp
----
-
-# **jan Kamela**
-
-{{<details title="sona namako">}}
-**tenpo pana:** 29/3/2025  
-**ante nanpa pini:** 10/8/2025  
-**kon lipu:** mi toki pona e [kalama musi "¡ay, Carmela!"](https://www.youtube.com/watch?v=6OXp0vtD8TA&t=70) tan toki Epanjo.
-{{</details>}}
-
+details:
+- date: "29/3/2025"
+- edit: "10/8/2025"
+- note: mi toki pona e kalama musi "¡ay, Carmela!" tan toki Epanjo.
 ---
 
 jan ike lon linja telo  
-utala utala utala  
+_utala utala utala_  
 jan ike lon linja telo  
-utala utala utala  
+_utala utala utala_  
 pimeja la ona li kama  
 a, jan Kamela!  
 jan Kamela!  
@@ -26,9 +20,9 @@ a, jan Kamela!
 jan Kamela!  
 
 taso sina olin suli  
-utala utala utala  
+_utala utala utala_  
 taso sina olin suli  
-utala utala utala  
+_utala utala utala_  
 la ala li ken ike  
 a, jan Kamela!  
 jan Kamela!  
@@ -37,9 +31,9 @@ a, jan Kamela!
 jan Kamela!  
 
 pakala mute li kama  
-utala utala utala  
+_utala utala utala_  
 pakala mute li kama  
-utala utala utala  
+_utala utala utala_  
 jan pona li utala e ona  
 a, jan Kamela!  
 jan Kamela!  
@@ -48,9 +42,9 @@ jan Kamela!
 jan Kamela!  
 
 taso wawa sama utala  
-utala utala utala  
+_utala utala utala_  
 taso wawa sama utala  
-utala utala utala  
+_utala utala utala_  
 la mi wile awen e sina  
 a, jan Kamela!  
 jan Kamela!  

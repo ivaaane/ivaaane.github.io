@@ -2,15 +2,9 @@
 title: kalama pi kulupu Elopa
 date: 2025-03-21
 lang: tp
----
-
-# **kalama pi kulupu Elopa**
-
-{{<details title="sona namako">}}
-**tenpo pana:** 21/3/2025  
-**kon lipu:** mi toki pona e [kalama musi pi kulupu Elopa](https://www.youtube.com/watch?v=WzLdgtDsLV8) tan toki Epanjo.
-{{</details>}}
-
+details:
+- date: 21/3/2025
+- note: mi toki pona e kalama musi pi kulupu Elopa tan toki Epanjo.
 ---
 
 jan sama o kute e kalama tan pona  

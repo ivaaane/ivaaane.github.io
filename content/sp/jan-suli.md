@@ -2,16 +2,10 @@
 title: jan suli kasi
 date: 2025-05-30
 lang: sp
----
-
-# jan suli kasi
-
-{{<details title="sona namako">}}
-_tenpo pana la_ suno nanpa mute2 luka tu-wan la mun nanpa tu-wan la sike nanpa owe mute2 luka  
-_ante nanpa+pini la_ suno nanpa luka-luka la mun nanpa luka tu-wan la sike nanpa owe mute2 luka  
-_kon lipu la_ mi toki+pona e toki musi [EL GEGANT DEL PI] pi(kulupu [kasi,, tawa,, lawa,,])
-{{</details>}}
-
+details:
+- date: suno nanpa mute2 luka tu-wan la mun nanpa tu-wan la sike nanpa owe mute2 luka  
+- edit: suno nanpa luka-luka la mun nanpa luka tu-wan la sike nanpa owe mute2 luka  
+- note: mi toki+pona e toki musi [EL GEGANT DEL PI] pi(kulupu [kasi,, tawa,, lawa,,])
 ---
 
 kulupu [kasi,, tawa,, lawa,,] li toki e sona ni  

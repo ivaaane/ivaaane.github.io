@@ -1,16 +1,10 @@
 ---
 title: lawa li jan utala e jan Kisote
+header: nanpa tu-wan la lawa li jan utala e jan [kiwen,, sona,, tenpo,,]
 date: 2025-05-29
 lang: sp
----
-
-# _nanpa tu-wan la_ lawa li jan utala e jan [kiwen,, sona,, tenpo,,]
-
-{{<details title="sona namako">}}
-_tenpo pana la_ suno nanpa luka-luka la mun nanpa luka tu-wan la sike nanpa owe mute2 wan  
-_kon lipu la_ mi toki+pona e lipu [DON QUIJOTE DE LA MANCHA] pi(kon [sewi,,, ante,,,,]) tan toki [en pan,,, jo,,] 
-{{</details>}}
-
+details:
+- note: mi toki+pona e lipu [DON QUIJOTE] pi(kon [sewi,,, ante,,,,]) tan toki [en pan,,, jo,,] 
 ---
 
 pilin ni< li utala e jan [kiwen,, sona,, tenpo,,]  

@@ -2,16 +2,10 @@
 title: kalama Sakijape
 date: 2025-02-15
 lang: tp
----
-
-# **kalama Sakijape**
-
-{{<details title="sona namako">}}
-**tenpo pana:** 15/2/2025  
-**ante nanpa pini:** 10/8/2025  
-**kon lipu:** mi toki pona e [kalama musi "säkkijärven polkka"](https://www.youtube.com/watch?v=uMszu_VgMfY) tan toki Sumi.
-{{</details>}}
-
+details:
+- date: 15/2/2025
+- edit: 10/8/2025
+- note: mi toki pona e kalama musi "säkkijärven polkka" tan toki Sumi.
 ---
 
 li sona weka en ma Kalija  

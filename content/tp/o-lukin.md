@@ -2,14 +2,8 @@
 title: o lukin
 date: 2025-08-12
 lang: tp
----
-
-# **o lukin!**
-
-{{<details title="sona namako">}}
-**tenpo pana:** 12/8/2025  
-{{</details>}}
-
+details:
+- date: 12/8/2025
 ---
 
 o lukin! sina lukin e ale. kasi en telo en soweli li lon. sina ken kama sona.

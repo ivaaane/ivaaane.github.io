@@ -2,15 +2,9 @@
 title: suno suwi o
 date: 2025-05-30
 lang: tp
----
-
-# **suno suwi o**
-
-{{<details title="sona namako">}}
-**tenpo pana:** 30/5/2025  
-**kon lipu:** jan lili lon ma Katala li kalama musi ni; mi toki pona e musi. o kute e [kalama mama "sol solet"!](https://www.mamalisa.com/mp3/sol_solet.mp3)
-{{</details>}}
-
+details:
+- date: 30/5/2025
+- note: jan lili lon ma Katala li kalama musi ni "sol solet"; mi toki pona e musi.
 ---
 
 suno suwi o  

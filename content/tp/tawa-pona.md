@@ -2,15 +2,10 @@
 title: tawa pona
 date: 2025-02-14
 lang: tp
----
-
-# **tawa pona**
-
-{{<details title="sona namako">}}
-**tenpo pana:** 14/2/2025  
-**kon lipu:** mi toki pona e [kalama musi "bella ciao"](https://www.youtube.com/watch?v=EvPHhu82akM) tan toki Italija.
-{{</details>}}
-
+details:
+- date: 14/2/2025
+- note: |
+        mi toki pona e kalama musi "bella ciao" tan toki Italija.
 ---
 
 suno ni la  

@@ -2,14 +2,8 @@
 title: o lukin
 date: 2025-08-12
 lang: sp
----
-
-# **o lukin**
-
-{{<details title="sona namako">}}
-_tenpo pana la_ suno nanpa luka-luka tu la mun nanpa luka tu-wan la sike nanpa owe mute2 luka
-{{</details>}}
-
+details:
+- date: suno nanpa luka-luka tu la mun nanpa luka tu-wan la sike nanpa owe mute2 luka
 ---
 
 o lukin  

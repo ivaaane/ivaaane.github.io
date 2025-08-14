@@ -2,15 +2,9 @@
 title: o lukin e kala
 date: 2025-02-16
 lang: sp
----
-
-# o lukin e kala
-
-{{<details title="sona namako">}}
-_tenpo pana la_ suno nanpa luka-luka luka-wan lon mun nanpa tu lon sike nanpa owe mute2 wan  
-_kon lipu la_ mi toki+pona e [kalama musi [LOS PECES EN EL RIO]](https://www.youtube.com/watch?v=3oxdXV7eA3Q) tan toki [en pan,,, jo,,]
-{{</details>}}
-
+details:
+- date: suno nanpa luka-luka luka-wan lon mun nanpa tu lon sike nanpa owe mute2 wan  
+- note: mi toki+pona e kalama musi [LOS PECES EN EL RIO] tan toki [en pan,,, jo,,]
 ---
 
 o lukin e kala  

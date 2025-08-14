@@ -3,10 +3,6 @@ title: taso
 lang: sp
 ---
 
-# taso
-
----
-
 ## taso
 
 mi taso  

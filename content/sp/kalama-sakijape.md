@@ -1,19 +1,13 @@
 ---
-title: kalama [sama,, kijetesantakalu,,, ale pona en]
+title: kalama Sakijape
+header: kalama [sama,, kijetesantakalu,,, ale pona en]
 date: 2025-02-15
 lang: sp
+details:
+- date: suno nanpa luka-luka luka la mun nanpa tu la sike nanpa owe mute2 luka  
+- edit: suno nanpa luka-luka la mun nanpa luka tu-wan la sike nanpa owe mute2 luka  
+- note: mi toki+pona e kalama musi [SAKKIJARVEN POLKKA] tan toki [suwi,, mi,,]
 ---
-
-# kalama [sama,, kijetesantakalu,,, ale pona en]
-
-{{<details title="sona namako">}}
-_tenpo pana la_ suno nanpa luka-luka luka la mun nanpa tu la sike nanpa owe mute2 luka  
-_ante nanpa+pini la_ suno nanpa luka-luka la mun nanpa luka tu-wan la sike nanpa owe mute2 luka  
-_kon lipu la_ mi toki+pona e [kalama musi [SAKKIJARVEN POLKKA]](https://www.youtube.com/watch?v=uMszu_VgMfY) tan toki [suwi,, mi,,]
-{{</details>}}
-
----
-
 
 li sona weka en ma [kala,,, ijo,, ale]  
 taso sona li kalama tan pilin  

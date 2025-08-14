@@ -1,9 +1,21 @@
 tp:
+  date: "tenpo pana: "
+  edit: "ante nanpa pini: "
+  note: "kon lipu: "
+  more: "sona namako"
   select: "o lukin lon toki ante"
   back: "o tawa open"
 sp:
+  date: "tenpo pana la"
+  edit: "ante nanpa+pini la"
+  note: "kon lipu la"
+  more: "sona namako"
   select: "o lukin lon toki ante"
   back: "o tawa open"
 eo:
+  date: "Dato: "
+  edit: "Lasta ŝanĝo: "
+  note: "Priskribo: "
+  more: "Scii plu"
   select: "ŝanĝi lingvon"
   back: "reen"

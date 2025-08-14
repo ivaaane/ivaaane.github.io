@@ -2,16 +2,10 @@
 title: open jan
 date: 2025-03-10
 lang: sp
----
-
-# open jan
-
-{{<details title="sona namako">}}
-_tenpo pana la_ suno nanpa luka-luka la mun nanpa tu-tu la sike nanpa owe mute2 wan  
-_ante nanpa+pini la_ suno nanpa luka tu-wan la mun nanpa luka tu-wan la sike nanpa owe mute2 wan  
-_kon lipu la_ toki open nanpa tu lon lipu te ma suno to
-{{</details>}}
-
+details:
+- date: suno nanpa luka-luka la mun nanpa tu-tu la sike nanpa owe mute2 wan  
+- edit: suno nanpa luka tu-wan la mun nanpa luka tu-wan la sike nanpa owe mute2 wan  
+- note: toki open nanpa tu lon lipu te ma suno to
 ---
 
 open la jan li sama soweli  

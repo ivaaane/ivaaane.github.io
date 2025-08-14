@@ -2,15 +2,9 @@
 title: sewi lili
 date: 2025-04-18
 lang: sp
----
-
-# sewi lili
-
-{{<details title="sona namako">}}
-_tenpo pana la_ suno nanpa luka-luka luka tu-tu la mun nanpa tu-tu la sike nanpa owe mute2 luka  
-_kon lipu la_ mi toki+pona e open toki pi([liputesewililito](https://www.terrypratchettbooks.com/books/small-gods/)) tan mama [telo,, wile,,] [pali,, seli,,]
-{{</details>}}
-
+details:
+- date: suno nanpa luka-luka luka tu-tu la mun nanpa tu-tu la sike nanpa owe mute2 luka  
+- note: mi toki+pona e open toki pi(liputesewililito) tan mama [telo,, wile,,] [pali,, seli,,]
 ---
 
 o sona e akesi e waso  

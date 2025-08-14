@@ -2,15 +2,9 @@
 title: tawa pona
 date: 2025-02-14
 lang: sp
----
-
-# tawa pona
-
-{{<details title="sona namako">}}
-_tenpo pana la_ suno nanpa luka-luka tu-tu la mun nanpa tu la sike nanpa owe mute2 luka  
-_kon lipu la_ mi toki+pona e [kalama musi [BELLA CIAO]](https://www.youtube.com/watch?v=EvPHhu82akM) tan toki [insa tawa,, li,, jan,,]
-{{</details>}}
-
+details:
+- date: suno nanpa luka-luka tu-tu la mun nanpa tu la sike nanpa owe mute2 luka  
+- note: mi toki+pona e kalama musi [BELLA CIAO] tan toki [insa tawa,, li,, jan,,]
 ---
 
 suno ni la  

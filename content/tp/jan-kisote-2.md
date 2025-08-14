@@ -1,17 +1,12 @@
 ---
-title: tawa nanpa wan pi jan Kisote
+title: "tawa nanpa wan pi jan Kisote"
+header: "#T) tawa nanpa wan pi jan Kisote"
 date: 2025-04-23
 lang: tp
----
-
-# **_#T)_ tawa nanpa wan pi jan Kisote**
-
-{{<details title="sona namako">}}
-**tenpo pana:** 23/4/2025  
-**ante nanpa pini:** 8/8/2025  
-**kon lipu:** mi toki pona e lipu "Don Quijote de la Mancha" pi kon Sewante tan toki Epanjo.
-{{</details>}}
-
+details:
+- date: "23/4/2025"
+- edit: "10/8/2025"
+- note: mi toki pona e lipu "Don Quijote" pi kon Sewante tan toki Epanjo.
 ---
 
 jan Kisote li wile ala awen awen. suno li open la ona li jo e ilo ale, li tawa lon poka pi soweli Losinante. ona li toki e wile ona tawa jan ala. ona li taso la pilin ike li kama li pini e tawa. jan lawa li jan utala ala e ona la ona li ken ala utala. taso pakala lawa li anpa e pilin ni. nanpa wan la ona o kama jan utala tan jan lawa. sin la ona li tawa.

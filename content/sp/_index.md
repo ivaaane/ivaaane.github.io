@@ -25,7 +25,7 @@ _ilo li lili la o sike e lukin_
 
 # ma suno
 
-lipu ni li toki musi pi(kulupujan) tan tenpo pini
+lipu ni li kulupu e toki musi tan kulupu jan pi(tenpopini)
 
 toki open la
 

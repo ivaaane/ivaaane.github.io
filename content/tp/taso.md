@@ -2,15 +2,9 @@
 title: taso
 date: 2025-08-09
 lang: tp
----
-
-# **taso**
-
-{{< details title="sona namako" >}}
-**tenpo pana:** 9/8/2025  
-**kon lipu:** mi pana e lipu ni tawa [utala pona](https://utala.pona.la). pini utala la mi nanpa tu a!
-{{< /details >}}
-
+details:
+- date: 9/8/2025
+- note: mi pana e lipu ni tawa utala musi pi toki pona. pini utala la mi nanpa tu a!
 ---
 
 taso.

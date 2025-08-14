@@ -1,17 +1,12 @@
 ---
-title: sona en pali pi jan Kisote
+title: "sona en pali pi jan Kisote"
+header: "#1) sona en pali pi jan Kisote"
 date: 2025-04-23
 lang: tp
----
-
-# **_#1)_ sona en pali pi jan Kisote**
-
-{{<details title="sona namako">}}
-**tenpo pana:** 23/4/2025  
-**ante nanpa pini:** 8/8/2025  
-**kon lipu:** mi toki pona e lipu "Don Quijote de la Mancha" pi kon Sewante tan toki Epanjo.
-{{</details>}}
-
+details:
+- date: "23/4/2025"
+- edit: "10/8/2025"
+- note: mi toki pona e lipu "Don Quijote" pi kon Sewante tan toki Epanjo.
 ---
 
 lon ma lili lon ma Mansa la jan mani li lon; nimi ma la mi wile ala sona. jan mani li moku e moku pi mani ala. tomo ona la jan pali en jan pi kulupu mama sama li lon. sijelo ona li wawa ala li linja. ken la ona li kepeken anu nimi Kisala anu nimi Kesala.

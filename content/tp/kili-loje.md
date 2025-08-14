@@ -2,15 +2,9 @@
 title: kili loje
 date: 2025-05-29
 lang: tp
----
-
-# **kili loje**
-
-{{<details title="sona namako">}}
-**tenpo pana:** 29/5/2025  
-**kon lipu:** mi toki pona e [kalama musi "kalinka"](https://www.youtube.com/watch?v=oXIXwZWMXdg) tan toki Lusi.
-{{</details>}}
-
+details:
+- date: 29/05/2024
+- note: mi toki pona e kalama musi "kalinka" tan toki Lusi.
 ---
 
 kili loje li loje li loje li mi  

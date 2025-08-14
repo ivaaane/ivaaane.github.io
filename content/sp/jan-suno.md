@@ -2,16 +2,10 @@
 title: jan suno
 date: 2025-04-24
 lang: sp
----
-
-# jan suno
-
-{{<details title="sona namako">}}
-_tenpo pana la_ suno nanpa mute2 tu-wan lon mun nanpa tu-tu lon sike nanpa owe mute2 wan  
-_ante nanpa+pini la_ suno nanpa luka-luka la mun nanpa luka tu-wan la sike nanpa owe mute2 luka  
-_kon lipu la_ toki mun nanpa open lon lipu te ma suno to
-{{</details>}}
-
+details:
+- date: suno nanpa mute2 tu-wan lon mun nanpa tu-tu lon sike nanpa owe mute2 wan  
+- edit: suno nanpa luka-luka la mun nanpa luka tu-wan la sike nanpa owe mute2 luka  
+- note: toki mun nanpa open lon lipu te ma suno to
 ---
 
 open la sewi li kulupu e jan  

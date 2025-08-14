@@ -2,16 +2,9 @@
 title: ma tomo
 date: 2025-05-31
 lang: tp
----
-
-# **ma tomo**
-
-{{<details title="sona namako">}}
-**tenpo pana:** 31/5/2025  
-**ante nanpa pini:** 10/8/2025  
-**kon lipu:** toki mun nanpa tu lon lipu "ma suno".
-{{</details>}}
-
+details:
+- date: 31/5/2025
+- edit: 10/8/2025
 ---
 
 jan pi len jelo li toki tawa mun suli la, mun li suno wawa e ma tomo kin.

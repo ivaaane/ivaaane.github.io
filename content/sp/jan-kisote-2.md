@@ -1,17 +1,12 @@
 ---
 title: tawa nanpa wan pi jan Kisote
+header: nanpa tu la tawa nanpa wan pi(jan[kiwen,, sona,, tenpo,,])
 date: 2025-04-23
 lang: sp
----
-
-# _nanpa tu la_ tawa nanpa wan pi(jan [kiwen,, sona,, tenpo,,])
-
-{{<details title="sona namako">}}
-_tenpo pana la_ suno nanpa mute2 tu-wan la mun nanpa tu-tu la sike nanpa owe mute2 wan  
-_ante nanpa+pini la_ suno nanpa luka tu-wan la mun nanpa luka tu-wan la sike nanpa owe mute2 wan  
-_kon lipu la_ mi toki+pona e lipu [DON QUIJOTE DE LA MANCHA] pi(kon [sewi,,, ante,,,,]) tan toki [en pan,,, jo,,] 
-{{</details>}}
-
+details:
+- date: suno nanpa mute2 tu-wan la mun nanpa tu-tu la sike nanpa owe mute2 wan  
+- edit: suno nanpa luka tu-wan la mun nanpa luka tu-wan la sike nanpa owe mute2 wan  
+- note: mi toki+pona e lipu [DON QUIJOTE] pi(kon [sewi,,, ante,,,,]) tan toki [en pan,,, jo,,] 
 ---
 
 jan [kiwen,, sona,, tenpo,,] li wile ala awen awen  

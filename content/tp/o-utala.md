@@ -2,15 +2,10 @@
 title: o utala
 date: 2025-04-09
 lang: tp
----
-
-# **o utala**
-
-{{<details title="sona namako">}}
-**tenpo pana:** 9/4/2025  
-**kon lipu:** mi toki pona e [kalama musi "els segadors"](https://www.youtube.com/watch?v=Eyar4LaXg6w&t=106) tan toki Katala.
-{{</details>}}
-
+details:
+- date: 09/4/2025
+- edit: 8/8/2025
+- note: mi toki pona e kalama musi "els segadors" tan toki Katala.
 ---
 
 ma Katala suli o!  

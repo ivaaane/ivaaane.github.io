@@ -2,15 +2,9 @@
 title: o lukin e kala
 date: 2025-02-16
 lang: tp
----
-
-# **o lukin e kala**
-
-{{<details title="sona namako">}}
-**tenpo pana:** 16/2/2025  
-**kon lipu:** mi toki pona e [kalama musi "los peces en el río"](https://www.youtube.com/watch?v=3oxdXV7eA3Q) tan toki Epanjo.
-{{</details>}}
-
+details:
+- date: 16/2/2025
+- note: mi toki pona e kalama musi "los peces en el río" tan toki Epanjo.
 ---
 
 o lukin e kala  

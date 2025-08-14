@@ -2,15 +2,9 @@
 title: o utala
 date: 2025-04-09
 lang: sp
----
-
-# o utala
-
-{{<details title="sona namako">}}
-_tenpo pana la_ suno nanpa luka tu-wan la mun nanpa tu-tu la sike nanpa owe mute2 luka  
-_kon lipu la_ mi toki+pona e [kalama musi [ELS SEGADORS]](https://www.youtube.com/watch?v=Eyar4LaXg6w&t=106) tan toki [kasi,, tawa,, lawa,,]
-{{</details>}}
-
+details:
+- date: suno nanpa luka tu-wan la mun nanpa tu-tu la sike nanpa owe mute2 luka  
+- note: mi toki+pona e kalama musi [ELS SEGADORS] tan toki [kasi,, tawa,, lawa,,]
 ---
 
 ma [kasi,, tawa,, lawa,,] suli o  

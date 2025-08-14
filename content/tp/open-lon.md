@@ -2,16 +2,10 @@
 title: "open lon"
 date: 2025-03-29
 lang: tp
----
-
-# **open lon**
-
-{{<details title="sona namako">}}
-**tenpo pana:** 29/3/2025  
-**ante nanpa pini:** 8/8/2025  
-**kon lipu:** ni li toki e open ale lon sona pi jan suno; jan suno li tan tenpo pini a. ni li open e lipu "ma suno".
-{{</details>}}
-
+details:
+- date: "29/3/2025"
+- edit: "8/8/2025"
+- note: "lipu li toki e open ale kepeken sona pi jan suno; jan suno li tan tenpo pini a. ni li open e lipu \"ma suno\"."
 ---
 
 open la, ala li lon. ale li pimeja. ijo wan taso li lon: ijo li ken ala lukin, taso ijo li pilin. ijo li luka e ma lon anpa ona, e kiwen e ko e telo, li wile lukin e ma. taso pimeja li ken ala e lukin.

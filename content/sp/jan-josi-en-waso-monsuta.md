@@ -1,17 +1,12 @@
 ---
 title: jan Josi en waso monsuta
+header: jan [jo,, sin,,] en waso monsuta
 date: 2025-04-23
 lang: sp
----
-
-# jan [jo,, sina,,] en waso monsuta
-
-{{<details title="sona namako">}}
-_tenpo pana la_ suno nanpa mute1 tu-wan lon mun nanpa tu-tu lon sike nanpa owe mute2 wan  
-_ante nanpa+pini la_ suno nanpa luka-luka la mun nanpa luka tu-wan la sike nanpa owe mute2 luka  
-_kon lipu la_ kulupu mute lon ma [e loje,, pan,,] li toki e musi ni
-{{</details>}}
-
+details:
+- date: suno nanpa mute1 tu-wan lon mun nanpa tu-tu lon sike nanpa owe mute2 wan
+- edit: suno nanpa luka-luka la mun nanpa luka tu-wan la sike nanpa owe mute2 luka
+- note: kulupu mute lon ma [e loje,, pan,,] li toki e musi ni
 ---
 
 tenpo pini suli a la  
@@ -28,7 +23,7 @@ pilin monsuta la
 zz meli li tawa tomo waso  
 
 waso li wile open moku e meli la  
-zz jan [jo,, sina,,] li kama  
+zz jan [jo,, sin,,] li kama  
 kepeken palisa kiwen walo la  
 zz jan wawa ni^ li utala e waso akesi  
 utala li suli li ike  
@@ -36,8 +31,7 @@ zz taso jan pona li moli e waso lon pini
 
 telo loje li kama tan insa waso  
 zz li mama e kasi suwi loje tan ma  
-jan [jo,, sina,,] li jo e kasi  
+jan [jo,, sin,,] li jo e kasi  
 zz li pana e ona tawa meli  
 kulupu li pini pilin monsuta  
 zz li kama pilin pona
-

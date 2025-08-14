@@ -2,16 +2,10 @@
 title: jan suno
 date: 2025-04-24
 lang: tp
----
-
-# **jan suno**
-
-{{<details title="sona namako">}}
-**tenpo pana:** 25/4/2025  
-**ante nanpa pini:** 10/8/2025  
-**kon lipu:** toki mun nanpa open lon lipu "ma suno".
-{{</details>}}
-
+details:
+- date: 24/04/2024
+- edit: 10/8/2025
+- note: toki mun nanpa open lon lipu "ma suno".
 ---
 
 open la, sewi li kulupu e jan li suno. jan mute li pakala tan suno. taso, jan pona li olin e sewi la, ona li ken lukin pona e suno. suno la jan pona li lukin e kule ale e kule pi lon ala, li kama sona e tan ale, li kute e kalama sewi.
