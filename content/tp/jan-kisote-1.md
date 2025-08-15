@@ -9,7 +9,7 @@ details:
 - note: mi toki pona e lipu "Don Quijote" pi kon Sewante tan toki Epanjo.
 ---
 
-lon ma lili lon ma Mansa la jan mani li lon; nimi ma la mi wile ala sona. jan mani li moku e moku pi mani ala. tomo ona la jan pali en jan pi kulupu mama sama li lon. sijelo ona li wawa ala li linja. ken la ona li kepeken anu nimi Kisala anu nimi Kesala.
+lon ma lili lon ma Mansa la, jan mani li lon; nimi ma la mi wile ala sona. jan mani li moku e moku pi mani ala. tomo ona la jan pali en jan pi kulupu mama sama li lon. sijelo ona li wawa ala li linja. ken la ona li kepeken anu nimi Kisala anu nimi Kesala.
 
 jan mani ni li lape la, ona li lukin e lipu musi pi jan utala. ona li musi mute la ona li pali lili. ona li esun e ma ona li kama jo e lipu mute mute a. lipu pi pona nanpa wan tawa jan mani li tan jan Pelikano. lipu ni li toki e «tan pi tan ala li tan e pali mi la tan mi li lili li ike e mi tan sina» e «sewi la mun sewi sewi li awen e sina sewi li ken e ken sina pi ken suli».
 

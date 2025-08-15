@@ -4,7 +4,7 @@ date: 2025-08-09
 lang: tp
 details:
 - date: 9/8/2025
-- note: mi pana e lipu ni tawa utala musi pi toki pona. pini utala la mi nanpa tu a!
+- note: mi pana e lipu ni tawa [utala musi pi toki pona](https://utala.pona.la). pini utala la mi nanpa tu a!
 ---
 
 taso.

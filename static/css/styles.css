@@ -15,13 +15,13 @@ body {
     margin: 0 auto;
     padding: 1rem;
     text-align: justify;
+    hyphens: auto;
     line-height: 175%;
 }
 
 h1, h2, h3 {
     text-align: center;
     font-size: 100%;
-    padding: 1rem;
 }
 
 h2, h3 {
@@ -55,8 +55,8 @@ img {
     background-color: var(--page);
     border: 1px solid var(--text);
     padding: 3rem;
-    padding-bottom: 1rem;
-    padding-top: 1rem;
+    padding-bottom: 2rem;
+    padding-top: 2rem;
     position: relative;
 }
 
@@ -65,7 +65,7 @@ img {
 }
 
 .right {
-    text-align: right;
+    text-align: right !important;
 }
 
 .foot {
@@ -82,8 +82,8 @@ img {
 .ss {
     width: 20%;
     display: block;
-    margin-left: auto;
-    margin-right: auto;
+    margin-left: auto !important;
+    margin-right: auto !important;
 }
 
 .rss {
@@ -98,15 +98,23 @@ img {
 }
 
 /* langs */
+@font-face {
+    font-family: "nasin-nanpa";
+    src: url("../fonts/nasin-nanpa-5.0.0-beta.2.otf") format("opentype");
+}
 
-.eo {
-    font-family: "Times New Roman";
-    font-size: 110%;
+
+.tp, .eo, .es {
+    font-family: "Open Sans", serif;
+    font-size: 90%;
+    line-height: 180%;
 
     h1, h2, h3 {
         font-weight: normal;
     }
+}
 
+.eo, .es {
     h1 {
         text-transform: uppercase;
     }
@@ -116,21 +124,20 @@ img {
     }
 }
 
-@font-face {
-    font-family: "nasin-nanpa";
-    src: url("../fonts/nasin-nanpa-5.0.0-beta.2.otf") format("opentype");
-}
-
 .sp {
     font-family: nasin-nanpa, sans-serif;
+    text-align: left;
+    
+    p {
+        margin-bottom: 5%;
+    }
 
     h1 {
         font-size: 120%;
-        font-style: normal;
     }
 
-    h2 {
-        font-style: normal;
+    h1, h2 {
+        font-weight: normal;
     }
 
     b, em {
@@ -139,15 +146,7 @@ img {
     }
 }
 
-.tp {
-    font-family: Tahoma, sans-serif;
-    font-size: 90%;
-
-    em {
-        color: gray;
-    }
-}
-
+/* mobile */
 @media (max-width: 600px) {
     body {
         padding: 0;
