@@ -101,35 +101,25 @@ Je ĉi tiu agrabla perspektivo, doktoro Trifulgo redormis pli profunde ol antaŭ
 
 # IV
 
-Malfacila viro, estis doktoro Trifulgo. Senkompatema, sanigis nur pagita metale antaŭtempe. Lia maljuna Hurzofo --- kruciĝo de buldogo kaj ŝpico --- estis pli kompatema ol li. La domo Ses-Kvaro, negastama al malriĉuloj, estas malfermitia nur por la riĉuloj. Krome, estis tarifo: kaj pro tifoida febro, kaj pro kongesto, kaj por perikardiito kaj aliaj malsanaĵoj, kiun la sanigistoj elpensas dekduope. Do, la bakisto Vort Kartifo estis malriĉa viro el mizera familio. Kial doktoro Trifulgo ĝenu sin, kaj en tia nokto?
+Frritt!... Flakk!... kaj poste, frok!... frok!... frok!...
 
---- Nur ellitigi min, murmuris reenlitiĝante, valis dek fretzojn!
+Al la ventopuŝo kuniĝas nun tri frapoj, faritaj de pli delikata mano. La doktoro dromas. Li ellitiĝas, sed kia humoro! Malfermante la fenestron, la uragano eniras kiel mitrajlo.
 
-Apenaŭ dudek minutoj pasis, kiam la fera frapilo rebatis la pordon de Ses-Kvaro.
+--- Estas pro la bakisto...
 
-Grumblante, la doktoro forlasis sian liton, kaj rigardis tra la fenestro:
+--- Denove tiu aĉulo!
 
---- Kiu estas? li kriis.
+--- Mi estas lia patrino!
 
---- Estas mi, la edzino de Vort Kartifo.
+--- La patrino, la edzino kaj la filino kreviĝu knun li!
 
---- La bakisto de Vort Karnioŭ'?
+--- Li suferis atakon!
 
---- Jes, kaj se vi neas veni, li mortos!
+--- Do li defendu sin!
 
---- Bone, vi estos vivdino!
+--- Al ni estis donita iom da mono, pludiras la maljunulino, antaŭpago pro la domo, kiun ni vendis al [] Dontrupo, el strato Misagio. Se vi ne venas, mia nepino ne plu havos patron, mia bofilino ne plu havos edzon, kaj mi mem ne plu havos filon!
 
---- Jen dudek fretzoj...
-
---- Dudek fretzoj, por iri al Val Karnioŭ', kvar kertsojn de ĉi tie!
-
---- Bonvolu!
-
---- Al diablo!
-
-Kaj la fenestro refermitis. Dudek fretzoj! Bela prezo! Riski malvarmumi aŭ havi postekzercan doloron por dudek fretzoj, precipe kiam, morgaŭ, antendas min en Kiltreno, ĉe riĉulo Edzingovo, la podagrulo, kies podagro estas eksplutata por kvindek fretzoj vizitope!
-
-Je ĉi tiu agrabla perspektivo, doktoro Trifulgo redormis pli profunde ol antaŭe.
+Estas
 
 ---
 

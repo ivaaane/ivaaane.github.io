@@ -38,20 +38,20 @@ zzzzzz _mi pana lon tenpo kama_
 
 ---
 
-# jan [kiwen,, sona,, tenpo,,] pi(ma [mani,,, sama,,])
-
-mi toki+pona e lipu suli [DON QUIJOTE] pi(kon [sewi,,, ante,,,,]) tan toki [en pan,,, jo,,]  
-zz _nanpa wan la_ [sona en pali pi(jan [kiwen,, sona,, tenpo])](jan-kisote-1)  
-zz _nanpa tu la_ [tawa nanpa wan pi(jan [kiwen,, sona,, tenpo])](jan-kisote-2)
-
----
-
 # musi lili
 
 lipu ni mute li kulupu ala li lili  
 zz [o lukin](o-lukin) _li toki pilin lili_  
 zz [jan [jo,, sina,,] en waso monsuta](jan-josi-en-waso-monsuta) _li toki musi pi(tenpopini)tan ma [en loje,, pan,,]_  
 zz [jan suli kasi](jan-suli) _la kulupu [kasi,, tawa,, lawa,,] li toki e kalama musi tan ni_  
+
+---
+
+# jan [kiwen,, sona,, tenpo,,] pi(ma [mani,,, sama,,])
+
+mi toki+pona e lipu suli [DON QUIJOTE] pi(kon [sewi,,, ante,,,,]) tan toki [en pan,,, jo,,]  
+zz _nanpa wan la_ [sona en pali pi(jan [kiwen,, sona,, tenpo])](jan-kisote-1)  
+zz _nanpa tu la_ [tawa nanpa wan pi(jan [kiwen,, sona,, tenpo])](jan-kisote-2)
 
 ---
 
@@ -67,3 +67,10 @@ zz [jan [kama,,, esun laso,,]](jan-kamela) zzzzzz _tan toki [en pan,,, jo,,]_
 zz [o utala](o-utala) zzzzzzzzzzzz  _tan toki [kasi,, tawa,, lawa,,]_  
 zz [kili loje](kili-loje) zzzzzzzzzzzz _tan toki [lupa,, sina,,]_  
 zz [suno suwi o](suno) zzzzzzzzzz _tan toki [kasi,, tawa,, lawa,,]_  
+
+---
+
+# sona
+
+mi pana e sona e musi ala  
+zz [soko2 li seme](soko-li-seme)

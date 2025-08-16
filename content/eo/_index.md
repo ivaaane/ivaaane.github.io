@@ -13,4 +13,8 @@ Saluton~ mi estas sieni (retnomo, skribu minuskle), malprofesia skribanto kaj aÄ
 
 ---
 
-_Nune estas nenio tie. Bonvolu atendi!_
+## Verkoj
+
+Mi sekciigos Ä‰ion.
+
+* [Hajkoj](hajkoj) -- hajkoj faritaj de mi :3
