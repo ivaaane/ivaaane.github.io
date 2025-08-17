@@ -34,7 +34,7 @@ toki mun la
 zzzzzz [jan suno](jan-suno) _la jan suno li len lon nena li tu_  
 zzzzzz [ma tomo](ma-tomo) _la jan suno pi(matomo) li utala e lawa_  
 toki jan la  
-zzzzzz _mi pana lon tenpo kama_  
+zzzzzz [olin mama](olin-mama) _la jan [esun sitelen,,] li kama lon kulupu [nasa,, lawa,,]_
 
 ---
 

@@ -17,4 +17,4 @@ Saluton~ mi estas sieni (retnomo, skribu minuskle), malprofesia skribanto kaj aÄ
 
 Mi sekciigos Ä‰ion.
 
-* [Hajkoj](hajkoj) -- hajkoj faritaj de mi :3
+* [Hajkoj](hajkoj)

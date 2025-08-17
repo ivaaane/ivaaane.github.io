@@ -178,6 +178,6 @@ taso ona li pali
 utala li pini ala  
 
 [toki mun la o lukin e lipu kama](../jan-suno)  
-[toki jan la o lukin e lipu kama]()
+[toki jan la o lukin e lipu kama](../olin-mama)
 {.details .right}
 

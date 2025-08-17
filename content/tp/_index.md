@@ -38,7 +38,7 @@ _toki mun_
 
 _toki jan_
 
-* _mi pana lon tenpo kama._
+* [olin mama](olin-mama) la jan Esi li kama lon kulupu Nala.
 
 ---
 

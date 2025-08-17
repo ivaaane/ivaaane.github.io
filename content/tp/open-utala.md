@@ -42,6 +42,6 @@ jan Nala li wile moli e jan Atali, taso ona li awen ken ala. ona li weka e sike 
 jan Atali li weka. pakala li suli. jan pona mute li moli. jan Atali li pilin ike a! tenpo mute la ona li utala ala. taso ona li pali. utala li pini ala.
 
 [toki mun la o lukin e lipu kama](../jan-suno)  
-[toki jan la o lukin e lipu kama]()
+[toki jan la o lukin e lipu kama](../olin-mama)
 {.details .right}
 
