@@ -3,18 +3,38 @@ title: Hajkoj
 lang: eo
 ---
 
-Soleca arbo  
+## Somero 2025
+
+soleca arbo  
 origata de vesper'  
 en tritikejo
 
 <br>
 
-Ĉiel' sen nuboj --  
-Nenio ja videblas  
+ĉiel' sen nuboj --  
+nenio ja videblas  
 ĉe blava sonĝo  
 
 <br>
 
-Kaŝas sin en flor'  
+kaŝas sin en flor'  
 malfortega insekto --  
-Helaj koloroj  
+ĝiaj koloroj helas
+
+<br>
+
+riveret' kuras  
+eterne inter rokoj  
+apud la vojo  
+
+<br>
+
+kreskas sur ŝtonoj  
+kaj likenoj kaj muskoj --  
+etaj detaloj  
+
+<br>
+
+post la pluveto  
+herbojn lumigas la sun'
+kaj verd' ekbrilas  
