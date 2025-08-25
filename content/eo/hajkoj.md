@@ -36,5 +36,5 @@ etaj detaloj
 <br>
 
 post la pluveto  
-herbojn lumigas la sun'
+herbojn lumigas la sun'  
 kaj verd' ekbrilas  
