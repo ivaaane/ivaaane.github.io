@@ -2,6 +2,7 @@
 
 <div class="{{ .Params.lang }}">
     <div class="box">
+        {{ partial "theme.html" . }}
         <h1>{{or .Params.header .Title}}</h1>
         {{ partial "details.html" . }}
     </div><br/>

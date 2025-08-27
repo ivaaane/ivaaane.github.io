@@ -14,7 +14,7 @@ outputs:
 toki a! mi soko sijeni. mi mama e lipu la mi pana tawa poki ni. awen o pona!!!
 
 [o lukin kepeken sitelen pona](/sp)
-{.sp .details .right}
+{.sp .right}
 
 ---
 

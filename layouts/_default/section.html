@@ -2,6 +2,7 @@
 
 <div class="{{ .Params.lang }}">
     <div class="box">
+    {{ partial "theme.html" . }}
     {{ replace .Content "<hr>" "</div><br/><div class='box'>" | safeHTML}}
     </div>
     {{ partial "back.html" (dict "string" "select" "context" .) }}

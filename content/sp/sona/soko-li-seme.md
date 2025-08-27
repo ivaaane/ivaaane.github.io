@@ -1,5 +1,6 @@
 ---
-title: soko2 li seme
+title: soko li seme
+header: soko2 li seme
 date: 2025-06-29
 lang: sp
 details:

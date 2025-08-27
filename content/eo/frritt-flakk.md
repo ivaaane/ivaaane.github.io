@@ -81,7 +81,7 @@ Grumblante, la doktoro forlasis sian liton, kaj rigardis tra la fenestro:
 
 --- Jes, kaj se vi neas veni, li mortos!
 
---- Bone, vi estos vivdino!
+--- Bone, vi estos vivdo!
 
 --- Jen dudek fretzoj...
 

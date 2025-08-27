@@ -3,7 +3,7 @@ title: Hajkoj
 lang: eo
 ---
 
-## Somero 2025
+## Somero, 2025
 
 soleca arbo  
 origata de vesper'  
@@ -19,7 +19,7 @@ nenio ja videblas
 
 kaŝas sin en flor'  
 malfortega insekto --  
-ĝiaj koloroj helas
+helas la kolor'
 
 <br>
 

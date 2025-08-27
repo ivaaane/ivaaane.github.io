@@ -2,8 +2,9 @@
 title: sieni
 ---
 
-<video controls loop><source src="/media/miku.mp4" type="video/mp4" alt="miku.mp4"></video>
-
+![miku.gif](/media/miku.gif)
+{.miku}
+ 
 </div><br><div class='box'>
 
 [o lukin lon toki+pona pi(sitelen+pona) ](/sp)

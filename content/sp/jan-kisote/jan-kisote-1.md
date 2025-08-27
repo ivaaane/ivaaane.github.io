@@ -4,9 +4,9 @@ header: nanpa wan la sona en pali pi jan [kiwen,, sona,, tenpo,,]
 date: 2025-04-23
 lang: sp
 details:
-- date: suno nanpa mute2 tu-wan la mun nanpa tu-tu la sike nanpa owe mute2 wan  
-- edit: suno nanpa luka tu-wan la mun nanpa luka tu-wan la sike nanpa owe mute2 wan  
-- note: mi toki+pona e lipu [DON QUIJOTE] pi(kon [sewi,,, ante,,,,]) tan toki [en pan,,, jo,,]  
+  - date: suno nanpa mute2 tu-wan la mun nanpa tu-tu la sike nanpa owe mute2 wan
+  - edit: suno nanpa luka tu-wan la mun nanpa luka tu-wan la sike nanpa owe mute2 wan
+  - note: mi toki+pona e lipu [DON QUIJOTE] pi(kon [sewi,,, ante,,,,]) tan toki [en pan,,, jo,,]
 ---
 
 lon ma lili lon ma [mani,,, sama,,] la jan mani li lon  
