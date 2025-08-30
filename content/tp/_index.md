@@ -36,6 +36,8 @@ _toki mun_
 
 * [ma tomo](ma-tomo) la jan suno pi ma tomo li utala e lawa.
 
+* [pona sama](pona-sama) la jan suli li kama sona e pona sama.
+
 _toki jan_
 
 * [olin mama](olin-mama) la jan Esi li kama lon kulupu Nala.
