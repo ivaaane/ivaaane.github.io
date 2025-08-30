@@ -178,7 +178,7 @@ img {
 @media (max-width: 600px) {
     body {
         padding: 0;
-        font-size: 90%;
+        font-size: 75%;
     }
     video {width: 50%;} 
     .box {
