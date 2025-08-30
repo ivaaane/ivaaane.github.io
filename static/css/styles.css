@@ -26,7 +26,7 @@ body.dark-mode {
 body {
     background-color: var(--bg);
     color: var(--text);
-    max-width: 45rem;
+    max-width: 50rem;
     margin: 0 auto;
     padding: 1rem;
     text-align: justify;
@@ -62,9 +62,9 @@ img {
 .box {
     background-color: var(--page);
     border: 1px solid var(--text);
-    padding: 3rem;
-    padding-bottom: 2rem;
-    padding-top: 2rem;
+    padding: 2rem;
+    padding-bottom: 1rem;
+    padding-top: 1rem;
     position: relative;
     box-shadow: 1px 1px;
 }
@@ -118,7 +118,11 @@ img {
     display: block;
     margin-left: auto;
     margin-right: auto;
-    width: 25%;
+    width: 20%;
+}
+
+.buttons {
+    text-align: center;
 }
 
 /* langs */
@@ -174,10 +178,15 @@ img {
 @media (max-width: 600px) {
     body {
         padding: 0;
-        font-size: 100%;
+        font-size: 90%;
     }
     video {width: 50%;} 
-    .box {padding: 1rem;}
+    .box {
+        padding: 1rem;
+        border-left: 0;
+        border-right: 0;
+        box-shadow: 0 0;
+    }
     .ss {width: 30%;}
     .rss {display: none;}
     .mobile {display: block;}

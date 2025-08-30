@@ -5,8 +5,6 @@ title: sieni
 ![miku.gif](/media/miku.gif)
 {.miku}
  
-</div><br><div class='box'>
-
 [o lukin lon toki+pona pi(sitelen+pona) ](/sp)
 {.sp}
 
