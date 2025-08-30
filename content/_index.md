@@ -15,3 +15,6 @@ title: sieni
 
 [vidi en Esperanto](/eo)
 {.eo}
+
+[ver en español](/es)
+{.es}

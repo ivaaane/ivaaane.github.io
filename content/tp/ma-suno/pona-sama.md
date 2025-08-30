@@ -3,7 +3,7 @@ title: pona sama
 lang: tp
 ---
 
-sin la, jan suno pi ma nena li wan, li wile pali e ijo sin tan wile. ona li kama pali e tomo mute. tomo li tan kiwen pona tan anpa tan kasi, li poki e tomo lili mute. jan wawa mute li kulupu tawa pali.
+sin la, jan suno pi ma nena li wan, li wile pali e ijo sin. ona li kama pali e tomo mute. tomo li tan kiwen pona tan anpa tan kasi, li poki e tomo lili mute. jan wawa mute li kulupu tawa pali.
 
 jan suli en jan lili li lon kulupu pali. ona tu li tan mama sama. jan suli li wawa li pali e tomo suli. jan suli li pilin suli a! jan lili li pali e tomo lili, taso ona li sona kule pona. jan pi len jelo li lukin e tomo ale la, tomo ale li pona sama tawa ona. jan suli li pilin ike. ona li wile suli nanpa wan a! jan ante o anpa. ona li wile utala e jan lili.
 

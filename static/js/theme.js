@@ -3,9 +3,7 @@ const body = document.body;
 
 function loadTheme() {
   const savedTheme = localStorage.getItem('theme');
-  // Set theme and checkbox state
-  if (savedTheme === 'dark' || 
-      (savedTheme === null && window.matchMedia('(prefers-color-scheme: dark)').matches)) {
+  if (savedTheme === 'dark' || (savedTheme === null && window.matchMedia('(prefers-color-scheme: dark)').matches)) {
     body.classList.add('dark-mode');
     if (toggle) toggle.checked = true;
   } else {
@@ -14,7 +12,6 @@ function loadTheme() {
   }
 }
 
-// Only run JS if toggle exists
 if (toggle) {
   toggle.addEventListener('change', () => {
     if (toggle.checked) {
