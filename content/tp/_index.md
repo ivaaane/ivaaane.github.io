@@ -89,6 +89,8 @@ mi toki pona e kalama musi tan toki ante mute. mi sona ala kalama uta, taso mi s
 
 * [suno suwi o](suno), tan toki Katala
 
+* [soko lili](soko-lili), tan toki Katala
+
 ---
 
 # _sona_

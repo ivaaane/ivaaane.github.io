@@ -1,6 +1,10 @@
 ---
 title: Bonaj Aŭguroj
 lang: eo
+date: 2025-08-31
+details:
+- date: 31/8/2025
+- note: Traduko de la enkonduko de la roluloj de Good Omens; originale verkis angle Neil Gaiman kaj Terry Pratchett en 1990.
 ---
 
 Rakontado pri Certaj Eventoj okazintaj je la lastaj dek unu jaroj de la homa historio, laŭ strikta konformo, kiel estos montrita, al:

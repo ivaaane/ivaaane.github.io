@@ -1,6 +1,10 @@
 ---
 title: En la komenco
 lang: eo
+date: 2025-08-31
+details:
+- date: 31/8/2025
+- note: Traduko de la prologo de Good Omens; originale verkis angle Neil Gaiman kaj Terry Pratchett en 1990.
 ---
 
 Estis agrabla tago.

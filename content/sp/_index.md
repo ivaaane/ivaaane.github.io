@@ -68,6 +68,7 @@ zz [jan [kama,,, esun laso,,]](jan-kamela) zzzzzz _tan toki [en pan,,, jo,,]_
 zz [o utala](o-utala) zzzzzzzzzzzz  _tan toki [kasi,, tawa,, lawa,,]_  
 zz [kili loje](kili-loje) zzzzzzzzzzzz _tan toki [lupa,, sina,,]_  
 zz [suno suwi o](suno) zzzzzzzzzz _tan toki [kasi,, tawa,, lawa,,]_  
+zz [soko2 lili](soko-lili) zzzzzzzzzzzz _tan toki [kasi,, tawa,, lawa,,]_  
 
 ---
 
