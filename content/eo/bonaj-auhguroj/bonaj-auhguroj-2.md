@@ -1,0 +1,68 @@
+---
+title: Antaŭ dek unu jaroj
+lang: eo
+---
+
+Nunaj teorioj pri la kreado de la Universo deklaras, ke se ĝi estis kreita entute kaj ne simple komenciĝis, tiel diri, neoficiale, ĝi ekestis antaŭ inter dek kaj dudek mil milionoj da jaroj. Sammaniere la tero mem supozeble aĝas ĉirkaŭ kvar kaj duonon mil milionojn da jaroj.
+
+Tiuj datoj estas malĝustaj.
+
+Mezepokaj judaj akademianoj datigis la Kreon je 3760 a.K. Grekaj ortodoksaj teologoj datigis la Kreon jam je 5508 a.K.
+
+Ankaŭ tiuj sugestoj estas malĝustaj.
+
+Ĉefepiskopo Jakobo Uŝero (1580-1656) publikigis *Annales Veteris et Novi Testaments* en 1654, kiu sugestis, ke la Ĉielo kaj la Tero estis kreita je 4004 a.K. Unu el liaj asistantoj pliprofundigis la kalkulon, kaj eblis al li anonci triumfe, ke la Tero estis kreita dimanĉe 21-an de oktobro, 4004 a.K., precize je la 9:00 matene, ĉar Dio ŝatis fini la laboron frue matene dum Li sentis freŝa.
+
+Ankaŭ tiu estas malĝusta. Pro preskaŭ kvarono da horo.
+
+La tuta afero pri la fosiliaj dinosaŭraj skeletoj estis ŝerco, kiun paleontologoj ankoraŭ ne vidas.
+
+Tio pruvas du aferojn:
+
+Unue, Dio moviĝas laŭ ekstreme misteraj, por ne diri, sinuaj manieroj. Dio ne ludas ĵetkubojn per la universo; Li ludas neesprimeblan ludon de sia propra kreivo, kiun oni povus kompari, laŭ la perspektivo de iu ajn alia ludanto, [t.e., ĉiuj] al partoprenado ĉe obskura kaj kompleksa versio de pokero en tre malluma ĉambro, kun malplenaj kartoj, dum senfinaj vetoj, kun krupiisto, kiu ne diras al vi la regulojn, kaj *ĉiam ridetas*.
+
+Due, la Tero estas Pesilo.
+
+La astrologia antaŭdiro pri Pesilo en la "Viaj Steloj Hodiaŭ" kolumno el Tadfield-Anoncanto, en la tago kiam ĉi rakonto komenciĝas, legas kiel tiu:
+
+*PESILO. 24-a de septembro al 23-a de oktobro.
+
+*Eble vi sentas vin elĉerpita kaj ĉiam en la sama malnova ĉiutaga rondo. Hejmaj kaj familiaj aferoj estas elstaraj kaj pendas de fajro. Evitu nenecesajn riskojn. Amiko estas grava por vi. Flankenigu gravajn decidojn ĝis la vojo antaŭen ŝajnas klara. Eble vi estas vundebla al stomakdoloro hodiaŭ, do evitu salatojn. Helpo povas alveni de neatendita loko.*
+
+Ĉi tiu estis perfekte ĝusta laŭ ĉiuj aspektoj, krom la parteto pri la salatoj.
+
+{{<div>}}
+
+Ne estis malluma kaj tempesta nokto.
+
+Ĝi devis esti, sed tiel estas la vetero. Por ĉiu freneza sciencisto, kiu havis oportunan tempeston ĝuste en la nokto kiam lia Granda Laboro kompletiĝis kaj kuŝis sur la tero, estas dek duoj da aliaj, kiuj sidis senplane sub la trankvilaj steloj dum Igor akumulas kromtempon.
+
+Sed ne lasu la nebulo (kun pluvo poste, temperaturo falanta al ĉirkaŭ kvardek kvin gradoj) doni al oni malveran senton de sekureco. Nur ĉar estas milda nokto, ne signifas, ke la obskuraj fortoj ne estas ekstere. Ili estas ekstere ĉiam. Ili estas *ĉie*.
+
+Ili estas ĉiam. Tio estas la tuta afero.
+
+Du el ili gvatis en la ruinita tombejo. Du ombraj formoj, unu kurbiginta kaj kaŭra, la alia maldika kaj minaca, ambaŭ Olimpiko-nivelaj gvatantoj. Se Bruce Springsteen registrus "Naskita por Gvati", ĉi tiuj du estus en la albumkovrilo. Ili jam gvatis en la nebulo dum du horoj, sed ili paŝiĝis kaj povis gvati dum la tuta nokto se necesus, kun ankoraŭ sufiĉe da aspra minaco por fina eksplodo da gvatado je la mateniĝo.
+
+Fine, post pliaj dudek minutoj, unu el ili diris: "Al la infero kun tio. Li estu ĉi tie antaŭ *horoj*."
+
+La nomo de la parolanto estis Hasturo. Li estis Duko de Infero.
+
+{{<div>}}
+
+Multaj fenomenoj —militoj, plagoj, subitaj revizoradoj— estas proponitaj pruvoj pro la kaŝita mano de Satano en la Homaj aferoj, sed kiam ajn demonologiaj studentoj renkontiĝas, la Londona orbita aŭtovojo M25 estas interkonsentite inter la ĉefaj kandidatoj por Ekspozicaĵo A.
+
+Kie ili eraras, kompreneble, estas en supozi, ke la vojaĉo estas malica nur por la nekredebla masakro kaj frustriĝo, kiujn ĝi kaŭzas ĉiutage.
+
+Fakte, malmultaj homoj sur la planedo scias, ke la formo de la M25 estas same ol la simbolo *odegra* laŭ la lingvo de la Nigra Pastaro el Antikva Muo, kaj signifas "Honoru la Grandan Beston, Manĝanton de Mondoj." La miloj da veturantoj, kiuj ĉiutage furiozas tra ĝiaj serpentaj longoj, kaŭzas la saman efikon kiel akvo en preĝorado, muelante senfinan nebulon de malaltgrada malbono por polui la metafizikan atmosferon en dekoj da mejloj ĉirkaŭe.
+
+Ĝi estis unu el plej grandaj sukcesoj de Kroŭlo. Daŭris *jarojn* al li por fini ĝin, kaj implikis tri komputilajn atakojn, du enrompojn, unu subaĉetadeton kaj, humidan nokton kiam ĉio alia fiaskis, du horojn en ŝlima kampo movante la markilojn je kelkaj sed sekrete signifaj metroj. Kiam Kroŭlo vidis la unuan trafikobstrukcon, li spertis la karan varman senton de malbona laboro bone farita.
+
+Ĝi gajnis al li honoran mencion.
+
+Kroŭlo nun veturis je 110 meijloj hore ie oriente de Slough. Neniu pri li aspektis aparte demona. Nek kornoj nek flugiloj. Konfesinde li aŭskultadis _Plej Bonaj el Queen_ bendon, sed neniuj konkludoj estu faritaj pro tio, ĉar ĉiuj bendoj lasitaj sur aŭto dum pli ol duonmonato metamorfoziĝas _Plej Bonaj el Queen_ albumo. Ne apartaj demonaj pensoj trairis lian kapon. Fakte, li nun scivolis svage, kiuj estis Moey kaj Chandon.
+
+Kroŭlo havis malhelajn harojn kaj bonajn vangostojn, kaj li surportis serpenthaŭtajn ŝuojn, aŭ almenaŭ probable li portis ŝuojn, kaj li povis fari tre strangaj aferoj per sia lango. Kaj, kiam li malatentiĝis, li havis tendencon fajfi.
+
+Li ankaŭ ne multe palpebrumis.
+
+La aŭto, kiun li stiris, estis 1926 nigra Bentlejo, de nur unu posedanto ekde nova, kaj ĉi posedanto estis Kroŭlo. Li flegis ĝin.

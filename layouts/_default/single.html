@@ -10,7 +10,9 @@
     </div><br/>
 
     <div class="box">
-    {{ replace .Content "<hr>" "</div><br/><div class='box'>" | safeHTML}}
+        <br>
+        {{ replace .Content "<hr>" "<br></div><br/><div class='box'><br>" | safeHTML}}
+        <br>
     </div>
 
     {{ partial "back.html" (dict "string" "back" "context" .) }}
