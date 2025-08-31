@@ -30,4 +30,3 @@ taso... seme li kama tawa jan suno pi ma tomo suli?
 
 [o lukin e lipu kama](../ma-tomo)
 {.details .right}
-

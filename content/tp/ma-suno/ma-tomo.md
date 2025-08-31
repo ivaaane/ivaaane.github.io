@@ -31,3 +31,5 @@ jan ike li tawa ma lawa ante li toki tawa jan lawa. ona li wile lawa sin e ma to
 
 jan lawa ante li pilin monsuta tan jan suno. jan suno li wile pana e sona sewi tawa ma ale. tenpo kama la utala li lon.
 
+[o lukin e lipu kama](../pona-sama)  
+{.details .right}

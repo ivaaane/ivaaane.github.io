@@ -33,6 +33,7 @@ zzzzzz [open utala](open-utala) _la jan [nasa,, lawa,,] en jan [ante taso,, linj
 toki mun la  
 zzzzzz [jan suno](jan-suno) _la jan suno li len lon nena li tu_  
 zzzzzz [ma tomo](ma-tomo) _la jan suno pi(matomo) li utala e lawa_  
+zzzzzz [pona sama](pona-sama) _la jan suli li kama sona e pona sama_  
 toki jan la  
 zzzzzz [olin mama](olin-mama) _la jan [esun sitelen,,] li kama lon kulupu [nasa,, lawa,,]_
 

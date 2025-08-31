@@ -27,7 +27,7 @@ La anĝelo de la Orienta Pordego etendis siajn flugilojn super sian kapon por pr
 
 "Pli bone ne spekulativi, vere," diris Azirafalo. "Oni ne povas dubi neesprimeblaĵojn. Ĉiam mi diras, ke ekzistas Ĝusto kaj ekzistas Malĝusto. Se oni faras Malĝuste kiam oni faru Ĝuste, oni meritas punon. Ehm."
 
-Ili sidis embarase silente, rigardante la pluvgutojn kontuzi la unuajn florojn.
+Ili sidis embarase silente, rigardante la pluvgutojn kontuzantajn la unuajn florojn.
 
 Fine Kraŭlo diris, "Ĉu vi ne havis flaman glavon?"
 
