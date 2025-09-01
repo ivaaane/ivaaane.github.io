@@ -57,6 +57,15 @@ img {
     height: auto;
 }
 
+table {
+    width: 100%;
+    height: 100%;
+}
+
+th, td {
+    padding: 10px;
+}
+
 /* classes */
 
 .box {

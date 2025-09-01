@@ -11,7 +11,7 @@ outputs:
 
 <br>
 
-Saluton~ mi estas sieni (retnomo, skribu minuskle), malprofesia skribanto kaj aĵo-faristo el mediteranea Hispanio. Tiu ĉi estas mia persona arkivo, kie mi gardas ĉiujn verkojn fare de mi. Ĉefe mi skribas en [Tokipono](/sp), en kiu mi estas pli flua. Kvankam mi estas alergia je katoj, mi ankoraŭ amas ilin.
+Saluton~ mi estas sieni (retnomo, skribu minuskle), malprofesia skribanto kaj aĵo-faristo el la mediteranea marbordo. Tiu ĉi estas mia persona arkivo, kie mi gardas ĉiujn verkojn fare de mi. Mi ankaŭ skribas en [la hispana](es), mia denaska lingvo, kaj, ĉefe, en [la tokipona](/sp), en kiu mi estas pli flua. Mi ankoraŭ amas katojn, spite al la misfortunoj de Dio (alergioj).
 
 <br>
 
