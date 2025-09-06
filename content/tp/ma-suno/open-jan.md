@@ -6,6 +6,8 @@ details:
 - date: 10/3/2025
 - edit: 8/8/2025
 - note: toki open nanpa tu lon lipu "ma suno".
+last: open-lon
+next: open-utala
 ---
 
 open la, jan li sama soweli li sama akesi. ona li moku e kili taso li jaki tan anpa ma, li lon kulupu lili lon anpa kasi, li wile suli ala. jan li sona ala e monsuta. ona li lape mute li pali lili, li pilin pona.

@@ -6,6 +6,8 @@ details:
 - date: suno nanpa luka-luka luka la mun nanpa tu-tu la sike nanpa owe mute2 wan  
 - edit: suno nanpa luka tu-wan la mun nanpa luka tu-wan la sike nanpa owe mute2 wan  
 - note: toki open nanpa pini lon lipu te ma suno to
+last: open-jan
+next: jan-suno
 ---
 
 open la jan li pali e kulupu utala  
@@ -176,8 +178,4 @@ jan [ante tawa,, linja,,] li pilin ike a
 tenpo mute la ona li utala ala  
 taso ona li pali  
 utala li pini ala  
-
-[toki mun la o lukin e lipu kama](../jan-suno)  
-[toki jan la o lukin e lipu kama](../olin-mama)
-{.details .right}
 

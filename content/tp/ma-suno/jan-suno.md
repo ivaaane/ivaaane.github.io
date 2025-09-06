@@ -6,6 +6,8 @@ details:
 - date: 24/04/2024
 - edit: 10/8/2025
 - note: toki mun nanpa open lon lipu "ma suno".
+last: open-utala
+next: ma-tomo
 ---
 
 open la, sewi li kulupu e jan li suno. jan mute li pakala tan suno. taso, jan pona li olin e sewi la, ona li ken lukin pona e suno. suno la jan pona li lukin e kule ale e kule pi lon ala, li kama sona e tan ale, li kute e kalama sewi.
@@ -27,6 +29,3 @@ taso kalama suli li pini e tawa. mun suli li suno suli, li toki: "jan o! sina lu
 sin la, kulupu li kama sona e kon sewi. ona li pali sin e ma ona. li pilin e sewi lon insa. ale li pona.
 
 taso... seme li kama tawa jan suno pi ma tomo suli?
-
-[o lukin e lipu kama](../ma-tomo)
-{.details .right}

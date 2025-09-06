@@ -5,6 +5,8 @@ lang: sp
 details:
 - date: suno nanpa mute2 luka-luka wan lon mun nanpa luka lon sike nanpa owe mute2 wan  
 - edit: suno nanpa luka-luka la mun nanpa luka tu-wan la sike nanpa owe mute2 luka  
+last: jan-suno
+next: pona-sama
 ---
 
 jan pi(lenjelo) li toki tawa mun suli la  
@@ -105,7 +107,3 @@ zzzzzzzz li kama lawa e ma tomo pi(jansuno)
 jan lawa ante li pilin monsuta tan jan suno  
 jan suno li wile pana e sona sewi tawa ma ale  
 tenpo kama la utala li lon  
-
-[o lukin e lipu kama](../pona-sama)  
-{.details .right}
-

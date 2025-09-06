@@ -5,6 +5,7 @@ date: 2025-05-29
 lang: tp
 details:
   - note: mi toki+pona e lipu [DON QUIJOTE] pi(kon [sewi,,, ante,,,,]) tan toki [en pan,,, jo,,]
+last: jan-kisote-3
 ---
 
 pilin ni li utala e jan Kisote. moku li pini la ona li kama e mije, li kama anpa tawa mije li toki:
@@ -38,4 +39,3 @@ tan ni la wawa li kama lon ona. kulupu jan li lukin e jan pali tu lon anpa la on
 ---kulupu ike o, sina la mi kute ala. o pana o utala o jaki e mi; sina taso li kama jo tan ike.
 
 toki ni li monsuta e kulupu. tan ni tan toki mije la kulupu li pini utala. sin la jan Kisote li tawa awen e ilo.
-

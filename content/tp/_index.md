@@ -11,10 +11,7 @@ outputs:
 ![soko2 [soko2 ilo jasima esun nasa ilo]](/media/ss.png)
 {.ss}
 
-toki a! mi soko sijeni. mi mama e lipu la mi pana tawa poki ni. awen o pona!!!
-
-[o lukin kepeken sitelen pona](/sp)
-{.sp .right}
+toki a! mi soko sijeni. mi tonsi tan ma Katala. mi mama e lipu la mi pana tawa poki ni. awen o pona!!!
 
 ---
 

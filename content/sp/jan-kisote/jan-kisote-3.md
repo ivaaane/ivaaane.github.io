@@ -5,6 +5,7 @@ date: 2025-05-29
 lang: sp
 details:
 - note: mi toki+pona e lipu [DON QUIJOTE] pi(kon [sewi,,, ante,,,,]) tan toki [en pan,,, jo,,] 
+last: jan-kisote-2
 ---
 
 pilin ni< li utala e jan [kiwen,, sona,, tenpo,,]  

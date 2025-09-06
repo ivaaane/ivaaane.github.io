@@ -5,7 +5,10 @@ date: 2025-08-31
 details:
 - date: 31/8/2025
 - note: Traduko de la enkonduko de la roluloj de Good Omens; originale verkis angle Neil Gaiman kaj Terry Pratchett en 1990.
+last: bonaj-auhguroj-0
 ---
+
+<div align="center">
 
 Rakontado pri Certaj Eventoj okazintaj je la lastaj dek unu jaroj de la homa historio, laŭ strikta konformo, kiel estos montrita, al:
 
@@ -15,11 +18,11 @@ Kompilis kaj editoris, kun Piednotoj de Eduka Naturo kaj Priskriboj de la Saĝul
 
 <br>
 
-## *DRAMATIS PERSONAE*
+# **DRAMATIS PERSONAE**
 
 <br>
 
-### SUPERNATURAJ ESTAĴOJ
+## SUPERNATURAJ ESTAĴOJ
 
 Dio (Dio)
 
@@ -39,7 +42,7 @@ Kroŭlo (Anĝelo, kiu ne tiom Falis kiom Promenis Svage Malsupren)
 
 <br>
 
-### APOKALIPSAJ GERAJDANTOJ
+## APOKALIPSAJ GERAJDANTOJ
 
 MORTO (Morto)
 
@@ -51,7 +54,7 @@ Poluo (Poluo)
 
 <br>
 
-### HOMOJ
+## HOMOJ
 
 Vi-Ne-Devas-Adulti Pulsifer (Sorĉistĉasisto)
 
@@ -75,7 +78,7 @@ Distribuisto
 
 <br>
 
-### ILI
+## ILI
 
 Adamo (Antikristo)
 
@@ -89,6 +92,8 @@ Plena Koruso de Tibetanoj, Eksterteranoj, Usonanoj, Atlantidanoj kaj aliaj raraj
 
 <br>
 
-### KAJ:
+## KAJ:
 
-Hundo (Satana inferhundo kaj kato-maltrankvilulo)
+Hundo (Satana inferhundo kaj kato-maltrankvilanto)
+
+</div>

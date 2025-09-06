@@ -742,7 +742,4 @@ kon lili suwi li luka e mi
 mi lukin e sewi2  
 zz a n
 
----
-
 ## pimeja
-

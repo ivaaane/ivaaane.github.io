@@ -5,7 +5,7 @@
     {{ partial "theme.html" . }}
     {{ replace .Content "<hr>" "</div><br/><div class='box'>" | safeHTML}}
     </div>
-    {{ partial "back.html" (dict "string" "select" "context" .) }}
+    {{ partial "links.html" (dict "string" "select" "context" .) }}
 </div>
 
 {{ partial "footer.html" . }}

@@ -7,6 +7,7 @@ details:
 - date: "23/4/2025"
 - edit: "10/8/2025"
 - note: mi toki pona e lipu "Don Quijote" pi kon Sewante tan toki Epanjo.
+next: jan-kisote-2
 ---
 
 lon ma lili lon ma Mansa la, jan mani li lon; nimi ma la mi wile ala sona. jan mani li moku e moku pi mani ala. tomo ona la jan pali en jan pi kulupu mama sama li lon. sijelo ona li wawa ala li linja. ken la ona li kepeken anu nimi Kisala anu nimi Kesala.
@@ -26,7 +27,3 @@ nimi soweli li wawa la jan mani li wile ante e nimi ona kin. suno mute mute la o
 len li telo la, soweli li kepeken la, nimi li wawa la, ijo wan taso li wile. jan utala ale o olin e meli. jan Kisote li toki e ni: «anu tan ike anu tan pona la mi utala e jan suli li anpa e ona la, jan suli o tawa meli suwi o toki ni: "mi jan suli Monsijaki. mi anpa tan jan wawa Kisote pi ma Mansa. suwi sina li pona e mi la ona li pana e mi tawa sina."»
 
 jan mani li pini toki li kama sona e nimi meli la, ona li pilin wawa. ona li sona e meli lon ma poka. meli li sona ala e jan Kisote, taso jan mani li olin e ona li wile utala tan ona. nimi meli li Alona, taso jan mani li wile e nimi sin li pana e nimi Jansuwi lon lawa ona. jan mani la nimi ni li suwi sama nimi ale pi pali ona.
-
-[o lukin e lipu kama](../jan-kisote-2)
-{.details .right}
-

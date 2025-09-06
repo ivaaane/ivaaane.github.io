@@ -5,6 +5,7 @@ lang: tp
 details:
 - date: 17/8/2025
 - note: toki jan nanpa open lon lipu "open lon"
+last: open-utala
 ---
 
 jan Esi li lili la mama ona li moli.

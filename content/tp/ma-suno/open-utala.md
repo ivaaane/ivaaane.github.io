@@ -6,6 +6,8 @@ details:
 - date: 15/4/2025
 - edit: 8/8/2025
 - note: toki open nanpa pini lon lipu "ma suno".
+last: open-jan
+next: jan-suno
 ---
 
 open la, jan li pali e kulupu utala. jan pi mama sama taso li lon kulupu la, kulupu li lili. jan li moli la kulupu li moli. tenpo la mute kulupu li lili, taso kulupu awen li kama suli. tenpo mute la, kulupu mute lili li utala e kulupu wan suli. ni la, jan pi mama sama ala li open lon kulupu sama.
@@ -40,8 +42,3 @@ jan Atali en jan Nala li utala lon tenpo mute. kulupu li utala e ona sama la jan
 jan Nala li wile moli e jan Atali, taso ona li awen ken ala. ona li weka e sike lukin wan tan jan Atali, li toki: "o tawa ma sina, o kama sin ala."
 
 jan Atali li weka. pakala li suli. jan pona mute li moli. jan Atali li pilin ike a! tenpo mute la ona li utala ala. taso ona li pali. utala li pini ala.
-
-[toki mun la o lukin e lipu kama](../jan-suno)  
-[toki jan la o lukin e lipu kama](../olin-mama)
-{.details .right}
-

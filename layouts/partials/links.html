@@ -1,0 +1,14 @@
+<br/>
+<div class="box links" >
+    <div>
+    {{ if .context.Params.last }}
+        <a href="../{{ .context.Params.last }}" class="details">« {{ index .context.Site.Data.langs .context.Params.lang "last" }}</a>
+    {{ end }}
+    </div>
+    <div><a href=".." class="details">{{ index .context.Site.Data.langs .context.Params.lang .string }}</a></div>
+    <div>
+    {{ if .context.Params.next }}
+        <a href="../{{ .context.Params.next }}" class="details">{{ index .context.Site.Data.langs .context.Params.lang "next" }} »</a>
+    {{ end }}
+    </div>
+</div>

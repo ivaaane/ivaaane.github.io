@@ -7,6 +7,7 @@ details:
 - date: "23/4/2025"
 - edit: "10/8/2025"
 - note: mi toki pona e lipu "Don Quijote" pi kon Sewante tan toki Epanjo.
+last: jan-kisote-1
 ---
 
 jan Kisote li wile ala awen awen. suno li open la ona li jo e ilo ale, li tawa lon poka pi soweli Losinante. ona li toki e wile ona tawa jan ala. ona li taso la pilin ike li kama li pini e tawa. jan lawa li jan utala ala e ona la ona li ken ala utala. taso pakala lawa li anpa e pilin ni. nanpa wan la ona o kama jan utala tan jan lawa. sin la ona li tawa.
@@ -57,4 +58,3 @@ kala taso li lon. jan Kisote li awen lon supa. ona li moku lon nasin musi a. len
 
 ¹ nimi ni li nimi sin musi tan kulupu Epanja pi toki pona, li toki e kulupu ni. ona li nimi jan ala. mi kepeken nimi ni tan musi. lipu la kon nimi li «ijo li tan kulupu Kasija pi ma Epanja _` (castellano)`_».
 {style="font-size:80%"}
-

@@ -5,6 +5,7 @@ date: 2025-08-31
 details:
 - date: 31/8/2025
 - note: Traduko de la prologo de Good Omens; originale verkis angle Neil Gaiman kaj Terry Pratchett en 1990.
+next: bonaj-auhguroj-1
 ---
 
 Estis agrabla tago.
@@ -80,6 +81,3 @@ Adrezo-nigraj kurtenoj falis super Edeno. Tondro murmuris inter la montetoj. La 
 Malproksime, en la gutanta arbaro, iu brila kaj arda palpebrumis inter la arboj.
 
 Baldaŭ estis malluma kaj tempesta nokto.
-
-[plu legi »](../bonaj-auhguroj-1)
-{.details .right}

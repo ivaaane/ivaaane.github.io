@@ -12,14 +12,12 @@ outputs:
 
 a(toki)  
 mi soko2 [soko2 ilo jasima esun nasa ilo]  
+mi tonsi tan ma [kasi,, tawa,, lawa,,]  
 mi mama e lipu la mi pana lon poki ni  
 awen o pona aaa  
 
 _ilo li lili la o sike e lukin_
 {.mobile}
-
-[o lukin kepeken sitelen Lasina](/tp)
-{.tp .details .right}
 
 ---
 

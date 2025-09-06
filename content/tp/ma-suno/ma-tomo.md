@@ -5,6 +5,8 @@ lang: tp
 details:
 - date: 31/5/2025
 - edit: 10/8/2025
+last: jan-suno
+next: pona-sama
 ---
 
 jan pi len jelo li toki tawa mun suli la, mun li suno wawa e ma tomo kin.
@@ -30,6 +32,3 @@ jan utala ale li anpa. tenpo lili la jan suno li anpa e jan lawa. jan suno li we
 jan ike li tawa ma lawa ante li toki tawa jan lawa. ona li wile lawa sin e ma tomo, li pilin utala. ma tomo la jan suno li lawa. ona li lon tomo pi jan lawa, li kepeken len pi jan lawa. jan pi sijelo pakala li kepeken len loje, li kama lawa e ma tomo pi jan suno.
 
 jan lawa ante li pilin monsuta tan jan suno. jan suno li wile pana e sona sewi tawa ma ale. tenpo kama la utala li lon.
-
-[o lukin e lipu kama](../pona-sama)  
-{.details .right}

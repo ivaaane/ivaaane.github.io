@@ -5,6 +5,7 @@ lang: sp
 details:
 - date: suno nanpa luka-luka luka-tu la mun nanpa luka tu-wan la sike nanpa owe mute2 luka
 - note: toki jan nanpa open lon lipu te open lon to
+last: open-utala
 ---
 
 jan [esun sitelen,,] li lili la mama ona li moli

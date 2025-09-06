@@ -4,6 +4,7 @@ lang: tp
 date: 2025-08-30
 details:
 - date: 30/8/2025
+last: ma-tomo
 ---
 
 sin la, jan suno pi ma nena li wan, li wile pali e ijo sin. ona li kama pali e tomo mute. tomo li tan kiwen pona tan anpa tan kasi, li poki e tomo lili mute. jan wawa mute li pali.

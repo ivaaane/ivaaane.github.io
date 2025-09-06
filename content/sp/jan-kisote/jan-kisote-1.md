@@ -7,6 +7,7 @@ details:
   - date: suno nanpa mute2 tu-wan la mun nanpa tu-tu la sike nanpa owe mute2 wan
   - edit: suno nanpa luka tu-wan la mun nanpa luka tu-wan la sike nanpa owe mute2 wan
   - note: mi toki+pona e lipu [DON QUIJOTE] pi(kon [sewi,,, ante,,,,]) tan toki [en pan,,, jo,,]
+next: jan-kisote-2
 ---
 
 lon ma lili lon ma [mani,,, sama,,] la jan mani li lon  
@@ -83,7 +84,3 @@ nimi meli li [ale,, ona,,,]
 taso jan mani li wile e nimi sin  
 zzzzzz li pana e nimi [jan: suwi:] lon lawa ona  
 jan mani la nimi ni li suwi sama nimi ale pi(paliona)  
-
-[o lukin e lipu kama](../jan-kisote-2)
-{.details .right}
-
