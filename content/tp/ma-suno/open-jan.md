@@ -33,7 +33,3 @@ pimeja la, mun suli li lukin e utala jan, li toki tawa sewi: "jan li utala li mo
 pini toki la, sewi li suno. jan mute li kama pakala tan ni; ona li awen e utala. taso jan pi mute lili li ken lukin e suno; ona li kama sona e mute, li kama sona e wile sewi. nimi ona li "jan suno". ona li kulupu, li pali e pona li pana e toki sewi.
 
 jan ante li kama toki jaki tawa sewi. ike li kama. moku li lili. taso utala li pini ala.
-
-[o lukin e lipu kama](../open-utala)
-{.details .right}
-

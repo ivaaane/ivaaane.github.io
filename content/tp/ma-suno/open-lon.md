@@ -28,7 +28,3 @@ suno li utala e pimeja. utala li awen lon tenpo mute a! mute la ma li kama ante.
 taso anpa ni li pini ala e utala. wawa suno li weka. suno li wile lape. suno li lape la pimeja li kama sin. utala li ken ala pini. ni la suno li pana e mun mute tawa sewi. pimeja la mun li lukin li toki e ike tawa suno. suno li lon e mun suli li pana e suno ona pi mute lili tawa ona. mun suli li lawa e mun lili.
 
 pini la suno li toki tawa jan. ona li pilin monsuta ala la, suno li pana e seli. seli li suno lili. jan li ken lawa e seli. jan la suno li pona e ale. ni la ona li pana e nimi sewi tawa ona, li toki e wile lon insa, sama open. sewi li kute e wile ale.
-
-[o lukin e lipu kama](../open-jan)
-{.details .right}
-

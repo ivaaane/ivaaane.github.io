@@ -2,6 +2,7 @@
 title: Estantería de libros
 lang: es
 ---
+
 Aquí **intento** listar todos los libros que alguna vez haya leído en años recientes (independientemente de si me han gustado o no) y los que ya poseo pero no he empezado/terminado o los que quiero poseer :3
 
 He puesto los años de memoria (no he estado todos estos años apuntándome cada libro con su fecha), así que estas no son 100% confiables y en algunas solo me baso en aproximaciones vagas ---dando si acaso un rango de años posibles--- o directamente no me acuerdo (ya se ve que mi memoria falla muy pronto). Ya iré añadiendo si me acuerdo.
@@ -14,12 +15,13 @@ He puesto los años de memoria (no he estado todos estos años apuntándome cada
 | --------------- | ------------------ |
 | Juego de tronos | George R.R. Martin |
 
----
+<br>
 
 ## Leidos
 
 | título                               | autor/a/e                     | año        |
 | ------------------------------------ | ----------------------------- | ---------- |
+| LOVE-BULLET                          | inee                          | 2025       |
 | La eta princo                        | Antoine de Saint-Exupéry      | 2025       |
 | La tabla de Flandes                  | Arturo Pérez-Reverte          | 2025       |
 | Ladrón del tiempo                    | Terry Pratchett               | 2025       |
@@ -38,6 +40,7 @@ He puesto los años de memoria (no he estado todos estos años apuntándome cada
 | El mago de Oz (edición toki pona)    | Sonja Lang                    | 2024       |
 | La vieja familia                     | Eva García Sáenz              | 2024?      |
 | La fortaleza digital                 | Dan Brown                     | 2024       |
+| Buscando a Alaska                    | John Green                    | 2024       |
 | Origen                               | Dan Brown                     | 2024       |
 | Inferno                              | Dan Brown                     | 2024       |
 | El símbolo perdido                   | Dan Brown                     | 2023~2024  |
@@ -70,7 +73,7 @@ He puesto los años de memoria (no he estado todos estos años apuntándome cada
 | Revolución en la granja              | George Orwell                 | 2020~2021? |
 | La música del viento                 | Jordi Sierra I Fabra          | 2020       |
 
----
+<br>
 
 ## Pendientes
 
