@@ -1,5 +1,8 @@
 {{ partial "header.html" . }}
 <div class="box">
+    <marquee direction="left" scrollamount=20>
+        <img src="/media/teto.png" alt="teto" style="width:20%;">
+    </marquee>
     {{ .Content }}
     {{ partial "theme.html" . }}
 </div><br/><div class="box">
@@ -8,5 +11,5 @@
     {{ partial "webrings/noai.html" . }}
     <br>
     {{ partial "buttons.html" . }}
-    </div>
+</div>
 {{ partial "footer.html" . }}

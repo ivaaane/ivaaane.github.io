@@ -6,7 +6,7 @@ lang: es
 Acá la colección de fondos de pantalla que he usado alguna vez y me han gustado.
 
 Fuentes:
-- Imagenes de DuckDuckGo (no me apunté de donde exactamente :despair:)
+- Internet (no me apunté de donde :despair:)
 - [Gruvbox wallpapers](https://gruvbox-wallpapers.pages.dev/)
 - [Catppuccin wallpapers](https://github.com/zhichaoh/catppuccin-wallpapers)
 

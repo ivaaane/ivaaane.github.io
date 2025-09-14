@@ -34,3 +34,12 @@ es:
   back: "volver"
   next: "ver siguiente"
   last: "ver anterior"
+en:
+  date: "Date: "
+  edit: "Last change: "
+  note: "Description: "
+  more: "know more"
+  select: "change language"
+  back: "return"
+  next: "view next"
+  last: "view last"

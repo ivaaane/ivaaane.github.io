@@ -10,7 +10,7 @@
 body.dark-mode {
     --text: white;
     --bg: rgb(3, 0, 3);
-    --dots: black;
+    --dots: rgb(30, 0, 30);
     --page: black;
     --link: pink;
 
@@ -114,7 +114,7 @@ td, th {
 }
 
 .ss {
-    padding: 1rem;
+    padding: 0;
     width: 15%;
     display: block;
     margin-left: auto !important;
@@ -139,13 +139,6 @@ td, th {
     right: 15px;
 }
 
-.miku {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width: 20%;
-}
-
 .buttons {
     text-align: center;
 }
@@ -158,6 +151,31 @@ td, th {
         flex: 1;
         text-align: center;
     }
+}
+
+.note {
+    text-decoration: underline;
+    text-decoration-style: dotted;
+    cursor: pointer;
+    display: inline-block;
+}
+
+.note-content {
+    position: relative;
+    visibility: hidden;
+    position: absolute;
+    padding: 10px;
+
+    font-style: italic;
+    align-items: right;
+    background-color: white;
+    border: 1px solid black;
+    box-shadow: 1px 1px;
+}
+
+.note:hover .note-content {
+    visibility: visible;
+    opacity: 1;
 }
 
 /* langs */

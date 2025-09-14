@@ -58,6 +58,7 @@ zz _nanpa tu la_ [tawa nanpa wan pi(jan [kiwen,, sona,, tenpo])](jan-kisote-2)
 
 mi toki+pona e kalama musi tan toki ante mute  
 mi sona ala kalama uta taso mi sitelen e ni tan musi  
+kin la mi sona kalama ala la kalama li ken ike tawa kute  
 zz [tawa pona](tawa-pona) zzzzzzzzzzzz _tan toki [insa tawa,, li,, jan,,]_  
 zz [kalama [sama,, kijetesantakalu,,, ale pona en]](kalama-sakijape) zz _tan toki [suwi,, mi,,]_  
 zz [o lukin e kala](kala) zzzzzzzz _tan toki [en pan,,, jo,,]_  

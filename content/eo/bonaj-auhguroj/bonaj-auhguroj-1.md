@@ -10,11 +10,11 @@ last: bonaj-auhguroj-0
 
 <div align="center">
 
-Rakontado pri Certaj Eventoj okazintaj je la lastaj dek unu jaroj de la homa historio, laŭ strikta konformo, kiel estos montrita, al:
+Rakontado pri Certaj Eventoj okazintaj je la lastaj dek unu jaroj de la homa historio, laŭ strikta konformo, kiel estos montrata, al:
 
-### *La Bonaj kaj Precizaj Profetaĵoj de Agnes Nutter*
+### **La Bonaj kaj Precizaj Profetaĵoj de Agnes Nutter**
 
-Kompilis kaj editoris, kun Piednotoj de Eduka Naturo kaj Priskriboj de la Saĝuloj, Neil Gaiman kaj Terry Pratchett.
+Kompilis kaj editoris, kun Piednotoj de Eduka Naturo kaj Priskriboj por la Saĝuloj, Neil Gaiman kaj Terry Pratchett.
 
 <br>
 
@@ -22,7 +22,7 @@ Kompilis kaj editoris, kun Piednotoj de Eduka Naturo kaj Priskriboj de la Saĝul
 
 <br>
 
-## SUPERNATURAJ ESTAĴOJ
+### **Supernaturaj Estaĵoj**
 
 Dio (Dio)
 
@@ -40,9 +40,7 @@ Liguro (Ankaŭ Falinta Anĝelo kaj Duko de Infero)
 
 Kroŭlo (Anĝelo, kiu ne tiom Falis kiom Promenis Svage Malsupren)
 
-<br>
-
-## APOKALIPSAJ GERAJDANTOJ
+### **Apokalipsaj Gerajdantoj**
 
 MORTO (Morto)
 
@@ -52,9 +50,7 @@ Malsatego (Malsatego)
 
 Poluo (Poluo)
 
-<br>
-
-## HOMOJ
+### **Homoj**
 
 Vi-Ne-Devas-Adulti Pulsifer (Sorĉistĉasisto)
 
@@ -76,23 +72,19 @@ S-ro Tajlero (Prezidanto de Loĝantasocio)
 
 Distribuisto
 
-<br>
+### **Ili**
 
-## ILI
-
-Adamo (Antikristo)
+ADAMO (Antikristo)
 
 Pipro (Knabino)
 
-Merkredo (Knabo)
+Venslejo (Knabo)
 
 Briano (Knabo)
 
 Plena Koruso de Tibetanoj, Eksterteranoj, Usonanoj, Atlantidanoj kaj aliaj raraj kaj strangaj Estaĵoj de la Lastaj Tagoj.
 
-<br>
-
-## KAJ:
+### **Kaj:**
 
 Hundo (Satana inferhundo kaj kato-maltrankvilanto)
 

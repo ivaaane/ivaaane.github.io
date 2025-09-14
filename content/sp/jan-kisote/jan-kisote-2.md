@@ -88,7 +88,7 @@ te sina wile lape la o lon tomo mi to
 
 jan [kiwen,, sona,, tenpo,,] li lukin e pona mije li toki  
 
-te jan [kute,,, olin pan,, jan,,]¹o  
+te jan [kute,,, olin pan,, jan,,] o{{<note text="nimi ni< li nimisin musi tan kulupu [en pan,,, jan,,] pi(toki+pona)<br>zzzz li toki e kulupu ni^<br>ona li nimi jan ala<br>zz li te `kutopanja` to lon sitelen [la,, sina,,,,]<br>mi kepeken nimi ni^ tan musi<br>lipu ni la kon nimi li te ijo li tan kulupu [kama,, sina,, jan,,] pi(ma [en pan,,, jan,,]) to _` (castellano)`_">}}  
 zz ale li pona tawa mi  
 zz lape li utala mi to  
 
@@ -137,11 +137,3 @@ zzzzzzzzzzzzzz li tawawile ona
 pini la ona li tawa  
 taso ona li awen jan utala ala tawa lawa la  
 zz utala suli ala li ken  
-
----
-
-¹ nimi ni< li nimisin musi tan kulupu [en pan,,, jan,,] pi(toki+pona) li toki e kulupu ni^  
-zz ona li nimi jan ala li te `kutopanja` to lon sitelen [la,, sina,,,,]  
-zz mi kepeken nimi ni^ tan musi  
-zz lipu ni la kon nimi li te ijo li tan kulupu [kama,, sina,, jan,,] pi(ma [en pan,,, jan,,]) to _` (castellano)`_
-{style="font-size:80%"}

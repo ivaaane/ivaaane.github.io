@@ -7,7 +7,6 @@ details:
 - edit: 8/8/2025
 - note: toki open nanpa pini lon lipu "ma suno".
 last: open-jan
-next: jan-suno
 ---
 
 open la, jan li pali e kulupu utala. jan pi mama sama taso li lon kulupu la, kulupu li lili. jan li moli la kulupu li moli. tenpo la mute kulupu li lili, taso kulupu awen li kama suli. tenpo mute la, kulupu mute lili li utala e kulupu wan suli. ni la, jan pi mama sama ala li open lon kulupu sama.

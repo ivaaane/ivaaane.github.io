@@ -10,45 +10,45 @@ next: bonaj-auhguroj-1
 
 Estis agrabla tago.
 
-Ĉiuj tagoj estis agrablaj. Estis pli ol sep ĝis nun, kaj pluvo ankoraŭ ne estis inventita. Sed nuboj, kiuj akumuliĝis oriente de Edeno, sugestis, ke la unua tempesto estas survoje, kaj ĝi estos granda.
+Ĉiuj tagoj estis agrablaj. Estis pli ol sep ĝis nun, kaj oni ankoraŭ ne inventis pluvon. Sed nuboj, kiuj akumuliĝis oriente de Edeno, sugestis, ke la unua tempesto estas survoje, kaj ĝi estos granda.
 
 La anĝelo de la Orienta Pordego etendis siajn flugilojn super sian kapon por protekti sin kontraŭ la unuaj gutoj.
 
 "Pardonu min," li diris ĝentile. "Kion vi diris?"
 
-"Mi diris, ke unu falis kiel plumba balono," diris la serpento.
+"Mi *diris*, ke unu falis kiel plumba balono," diris la serpento.
 
 "Ho. Jes," diris la anĝelo, kies nomo estis Azirafalo.
 
-"Mi pensas, ke tio estis troa reago, honeste," diris la serpento. "Nu, la unua delikto kaj ĉio. Mi ne komprenas, kio estas tiel malbona pri scii la diferencon inter la bono kaj la malbono, ĉiuokaze."
+"Mi pensas, ke estis troa reago, honeste," diris la serpento. "Nu, la unua delikto kaj ĉio. Mi ne komprenas, kio estas tiel malbona pri scii la diferencon inter la bono kaj la malbono, ĉiuokaze."
 
-"Ĝi devas *esti* malbona," rezonis Azirafalo, per la iomete maltrankvila tono de tiu, kiu ankaŭ ne komprenas, kaj zorgas pri tio, "alie vi ne estus implikita."
+"Ĝi devas *esti* malbona," rezonis Azirafalo, per la iomete maltrankvila tono de tiu, kiu ankaŭ ne komprenas, kaj zorgas pri tio, "alie *vi* ne estus implikita."
 
-"Ili nur diris, iru tien supren kaj faru iom da problemo," diris la serpento, kies nomo estis Kraŭlo, kvankam li pensadis ŝanĝi ĝin. Kraŭlo, li decidis, ne estis *indika*.
+"Ili nur diris, Iru tien supren kaj faru iom da problemo," diris la serpento, kies nomo estis Kraŭlo, kvankam li pensadis ŝanĝi ĝin. Kraŭlo, li decidis, ne estis *li*.
 
 "Jes, sed vi estas demono. Mi ne certas, ĉu verfakte vi povas fari bonon," diris Azirafalo. "Tio dependas de via baza, vi scias, naturo. Nenio persona, komprenu."
 
-"Konfesu, ke tio estas iom pantomimo, tamen," diris Kraŭlo. "Nu, montri la Arbon kaj diri 'Ne Tuŝu' per grandaj literoj, ne estas subtila, ĉu ne? Nu, kial ne lokigi ĝin sur pinto de alta monto aŭ tre malproksime? Igas vin demandi, kion Li vere planas."
+"Konfesu, ke estas iom pantomimo, tamen," diris Kraŭlo. "Nu, montri la Arbon kaj diri 'Ne Tuŝu' per grandaj literoj, ne estas subtila, ĉu ne? Nu, kial ne lokigi ĝin sur pinto de alta monto aŭ tre malproksime? Igas vin demandi, kion Li vere planas."
 
-"Pli bone ne spekulativi, vere," diris Azirafalo. "Oni ne povas dubi neesprimeblaĵojn. Ĉiam mi diras, ke ekzistas Ĝusto kaj ekzistas Malĝusto. Se oni faras Malĝuste kiam oni faru Ĝuste, oni meritas punon. Ehm."
+"Pli bone ne spekulativi, vere," diris Azirafalo. "Oni ne povas dubi neesprimeblaĵojn, ĉiam mi diras. Ekzistas Ĝusto kaj ekzistas Malĝusto. Se oni faras Malĝuste kiam oni faru Ĝuste, oni meritas punon. Er."
 
-Ili sidis embarase silente, rigardante la pluvgutojn kontuzantajn la unuajn florojn.
+Ili sidis embarase silente, rigardante la pluvgutojn kontuzante la unuajn florojn.
 
 Fine Kraŭlo diris, "Ĉu vi ne havis flaman glavon?"
 
-"Ehm," diris la anĝelo. Kulpa esprimo iris tra sian vizaĝon, kaj tiam revenis kaj kampadis tie.
+"Er," diris la anĝelo. Kulpa esprimo iris tra sian vizaĝon, kaj tiam revenis kaj kampadis tie.
 
 "Vi havis, ĉu ne?" Diris Kraŭlo. "Ĝi tre flamis."
 
-"Ehm, nu-"
+"Er, nu---"
 
 "Ĝi ŝajnis tre impona, mi pensis."
 
-"Jes, sed, nu--"
+"Jes, sed, nu---"
 
 "Vi perdis ĝin, ĉu ne?"
 
-"Ho ne! Ne, ne ĝuste perdita, pli kiel--"
+"Ho ne! Ne, ne ĝuste perdita, pli kiel---"
 
 "Nu?"
 
@@ -68,7 +68,7 @@ Li ridetis maltrankvile al Kraŭlo.
 
 Ili rigardis la pluvon dum iom da tempo.
 
-"La stranga afero estas," diris Kraŭlo, "ke mi daŭre scivolas, ĉu la afero pri la pomo ankaŭ ne estis la ĝusta io por fari. Demono povas eniri en verajn problemojn, por fari la ĝustan ion." Li puŝetis la anĝelo. "Amuze se ni ambaŭ eraris, ĉu ne? Amuze se mi faris la ĝustan ion kaj vi faris la malĝustan, ĉu ne?"
+"Strange," diris Kraŭlo, "*mi* daŭre scivolas, ĉu la afero pri la pomo ankaŭ estis la ĝusta io por fari. Demono povas eniri en verajn problemojn, por fari la ĝustan ion." Li puŝetis la anĝelo. "Amuze se ni ambaŭ eraris, ĉu ne? Amuze se mi faris la ĝustan ion kaj vi faris la malĝustan, ĉu ne?"
 
 "Ne vere", diris Azirafalo.
 

@@ -7,7 +7,6 @@ details:
 - edit: suno nanpa luka tu-wan la mun nanpa luka tu-wan la sike nanpa owe mute2 wan  
 - note: toki open nanpa pini lon lipu te ma suno to
 last: open-jan
-next: jan-suno
 ---
 
 open la jan li pali e kulupu utala  
