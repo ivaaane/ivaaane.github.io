@@ -26,6 +26,7 @@ body.dark-mode {
 /* general */
 
 body {
+    font-family: ucsur, "Open Sans", serif;
     background-color: var(--bg);
     color: var(--text);
     max-width: 50rem;
@@ -184,9 +185,13 @@ td, th {
     src: url("../fonts/nasin-nanpa-5.0.0-beta.2.otf") format("opentype");
 }
 
+@font-face {
+    font-family: "ucsur";
+    src: url("../fonts/nasin-nanpa-5.0.0-beta.2-UCSUR.otf") format("opentype");
+    unicode-range: U+F1900-F19FF;
+}
 
-.tp, .eo, .es {
-    font-family: "Open Sans", serif;
+.tp, .eo, .es, .en {
     font-size: 90%;
     line-height: 180%;
 
