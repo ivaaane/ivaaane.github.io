@@ -157,15 +157,15 @@ La honesta homo prenis siajn dudek cent fretzojn. Li gajnu ilin.
 
 # VI
 
-Estis videbla nur unu luma punkto, je duona kertzo. Estas la lampo de la mortanto, --- de la mortinto, eble. Tiu estas sendube la domo de la bakisto. La maljunulo montris ĝin fingre. Neniu eraro eblas.
+Estis videbla nur luma punkto, je duona kertzo. Estas la lampo de la mortanto, --- de la mortinto, eble. Tiu estas sendube la domo de la bakisto. La maljunulino montris ĝin fingre. Ne eblas eraro.
 
 Meze de la fajfantaj _frritt_-oj, de la krepitantaj _flakk_-oj, en la bruado de la tempeseto, doktoro Trifulgo iras rapide.
 
-Dum li iras antaŭen, la domo iĝas pli distingebla, estante sola en la mezo de la erikejo.
+Dum li iras antaŭen, la domo plidistingebliĝa, estante sola en la mezo de la erikejo.
 
 Estas kurioza observi, kiom ĝi similas al la domo de la doktoro, al Ses-Kvaro de Luktropo. La sama aranĝo de la fenestroj en la fronto, la sama malgranda cintrita pordo.
 
-Doktoro Trifulgo rapidas kiel la ventopuŝo eblas. La pordo estas duonaperta, li nur puŝu ĝin; li ĝin puŝas, eniras, kaj la vento brutale remalfermas ĝin malantaŭ li. La hundo Hurzofo, ekstere, hurlas, silentante de tempo al tempo, kiel la kantistoj inter la versikloj  de psalmo  de la Kvardek Horoj.
+Doktoro Trifulgo rapidas kiel eblas la ventopuŝo. La pordo estas duonaperta, li nur puŝu ĝin; li ĝin puŝas, eniras, kaj la vento brutale remalfermas ĝin malantaŭ li. La hundo Hurzofo, ekstere, hurlas, silentante de tempo al tempo, kiel la kantistoj inter la versikloj  de psalmo  de la Kvardek Horoj.
 
 Strange! Oni diras, ke doktoro Trifulgo revenas al sia propra hejmo. Li ne deturnis. Li estas en Val Karnioŭ', ne en Luktropo. Tamen, la sama malalta kurba koridoro, la sama spirala ŝtuparo de ligno kun dika manrelo, trivita de la frotado de la manoj.
 

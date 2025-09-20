@@ -3,7 +3,7 @@ title: pona sama
 lang: sp
 date: 2025-08-30
 details:
-- date: suno nanpa mute2 luka-luka la mun nanpa luka tu-wan la sike nanpa owe mute2 luka
+- date: suno nanpa mute2 luka-luka la mun nanpa luka tu-wan la sike nanpa owe mute2 mute2 luka
 last: ma-tomo
 ---
 

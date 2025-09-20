@@ -4,7 +4,7 @@ header: soko2 lili
 date: 2025-08-31
 lang: sp
 details:
-- date: suno nanpa mute2 luka-luka wan la mun nanpa luka tu-wan la sike nanpa owe mute2 luka
+- date: suno nanpa mute2 luka-luka wan la mun nanpa luka tu-wan la sike nanpa owe mute2 mute2 wan
 - note: |
     jan lili lon ma [kasi,, tawa,, lawa,,] li kalama musi ni [EL BOLET PETITO]  
     zzzzzz mi toki+pona e musi  

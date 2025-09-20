@@ -3,12 +3,12 @@ title: olin mama
 date: 2025-08-17
 lang: sp
 details:
-- date: suno nanpa luka-luka luka-tu la mun nanpa luka tu-wan la sike nanpa owe mute2 luka
+- date: suno nanpa luka-luka luka-tu la mun nanpa luka tu-wan la sike nanpa owe mute2 mute2 wan
 - note: toki jan nanpa open lon lipu te open lon to
 last: open-utala
 ---
 
-jan [esun sitelen,,] li lili la mama ona li moli
+jan [nasa uta wawa,,] li lili la mama ona li moli
 
 ona li lon tomo ala  
 zzzz lon kulupu ala  
@@ -18,22 +18,22 @@ taso pimeja wan la kulupu ike li jo e ona
 zzzzzzzzzzzz li toki e ni  
 zz te sina pali tawa mi la mi pana e moku  
 zzzz pali sina li ike la mi moli e sina to  
-jan [esun sitelen,,] li pali  
+jan [nasa uta wawa,,] li pali  
 ona o weka e mani tan jan wawa  
 zz o pana tawa kulupu  
 ona li pali pi(muteike)  
 zz li kama jo e pana lili  
-taso kulupu ike li suli la jan [esun sitelen,,] li ken ala weka
+taso kulupu ike li suli la jan [nasa uta wawa,,] li ken ala weka
 
-pali sin la ona o weka e mani tan jan lawa [ante tawa,, linja,,]  
+pali sin la ona o weka e mani tan jan lawa [e tenpo,,]  
 monsuta a  
-jan tu ante li awen e jan [esun sitelen,,]  
+jan tu ante li awen e jan [nasa uta wawa,,]  
 taso ona li kama jo e mani lon tomo lawa la jan tu li kama weka  
-jan utala li jo e jan [esun sitelen,,]  
+jan utala li jo e jan [nasa uta wawa,,]  
 zzzz li pana e ona tawa poki lon anpa ma
 
-mun mute li pini la jan utala li kama e jan [esun sitelen,,] tan poki  
-jan [esun sitelen,,] li lon insa tomo  
+mun mute li pini la jan utala li kama e jan [nasa uta wawa,,] tan poki  
+jan [nasa uta wawa,,] li lon insa tomo  
 jan mute li lukin e insa  
 insa la jan ante li lon poka ona  
 sinpin pi(janpoka) li lukin e anpa taso  
@@ -46,20 +46,20 @@ jan li moli
 jan wawa li toki e nimi jan sin  
 jan li kama  
 zz li moli  
-jan wawa li toki e nimi [esun sitelen,,]  
-jan [esun sitelen,,] li pilin monsuta a  
+jan wawa li toki e nimi [nasa uta wawa,,]  
+jan [nasa uta wawa,,] li pilin monsuta a  
 lili la ona li tawa  
 ona li wile ala moli  
 ona li wile weka tan tomo  
 taso jan mute li lukin
 
-taso jan [esun sitelen,,] li kama la jan wan li toki wawa
+taso jan [nasa uta wawa,,] li kama la jan wan li toki wawa
 
 te o pini to
 
-toki li tan jan lawa [ante tawa,, linja,,]  
-jan [ante tawa,, linja,,] li kama tan kulupu  
-zzzzzzzzzz li lon poka pi(jan [esun sitelen,,])
+toki li tan jan lawa [e tenpo,,]  
+jan [e tenpo,,] li kama tan kulupu  
+zzzzzzzzzz li lon poka pi(jan [nasa uta wawa,,])
 
 te jan ni li lili  
 zz ona li pali tan ike pi(janante)  
@@ -73,84 +73,84 @@ te lawa li lawa
 zz ona li ike tawa lawa la ona o moli sama jan ale  
 zz mi ken ala ante e lawa a to
 
-jan [ante tawa,, linja,,] li lukin e jan [esun sitelen,,]
+jan [e tenpo,,] li lukin e jan [nasa uta wawa,,]
 
 te lawa li toki mi  
 zz mi awen e jan lili ni to
 
-jan [ante tawa,, linja,,] li weka  
-jan [esun sitelen,,] li tawa ona
+jan [e tenpo,,] li weka  
+jan [nasa uta wawa,,] li tawa ona
 
-ni la jan [ante tawa,, linja,,] li kama mama e jan [esun sitelen,,]  
-jan [esun sitelen,,] li lon tomo suli ona  
+ni la jan [e tenpo,,] li kama mama e jan [nasa uta wawa,,]  
+jan [nasa uta wawa,,] li lon tomo suli ona  
 zzzzzzzz li ken moku mute  
 zzzzzzzz li lape lon supa suwi  
-mama [ante tawa,, linja,,] li weka lon tenpo mute  
+mama [e tenpo,,] li weka lon tenpo mute  
 taso ona li suwi  
-zzzz li pana e wile ale tawa jan [esun sitelen,,]  
-lon weka pi(mama [ante tawa,, linja,,]) la  
+zzzz li pana e wile ale tawa jan [nasa uta wawa,,]  
+lon weka pi(mama [e tenpo,,]) la  
 zz jan [moli,,,, kama,,] en jan [pimeja,,,, tenpo,,,] li lon poka  
 zzzzzzzzzzzzzzzzzzzz li toki li musi  
-jan [ante tawa,, linja,,]  
+jan [e tenpo,,]  
 en jan [moli,,,, kama,,]  
 en jan [pimeja,,,, tenpo,,,] li tan mama sama  
 jan [pimeja,,,, tenpo,,,] li pana e sona utala pona  
 jan [moli,,,, kama,,] li seli e pan suwi a  
-jan [esun sitelen,,] li pilin pona  
-tenpo li tawa la jan [esun sitelen,,] li kama suli
+jan [nasa uta wawa,,] li pilin pona  
+tenpo li tawa la jan [nasa uta wawa,,] li kama suli
 
-suno wan la mama [ante tawa,, linja,,] li awen e jan [esun sitelen,,] lon tomo lili  
+suno wan la mama [e tenpo,,] li awen e jan [nasa uta wawa,,] lon tomo lili  
 zzzzzzzzzzzzzzzz li toki e te o tawa ala to  
-jan [esun sitelen,,] li awen lon tenpo mute a  
-pini la mama [ante tawa,, linja,,] li weka e jan [esun sitelen,,] tan tomo  
+jan [nasa uta wawa,,] li awen lon tenpo mute a  
+pini la mama [e tenpo,,] li weka e jan [nasa uta wawa,,] tan tomo  
 jan ale lon kulupu li pilin ike  
 jan [moli,,,, kama,,] li toki  
 zz te jan lili o  
-zzzz mi tawa ma [nasa,, lawa,,]  
+zzzz mi tawa ma [wawa,, lawa,,]  
 zzzz mi awen lon tenpo pi(muteseme) la mi sona ala  
 zzzz o awen tan kama sin mi to  
  
-jan [esun sitelen,,] li pilin ike  
-mama [ante tawa,, linja,,] kin li weka mute a  
+jan [nasa uta wawa,,] li pilin ike  
+mama [e tenpo,,] kin li weka mute a  
 zzzzzzzzzzzz li toki lili
 
-mama [ante tawa,, linja,,] li weka lon mun mute  
+mama [e tenpo,,] li weka lon mun mute  
 ona li kama sin la sike lukin wan li weka tan sinpin  
 ona li monsuta tawa lukin  
-pilin ike la mama [ante tawa,, linja,,] li tawa jan [esun sitelen,,]  
+pilin ike la mama [e tenpo,,] li tawa jan [nasa uta wawa,,]  
 zzzzzzzzzzzzzzzz li toki  
 zz te jan [moli,,,, kama,,] li ken ala kama sin to  
-jan [esun sitelen,,] li sona ala e tan  
+jan [nasa uta wawa,,] li sona ala e tan  
 jan [pimeja,,,, tenpo,,,] li kute  
 zzzzzzzz li kalama wawa tan pilin ike
 
-jan [esun sitelen,,] li taso  
+jan [nasa uta wawa,,] li taso  
 jan ala li ken lon poka ona  
 ona ale li pali mute  
 zzzz li lape ala  
-jan [esun sitelen,,] li wile tawa mama [ante tawa,, linja,,]  
+jan [nasa uta wawa,,] li wile tawa mama [e tenpo,,]  
 ona li alasa e ona lon ale tomo  
 ona li kama lon tomo suli  
 tomo la jan mute li lon  
 jan pi(mutelili) li lon insa  
-jan [esun sitelen,,] li sona e tomo ni  
-tomo ni la mama [ante tawa,, linja,,] li pini e moli ona  
-taso tenpo ni la mama [ante tawa,, linja,,] li awen lon supa  
-mama [ante tawa,, linja,,] li toki e nimi jan  
+jan [nasa uta wawa,,] li sona e tomo ni  
+tomo ni la mama [e tenpo,,] li pini e moli ona  
+taso tenpo ni la mama [e tenpo,,] li awen lon supa  
+mama [e tenpo,,] li toki e nimi jan  
 jan li kama  
-jan lon poka pi(mama [ante tawa,, linja,,]) li tu e sijelo ona  
+jan lon poka pi(mama [e tenpo,,]) li tu e sijelo ona  
 jan li moli  
-mama [ante tawa,, linja,,] li toki e nimi sin  
+mama [e tenpo,,] li toki e nimi sin  
 jan lili li kama  
-jan [esun sitelen,,] li ken ala awen  
+jan [nasa uta wawa,,] li ken ala awen  
 ona li tawa insa tomo  
 zz li toki
 
 te o pini to
 
-mama [ante tawa,, linja,,] li lukin e ona
+mama [e tenpo,,] li lukin e ona
 
-te jan [esun sitelen,,] o tawa tomo sina to
+te jan [nasa uta wawa,,] o tawa tomo sina to
 
 te sina moli e jan lili tan seme a  
 zz mi lon tomo ni la sina pini e moli mi  
@@ -162,22 +162,22 @@ zz o tawa to
 te ala a  
 zz o pini e moli to
 
-lukin pi(jan [esun sitelen,,]) li pana e telo  
-mama [ante tawa,, linja,,] li monsuta e ona  
+lukin pi(jan [nasa uta wawa,,]) li pana e telo  
+mama [e tenpo,,] li monsuta e ona  
 jan lon poka li tu e sijelo pi(janlili)  
-mama [ante tawa,, linja,,] li mu e jan utala  
-jan utala li tawa e jan [esun sitelen,,]  
-jan [esun sitelen,,] li weka ala tan tomo ona lon tenpo mute  
+mama [e tenpo,,] li mu e jan utala  
+jan utala li tawa e jan [nasa uta wawa,,]  
+jan [nasa uta wawa,,] li weka ala tan tomo ona lon tenpo mute  
 zzzzzzzz li pilin ike a  
-jan [ante tawa,, linja,,] li kama ike  
+jan [e tenpo,,] li kama ike  
 ona li mama ala
 
-pimeja la jan [esun sitelen,,] li weka kepeken lupa  
+pimeja la jan [nasa uta wawa,,] li weka kepeken lupa  
 ona li wile tawa ma ante  
-taso jan [ante tawa,, linja,,] li lon sinpin tomo  
+taso jan [e tenpo,,] li lon sinpin tomo  
 zzzzzzzzzzzz li lukin e ona  
-jan [ante tawa,, linja,,] li toki wawa e te o tawa ala to  
-jan [esun sitelen,,] li pilin monsuta a  
+jan [e tenpo,,] li toki wawa e te o tawa ala to  
+jan [nasa uta wawa,,] li pilin monsuta a  
 zzzzzzzz li tawa wawa  
 ona li kama lon ma kasi  
 ale li pimeja
@@ -194,13 +194,13 @@ zzzz li pana e ona tawa supa lape
 lape li pini la jan utala li kama e ona lon tomo suli  
 ona li lon anpa  
 kulupu jan li lon supa sewi2  
-jan lawa [nasa,, lawa,,] li lon supa  
+jan lawa [wawa,, lawa,,] li lon supa  
 ona li toki
 
-te sina kepeken len pi(ma [ante tawa,, linja,,])  
+te sina kepeken len pi(ma [e tenpo,,])  
 zz sina kama tan seme to
 
-te jan [ante tawa,, linja,,] li mama e mi  
+te jan [e tenpo,,] li mama e mi  
 zz taso ona li ike  
 zz ona li moli e jan lili  
 zz mi weka tan ona to
@@ -208,16 +208,16 @@ zz mi weka tan ona to
 jan li toki lon kulupu  
 jan [ken,, pali,,,,] li toki  
 zz te toki ona li ken lon ala  
-zzzz jan [nasa,, lawa,,] o  
-zzzz jan ni li wile pana e sona tawa jan ike [ante tawa,, linja,,]  
+zzzz jan [wawa,, lawa,,] o  
+zzzz jan ni li wile pana e sona tawa jan ike [e tenpo,,]  
 zzzz o moli e ona to
 
-taso jan [nasa,, lawa,,] li lukin pona e jan [esun sitelen,,]  
+taso jan [wawa,, lawa,,] li lukin pona e jan [nasa uta wawa,,]  
 zzzzzzzzzz li lukin e jaki e pakala lon sijelo ona  
 zzzzzzzzzzzzzze pilin monsuta lon sinpin ona  
 zzzzzzzzzz li wile pana e pona  
 ona li toki e wile  
-jan [esun sitelen,,] li ken awen lon tomo suli pi(jan [nasa,, lawa,,])  
+jan [nasa uta wawa,,] li ken awen lon tomo suli pi(jan [wawa,, lawa,,])  
 ona li ken ala toki tawa jan pi(maante)  
 taso jan ale o pona tawa ona  
 jan [ala,,, n] o mama e ona  

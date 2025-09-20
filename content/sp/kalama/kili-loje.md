@@ -3,7 +3,7 @@ title: kili loje
 date: 2025-05-29
 lang: sp
 details:
-- date: suno nanpa mute2 luka tu-wan la mun nanpa luka la sike nanpa owe mute2 luka  
+- date: suno nanpa mute2 luka tu-wan la mun nanpa luka la sike nanpa owe mute2 mute2 wan  
 - note: mi toki+pona e kalama musi [KALINKA] tan toki [lupa,, sina,,]
 ---
 

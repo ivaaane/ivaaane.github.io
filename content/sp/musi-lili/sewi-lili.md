@@ -3,7 +3,7 @@ title: sewi lili
 date: 2025-04-18
 lang: sp
 details:
-- date: suno nanpa luka-luka luka tu-tu la mun nanpa tu-tu la sike nanpa owe mute2 luka  
+- date: suno nanpa luka-luka luka tu-tu la mun nanpa tu-tu la sike nanpa owe mute2 mute2 wan
 - note: mi toki+pona e open toki pi(liputesewililito) tan mama [telo,, wile,,] [pali,, seli,,]
 ---
 

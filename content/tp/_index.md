@@ -21,23 +21,23 @@ lipu ni li kulupu e toki musi tan kulupu jan pi tenpo pini.
 
 _toki open_
 
-* [open lon](open-lon) la sewi li utala e pimeja li open e ale.
+1) [open lon](open-lon) la sewi li utala e pimeja li open e ale.
 
-* [open jan](open-jan) la jan li suli li tu.
+2) [open jan](open-jan) la jan li suli li tu.
 
-* [open utala](open-utala) la jan Nala en jan Atali li open e utala suli.
+3) [open utala](open-utala) la jan Wala en jan Ete li open e utala suli.
 
 _toki mun_
 
-* [jan suno](jan-suno) la jan suno li len lon nena li tu.
+1) [jan suno](jan-suno) la jan suno li len lon nena li tu.
 
-* [ma tomo](ma-tomo) la jan suno pi ma tomo li utala e lawa.
+2) [ma tomo](ma-tomo) la jan suno pi ma tomo li utala e lawa.
 
-* [pona sama](pona-sama) la jan suli li kama sona e pona sama.
+3) [pona sama](pona-sama) la jan suli li kama sona e pona sama.
 
 _toki jan_
 
-* [olin mama](olin-mama) la jan Esi li kama lon kulupu Nala.
+1) [olin mama](olin-mama) la jan Nuwa li kama lon kulupu Wala.
 
 ---
 
@@ -61,7 +61,9 @@ mi toki pona e lipu suli "Don Quijote" pi kon Sewante tan toki Epanjo.
 
 1) [sona en pali pi jan Kisote](jan-kisote-1)
 
-1) [tawa nanpa wan pi jan Kisote](jan-kisote-2)
+2) [tawa nanpa wan pi jan Kisote](jan-kisote-2)
+
+3) [lawa li jan utala e jan Kisote](jan-kisote-3)
 
 ---
 

@@ -2,7 +2,7 @@
 title: taso
 lang: sp
 details:
-- date: suno nanpa luka tu-tu la mun nanpa luka tu-wan la sike nanpa owe mute2 luka
+- date: suno nanpa luka tu-tu la mun nanpa luka tu-wan la sike nanpa owe mute2 mute2 wan
 - note: |
     mi pana e lipu ni tawa utala musi pi(toki+pona)  
     zzzzzz pini utala la mi nanpa tu a

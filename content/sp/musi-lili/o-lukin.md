@@ -3,7 +3,7 @@ title: o lukin
 date: 2025-08-12
 lang: sp
 details:
-- date: suno nanpa luka-luka tu la mun nanpa luka tu-wan la sike nanpa owe mute2 luka
+- date: suno nanpa luka-luka tu la mun nanpa luka tu-wan la sike nanpa owe mute2 mute2 wan
 ---
 
 o lukin  

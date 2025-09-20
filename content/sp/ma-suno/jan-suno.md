@@ -3,7 +3,7 @@ title: jan suno
 date: 2025-04-24
 lang: sp
 details:
-- date: suno nanpa mute2 tu-wan lon mun nanpa tu-tu lon sike nanpa owe mute2 wan  
+- date: suno nanpa mute2 tu-wan lon mun nanpa tu-tu lon sike nanpa owe mute2 mute2 wan  
 - edit: suno nanpa luka-luka la mun nanpa luka tu-wan la sike nanpa owe mute2 luka  
 - note: toki mun nanpa open lon lipu te ma suno to
 last: open-utala

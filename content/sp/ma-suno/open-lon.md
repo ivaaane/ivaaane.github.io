@@ -3,7 +3,7 @@ title: open lon
 date: 2025-03-29
 lang: sp
 details:
-- date: suno nanpa mute2 luka tu-tu la mun nanpa tu-wan la sike nanpa owe mute2 wan  
+- date: suno nanpa mute2 luka tu-tu la mun nanpa tu-wan la sike nanpa owe mute2 mute2 wan  
 - edit: suno nanpa luka tu-wan la mun nanpa luka tu-wan la sike nanpa owe mute2 wan  
 - note: |
     ni li toki e open ale lon sona pi(jansuno)  

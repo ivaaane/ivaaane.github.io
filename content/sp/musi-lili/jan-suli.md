@@ -3,7 +3,7 @@ title: jan suli kasi
 date: 2025-05-30
 lang: sp
 details:
-- date: suno nanpa mute2 luka tu-wan la mun nanpa tu-wan la sike nanpa owe mute2 luka  
+- date: suno nanpa mute2 luka tu-wan la mun nanpa tu-wan la sike nanpa owe mute2 mute2 wan  
 - edit: suno nanpa luka-luka la mun nanpa luka tu-wan la sike nanpa owe mute2 luka  
 - note: mi toki+pona e toki musi [EL GEGANT DEL PI] pi(kulupu [kasi,, tawa,, lawa,,])
 ---

@@ -11,7 +11,7 @@ outputs:
 
 <br>
 
-Saluton~ mi estas sieni (retnomo, skribu minuskle), malprofesia skribanto, foje programanto kaj aĵo-faranto el Katalunio. Ĉi tiu estas mia persona arkivo, kie mi gardas ĉiujn verkojn fare de mi. Mi ankaŭ skribas en [la hispana](es), mia denaska lingvo, kaj, ĉefe, en [la tokipona](/sp), en kiu mi estas pli flua. 
+Saluton~ mi estas sieni (retnomo, skribu minuskle), malprofesia skribanto, foje programanto kaj aĵo-faristo el Katalunio. Ĉi tiu estas mia persona arkivo, kie mi gardas ĉiujn verkojn fare de mi. Mi skribas ĉefe en [la tokipona](/sp) lingvo, kiun mi estas pli flua. 
 
 <br>
 
@@ -25,4 +25,4 @@ Saluton~ mi estas sieni (retnomo, skribu minuskle), malprofesia skribanto, foje 
 
 ## Tradukoj
 
-* [Bonaj Aŭguroj](bonaj-auhguroj-0) ([0](bonaj-auhguroj-0), [1](bonaj-auhguroj-1)) [nefinita]
+* [Bonaj Aŭguroj](bonaj-auhguroj-0) [[0](bonaj-auhguroj-0)] [[1](bonaj-auhguroj-1)]...

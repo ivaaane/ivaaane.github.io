@@ -25,15 +25,15 @@ _ilo li lili la o sike e lukin_
 
 lipu ni li kulupu e toki musi tan kulupu jan pi(tenpopini)  
 toki open la  
-zzzzzz [open lon](open-lon) _la sewi li utala e pimeja li open e ale_  
-zzzzzz [open jan](open-jan) _la jan li suli li tu_  
-zzzzzz [open utala](open-utala) _la jan [nasa,, lawa,,] en jan [ante taso,, linja,,] li open e utala suli_  
+zzzz [open lon](open-lon) _la sewi li utala e pimeja li open e ale_  
+zzzz [open jan](open-jan) _la jan li suli li tu_  
+zzzz [open utala](open-utala) _la jan [nasa,, lawa,,] en jan [ante taso,, linja,,] li open e utala suli_  
 toki mun la  
-zzzzzz [jan suno](jan-suno) _la jan suno li len lon nena li tu_  
-zzzzzz [ma tomo](ma-tomo) _la jan suno pi(matomo) li utala e lawa_  
-zzzzzz [pona sama](pona-sama) _la jan suli li kama sona e pona sama_  
+zzzz [jan suno](jan-suno) _la jan suno li len lon nena li tu_  
+zzzz [ma tomo](ma-tomo) _la jan suno pi(matomo) li utala e lawa_  
+zzzz [pona sama](pona-sama) _la jan suli li kama sona e pona sama_  
 toki jan la  
-zzzzzz [olin mama](olin-mama) _la jan [esun sitelen,,] li kama lon kulupu [nasa,, lawa,,]_
+zzzz [olin mama](olin-mama) _la jan [esun sitelen,,] li kama lon kulupu [nasa,, lawa,,]_
 
 ---
 
@@ -50,7 +50,8 @@ zz [jan suli kasi](jan-suli) _la kulupu [kasi,, tawa,, lawa,,] li toki e kalama 
 
 mi toki+pona e lipu suli [DON QUIJOTE] pi(kon [sewi,,, ante,,,,]) tan toki [en pan,,, jo,,]  
 zz _nanpa wan la_ [sona en pali pi(jan [kiwen,, sona,, tenpo])](jan-kisote-1)  
-zz _nanpa tu la_ [tawa nanpa wan pi(jan [kiwen,, sona,, tenpo])](jan-kisote-2)
+zz _nanpa tu la_ [tawa nanpa wan pi(jan [kiwen,, sona,, tenpo])](jan-kisote-2)  
+zz _nanpa tu-wan la_ [lawa li jan utala e jan [kiwen,, sona,, tenpo]](jan-kisote-3)
 
 ---
 

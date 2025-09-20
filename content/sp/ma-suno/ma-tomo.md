@@ -3,7 +3,7 @@ title: ma tomo
 date: 2025-05-31
 lang: sp
 details:
-- date: suno nanpa mute2 luka-luka wan lon mun nanpa luka lon sike nanpa owe mute2 wan  
+- date: suno nanpa mute2 luka-luka wan lon mun nanpa luka lon sike nanpa owe mute2 mute2 wan  
 - edit: suno nanpa luka-luka la mun nanpa luka tu-wan la sike nanpa owe mute2 luka  
 last: jan-suno
 next: pona-sama

@@ -1,8 +1,7 @@
 /* color */
 :root {
     --text: black;
-    --bg: antiquewhite;
-    --dots: pink;
+    --bg: #faebd7;
     --page: white;
     --link: darkblue;
 }
@@ -10,9 +9,9 @@
 body.dark-mode {
     --text: white;
     --bg: rgb(3, 0, 3);
-    --dots: rgb(30, 0, 30);
     --page: black;
     --link: pink;
+    background-image: none;
 
     .ss {
         filter: invert(1);
@@ -26,7 +25,7 @@ body.dark-mode {
 /* general */
 
 body {
-    font-family: ucsur, "Open Sans", serif;
+    font-family: ucsur, serif;
     background-color: var(--bg);
     color: var(--text);
     max-width: 50rem;
@@ -35,11 +34,7 @@ body {
     text-align: justify;
     hyphens: auto;
     line-height: 175%;
-
-    background-image: radial-gradient(var(--dots) 10%, transparent 15%);
-    background-repeat: repeat;
-    background-size: 15px 15px;
-    background-position: center;
+    background-image: url(/media/background.png);
 }
 
 h1, h2, h3 {
@@ -62,6 +57,7 @@ a {
 }
 
 img {
+    image-rendering: optimizeSpeed;
     max-width: 100%;
     height: auto;
 }
@@ -81,6 +77,15 @@ td, th {
     border-left: 1px solid;
     border-right: 1px solid;
     padding: 10px;
+}
+
+button {
+    background-color: var(--page);
+    color: var(--text);
+    border: 1px solid var(--text);
+    &:active {
+        transform: translateY(2px) translateX(2px);
+    }
 }
 
 /* classes */
@@ -123,20 +128,15 @@ td, th {
 }
 
 .rss {
-    width: 3%;
     position: absolute;
     top: 15px;
-    right: 15px;
+    left: 20px;
 }
 
-.mobile {
-    display: none;
-}
-
-.switch {
+.theme {
     text-align: right;
     position: absolute;
-    bottom: 15px;
+    top: 15px;
     right: 15px;
 }
 
@@ -179,6 +179,10 @@ td, th {
     opacity: 1;
 }
 
+.mobile {
+    display: none;
+}
+
 /* langs */
 @font-face {
     font-family: "nasin-nanpa";
@@ -192,7 +196,6 @@ td, th {
 }
 
 .tp, .eo, .es, .en {
-    font-size: 90%;
     line-height: 180%;
 
     h1, h2, h3 {
@@ -236,7 +239,7 @@ td, th {
 @media (max-width: 600px) {
     body {
         padding: 0;
-        font-size: 75%;
+        font-size: 90%;
     }
     video {width: 50%;} 
     .box {
