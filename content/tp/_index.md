@@ -70,7 +70,7 @@ mi toki pona e lipu suli "Don Quijote" pi kon Sewante tan toki Epanjo.
 
 # _kalama musi_
 
-mi toki pona e kalama musi tan toki ante mute. mi sona ala kalama uta, taso mi sitelen e ni tan musi. kin la, mi sona kalama ala la, kalama li ken ike tawa kute...
+mi toki pona e kalama musi tan toki ante mute. mi sona ala kalama uta, taso mi sitelen e ni tan musi. kin la, mi ken ala kalama la, kalama li ken ike tawa kute...
 
 * [tawa pona](tawa-pona), tan toki Italija
 

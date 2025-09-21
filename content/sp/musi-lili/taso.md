@@ -4,7 +4,7 @@ lang: sp
 details:
 - date: suno nanpa luka tu-tu la mun nanpa luka tu-wan la sike nanpa owe mute2 mute2 wan
 - note: |
-    mi pana e lipu ni tawa utala musi pi(toki+pona)  
+    mi pana e lipu ni tawa [utala musi pi(toki+pona)](https://utala.pona.la)  
     zzzzzz pini utala la mi nanpa tu a
 ---
 
@@ -743,3 +743,335 @@ mi lukin e sewi2
 zz a n
 
 ## pimeja
+
+sewi2 li pimeja zzzz  
+taso mun li lon ala zz  
+tenpo kama la telo li kama tan sewi2  
+mi sona zzzzzzzzzzzzzzzzzz  
+ma ni la telo li wawa zzzz  
+ale li pakala zzzz  
+{.right}
+
+zzzz mi wile ala ni  
+zzzz mi wile ala telo  
+zzzz mi wile ala lete  
+zzzz mi wile len  
+zz taso kasi li len ike  
+mi wile pali e len pona  
+ken la mi ken pali e tomo  
+zzzzzzzzzzzz tomo li wawa  
+zzzzzzzzzzzzzz li len  
+tomo la ijo pi(miala) li ken ala lon insa  
+zzzzzzzz mi lukin e anpa  
+zzzzzzzz mi ken pali e tomo tan palisa  
+zzzzzzzzzzzzzzzzzz tan kasi  
+a(zz)  
+zzzz pilin ike li pona ala e kama  
+zzzz mi sona e utala kama  
+zzzz mi kulupu e palisa tan anpa  
+zzzz mi alasa e ma pona tawa tomo
+
+## ma
+
+ma seme li pona  
+ma ni la nena li lon insa  
+mi tawa anpa nena  
+telo wawa li kama tan sewi la telo li tawa anpa  
+zzzzzzzzzzzzzzzz li pakala e ale  
+ma anpa la tomo li pakala  
+mi tawa nena  
+zz ma nena la telo li weka  
+zz taso nena la kasi suli li lon ala  
+ala li lili e wawa telo  
+ala la mi ken awen e tomo  
+ma nena la tomo li pakala  
+mi tawa ale ma  
+n(zz)  
+zzzz anpa en nena la mi tawa insa  
+zzzz kasi suli li lon  
+zzzz taso ma insa li sewi2 a tawa anpa  
+zzzzzzzzzz li poka tawa nena  
+zzzz ni^ la telo li tawa lon anpa la wawa telo li lili  
+zzzzzzzz kasi li lon la mi ken awen e tomo  
+zzzzzzzz tomo li lon sinpin kasi wawa la kasi li awen e tomo  
+ma insa li pona
+
+## pali
+
+zzzz mi kama pali  
+pali la mi ante e ijo kepeken wawa  
+zzzzzzzzzzzz mi wawa lili  
+zz taso mi awen pali  
+lili en ala la lili li pona  
+mi pana e palisa tawa anpa  
+mi kulupu e palisa  
+zzzzzz palisa li supa  
+zzzzzzzz li awen lon sewi2 palisa ante sama sinpin  
+taso sinpin li pakala  
+a(zz)  
+zzzz mi alasa kepeken nasin ante  
+zzzzzz pakala  
+zzzzzzzzzz palisa ale li anpa  
+mi alasa sinpin sin e palisa  
+zzzzzz pakala  
+mi alasa mute kepeken nasin mute
+
+## pakala
+
+mi lape lili  
+mi lukin e sewi2  
+
+pimeja li wawa  
+{.right}
+
+mi ken ala lape  
+mi ken ala anpa  
+a(zzzz)  
+zzzz mi pana e palisa  
+zzzz mi pana e palisa ante lon poka  
+zzzzzzzzzz palisa tu la  
+zzzzzzzzzzzz sewi la mi pana e palisa lon insa  
+anpa la mi pana e palisa lon poka  
+palisa sin en palisa poka la sewi2 la mi pana e palisa lon insa  
+mi awen pali ni  
+sinpin li anpa ala  
+zz pona  
+pini la tomo li lili  
+zzzzzz li sike  
+sike la palisa li awen e palisa lon sewi2  
+mi pana e kasi tawa selo  
+zzzz lupa li lon  
+
+kalama wawa  
+telo  
+{.right}
+
+mi tawa insa  
+tomo li awen ala awen  
+pali li pona ala pona  
+
+telo wawa li kama  
+tenpo li tawa
+{.right}
+
+taso tomo li awen
+
+---
+
+## tenpo
+
+tenpo pi(muteseme) la mi lon ma lili ni  
+zzzzzzzzzz mi sona ala  
+ma ante la jan li kepeken nanpa  
+zzzzzzzz jan li nanpa e mute tenpo  
+jan li toki e te tenpo nanpa ale-ale ale-ale ale-ale ale-ale ale-ale ale-ale ale-ale ale-ale ale-ale ale-ale mute2 mute2 mute2 mute2 tu-tu la n() to  
+zzzz toki suli a  
+zzzzzz kulupu jan la nanpa li ale  
+zzzzzzzzzz mi nanpa  
+zzzzzzzz tenpo li nanpa  
+zzzzzzzz mani li nanpa  
+zzzzzzzz suno li nanpa  
+zzzzzzzzzz mi nanpa ala e suno  
+zzzzzzzzzz mi wile ala  
+zzzzzzzz kulupu la nanpa mi li wile tawa jan ante taso  
+zzzzzzzzzzzzzzzzzzzzzz jan ante ala li lon ma ni  
+mi taso
+
+## taso
+
+zz mi tawa  
+zz mi lukin e kasi  
+zzzzzzzz kasi li suli  
+zzzzzzzzzz li laso wawa  
+zzzzzzzz kasi lili li kule ante  
+zzzzzzzzzzzz li suwi  
+pipi kule li lon kasi lili  
+zzzz mi lukin e kiwen  
+akesi lili li lape lon kiwen suli  
+zz suno li walo e kiwen  
+zzzz mi lukin e telo  
+zzzzzzzzzzzz suli  
+zzzzzzzzzzzz supa  
+zz ala li utala e telo  
+zzzzzzzzzz telo li awen e ma  
+zz ale li kama kepeken telo  
+zz ale li weka kepeken telo  
+zzzz mi kama tan telo  
+zzzz mi tawa nena  
+zzzz mi lukin e ale  
+taso la mi lukin e suno mute  
+zzzzzzzz e mun mute  
+zzzz mi lukin e tomo  
+tomo nanpa wan li pakala lili la mi pali e tomo sin  
+zzzzzzzzzzzzzzzzzzzz tomo li pona  
+zzzzzzzzzzzzzzzzzzzz tomo li awen lon ike mute  
+suno ale la mi moku e kala  
+zzzzzzzzzz e kili  
+mi tawa li lape  
+zzzz li lukin e telo  
+zzzzzzzz e mun  
+taso  
+zz jan ala li lon  
+zz jan ala li tawa  
+zzzzzz li lape  
+zzzzzz li lukin lon poka mi  
+a(nasa)  
+zzzzzz mi pilin pona  
+tenpo mute la mi pilin pona  
+ma jan la mi pilin ala pilin sama  
+zzzzzzzzzz ala  
+zz jan la mi tawa ala  
+zzzzzz mi pali  
+zzzzzz mi lukin ala e kasi  
+zzzzzzzzzzzz e mun  
+zzzzzz mi pilin pona ala  
+zzzzzzzzzzzzzz n  
+zzzzzzzzzzzzzz li pilin ike ala  
+zz nasa  
+ma ni la pilin ale li wawa  
+mi pilin pona li pilin ike  
+zzzz pona en ike li lon  
+seme li kama e pona  
+zzzzzz e ike  
+ken la
+
+## mi
+
+zzzzzzzzzzzz mi  
+ma li pana e ijo la mi pana e pona anu ike  
+zzzzzzzz ike la mi o alasa e pona  
+zzzzzzzz pona la ike li kama lon pini  
+zzzzzzzz pona li kama li weka  
+zzzzzzzz ike li kama li weka  
+zzzzzzzz ala li awen  
+zzzzzz mi taso li ken awen  
+zzzzzz mi ken kama e pona tan ike  
+a(sonasulizzzz)  
+mi lape  
+suno li suwi  
+mi lukin e sewi2  
+zzzzzzzz laso  
+zzzz ale li laso  
+zz ma jan la laso li lili  
+zz mi lukin e laso sewi2  
+zz mi lukin e laso kasi  
+zz mi lukin e laso telo  
+zz mi lukin e
+
+## jan
+
+zzzz seme  
+zzzzzzzzzzijo li lon telo  
+zzzzzzzzzz ijo pimeja  
+zzzzzzzzzz tomo  
+jan taso li pali e tomo  
+zzzzzzzzzz tomo li tawa  
+zzzzzzzzzz tomo li tawa ma  
+jan li lon  
+zzzz a&seme  
+mi o seme  
+mi o len ala len  
+zz n(len)  
+mi wile len tan seme  
+ken la jan li ike  
+ken la n(zz)  
+zzzzzzzz mi wile ala tawa  
+zz ma ni li pona  
+zz ma mi  
+zzzz mi jo e moku  
+zzzzzzzz e tomo  
+jan ala li ike e ma  
+jan ala li pakala e ma  
+jan  
+zz n  
+zzzz li ike  
+
+jan li pakala zzzzzz  
+jan li moku e ma zz  
+jan li moli e ma zz  
+jan ala li lon ma mi  
+jan ala zzzzzzzz  
+{.right}
+
+mi taso
+
+## taso
+
+zz taso  
+zzzz noka li tawa ala  
+zzzzzz mi wile awen  
+zzzzzz mi wile lukin e tomo  
+zzzzzz mi ken ala len  
+tan seme la mi wile tawa  
+zzzzzz mi wile toki tawa jan ante  
+zzzzzz mi wile lon poka jan  
+tan seme  
+zzzzzz mi wile lape li wile tawa  
+zzzzzzzzzzzz li wile lukin lon poka jan  
+tan seme  
+zzzzzz mi wile pana  
+zz ale la mi jan  
+zzzzzz mi ijo ante ala  
+zzzzzz mi jan  
+zzzzzz mi pali sama jan  
+zzzzzz mi wile jan  
+zzzzzz mi wile ala taso  
+jan li ken ike sama ma ni  
+zzzzzzzzzz ma li pana e ike mute  
+zzzzzzzzzz ma la kili ike en telo ike li lon  
+zzzzzzzzzz ma li utala a e mi  
+zzzz taso sama la ma li pana e pona mute  
+zzzzzzzz a(malianteemizz)  
+zzzz jan li sama ma  
+zzzz jan li ken pona  
+zzzz jan li ken kulupu tawa pona  
+zzzz jan li ike li pakala  
+zzzzzz li pona li pali  
+zzzz jan li utala li olin  
+zzzzzz li jaki li suwi  
+zzzzzz li moli li mama  
+zzzzzz li kalama li kute  
+zzzzzz li sitelen  
+zzzzzz li lukin  
+zzzzzz li esun  
+zzzzzz li jo  
+zzzzzz li pana  
+zzzzzz li tawa  
+zzzzzz li kama  
+zzzzzz li pilin  
+zzzzzz li lape  
+zzzzzz li musi  
+zzzzzz li ante  
+a(mijanzzzz)  
+zz mi wile pana  
+zz mi wile n()  
+zz mi wile moku e pan  
+zz mi moku e kili e kala taso  
+zz mi wile moku e ijo mute  
+zz mi wile olin  
+zz mi wile sitelen  
+zz mi wile toki  
+zz mi wile pona  
+zz mi wile pini e taso
+
+taso li pana e pona tawa mi  
+mi wile pana e pona ni^
+
+mi lukin e kasi  
+zzzz e kili  
+zzzz e kiwen  
+zzzz e telo  
+zzzzzzzz tawa pona  
+wawa la mi tawa poka telo  
+zzzz mi lukin e tomo tawa  
+zzzz mi sewi2 e luka tu  
+zzzz mi toki
+
+## te o to
+
+<br>
+
+_ma [mani alasa telo alasa]_  
+_15/7/2025_
+{.right}
+
