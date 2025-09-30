@@ -6,7 +6,7 @@ outputs:
 - rss
 ---
 
-{{<rss link="/tp/index.xml">}}
+{{<rss link="/tp/rss.xml">}}
 
 ![soko2 [soko2 ilo jasima esun nasa ilo]](/media/ss.png)
 {.ss}
@@ -17,27 +17,27 @@ toki a! mi soko sijeni. mi tonsi tan ma Katala. mi mama e lipu la mi pana tawa p
 
 # _ma suno_
 
-lipu ni li kulupu e toki musi tan kulupu jan pi tenpo pini.
+lipu ni li kulupu e toki musi tan kulupu jan pi tenpo pini. 
 
-_toki open_
+# _toki open_
 
-1) [open lon](open-lon) la sewi li utala e pimeja li open e ale.
+* [open lon](open-lon)
 
-2) [open jan](open-jan) la jan li suli li tu.
+* [open jan](open-jan)
 
-3) [open utala](open-utala) la jan Wala en jan Ete li open e utala suli.
+* [open utala](open-utala)
 
-_toki mun_
+# _toki mun_
 
-1) [jan suno](jan-suno) la jan suno li len lon nena li tu.
+* [jan suno](jan-suno)
 
-2) [ma tomo](ma-tomo) la jan suno pi ma tomo li utala e lawa.
+* [ma tomo](ma-tomo)
 
-3) [pona sama](pona-sama) la jan suli li kama sona e pona sama.
+* [pona sama](pona-sama)
 
-_toki jan_
+# _toki jan_
 
-1) [olin mama](olin-mama) la jan Nuwa li kama lon kulupu Wala.
+* [olin mama](olin-mama)
 
 ---
 
@@ -45,13 +45,13 @@ _toki jan_
 
 lipu ni mute li kulupu ala, li lili.  
 
-* [taso](taso) la jan li taso li alasa moli ala lon ma lili.
+* [taso](taso)
 
-* [o lukin](o-lukin) li toki pilin lili.
+* [o lukin](o-lukin)
 
-* [jan Josi en waso monsuta](jan-josi-en-waso-monsuta) li toki musi pi tenpo pini tan ma Elopa.
+* [jan Josi en waso monsuta](jan-josi-en-waso-monsuta)
 
-* [jan suli kasi](jan-suli) la kulupu Katala li toki e kalama musi tan ni.
+* [jan suli kasi](jan-suli)
 
 ---
 

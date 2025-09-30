@@ -38,3 +38,9 @@ etaj detaloj
 post la pluveto  
 herbojn lumigas la sun'  
 kaj verd' ekbrilas  
+
+## Aŭtuno, 2025
+
+nun el la tero  
+jam ŝanĝita l' plant-kolor’  
+multiĝas fungoj  

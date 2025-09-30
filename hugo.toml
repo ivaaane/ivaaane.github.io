@@ -17,6 +17,8 @@ disableKinds = ["taxonomy", "term"]
   block = true
   title = true
 
-[caches]
-  [caches.images]
-    dir = ':cacheDir/images'
+[caches.images]
+  dir = ':cacheDir/images'
+
+[outputFormats.RSS]
+  baseName = "rss"

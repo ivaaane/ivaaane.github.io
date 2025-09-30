@@ -25,10 +25,11 @@ body.dark-mode {
 /* general */
 
 body {
+    font-size: 90%;
     font-family: ucsur, serif;
     background-color: var(--bg);
     color: var(--text);
-    max-width: 50rem;
+    max-width: 45rem;
     margin: 0 auto;
     padding: 1rem;
     text-align: justify;
@@ -52,7 +53,6 @@ a {
 
     &:hover {
         text-decoration: underline;
-        font-style: italic;
     }
 }
 
@@ -86,6 +86,10 @@ button {
     &:active {
         transform: translateY(2px) translateX(2px);
     }
+}
+
+ul, ol {
+    padding-inline-start: 1rem;
 }
 
 /* classes */
@@ -249,7 +253,6 @@ button {
         box-shadow: 0 0;
     }
     .ss {width: 30%;}
-    .rss {display: none;}
     .mobile {display: block;}
     .table {text-align: left;}
 }
