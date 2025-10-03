@@ -1,25 +1,28 @@
 ---
 title: Antaŭ dek unu jaroj
 lang: eo
+details:
+- date: 3/10/2025
+- note: Traduko de la unua ĉapitro de Good Omens; originale verkis angle Neil Gaiman kaj Terry Pratchett en 1990.
 ---
 
-Nunaj teorioj pri la kreado de la Universo deklaras, ke se ĝi estis kreita entute kaj ne simple komenciĝis, por diri iel, neoficiale, ĝi ekestis antaŭ inter dek kaj dudek mil milionoj da jaroj. Sammaniere la tero mem supozeble aĝas ĉirkaŭ kvar kaj duonon mil milionojn da jaroj.
+Nunaj teorioj pri la kreo de la Universo deklaras, ke se ĝi estis kreita entute kaj ne simple komenciĝis, por diri iel, neoficiale, ĝi ekestis antaŭ inter dek kaj dudek mil milionoj da jaroj. Sammaniere la tero mem supozeble aĝas ĉirkaŭ kvar kaj duonon mil milionojn da jaroj.
 
 Tiuj datoj estas malĝustaj.
 
-Mezepokaj judaj akademianoj datigis la Kreon je 3760 a.K. Grekaj ortodoksaj teologoj datigis la Kreon jam je 5508 a.K.
+Mezepokaj judaj akademianoj datigis la Kreon je 3760 ᴀᴋ. Grekaj ortodoksaj teologoj datigis la Kreon jam je 5508 ᴀᴋ.
 
 Ankaŭ tiuj sugestoj estas malĝustaj.
 
-Ĉefepiskopo Jakobo Uŝero (1580-1656) publikigis *Annales Veteris et Novi Testaments* en 1654, kiu sugestis, ke la Ĉielo kaj la Tero estis kreita je 4004 a.K. Unu el liaj asistantoj pliprofundigis la kalkulon, kaj eblis al li anonci triumfe, ke la Tero estis kreita dimanĉe 21-an de oktobro, 4004 a.K., precize je la 9:00 matene, ĉar Dio ŝatis fini la laboron frue matene dum Li sentas freŝa.
+Ĉefepiskopo Jakobo Uŝero (1580-1656) publikigis *Annales Veteris et Novi Testaments* en 1654, kiu sugestis, ke la Ĉielo kaj la Tero estis kreita je 4004 ᴀᴋ. Unu el liaj asistantoj pliprofundigis la kalkulon, kaj eblis al li anonci triumfe, ke la Tero estis kreita dimanĉe 21-an de oktobro, 4004 ᴀᴋ, precize je la 9:00 matene, ĉar Dio ŝatis fini laboron frue matene dum Li sentas sin freŝa.
 
-Ankaŭ tiu estas malĝusta. Pro preskaŭ kvarono da horo.
+Ankaŭ tiu estis malĝusta. Pro preskaŭ kvarono da horo.
 
 La tuta afero pri la fosiliaj dinosaŭraj skeletoj estis ŝerco, kiun paleontologoj ankoraŭ ne vidas.
 
 Tio pruvas du aferojn:
 
-Unue, Dio moviĝas laŭ ekstreme misteraj, por ne diri, sinuaj manieroj. Dio ne ludas ĵetkubojn per la universo; Li ludas neesprimeblan ludon de sia propra kreivo, kiun oni povus kompari, laŭ la perspektivo de iu ajn alia ludanto{{<note text="t.e., ĉiuj">}}, al partoprenado ĉe obskura kaj kompleksa versio de pokero en tre malluma ĉambro, kun malplenaj kartoj, dum senfinaj vetoj, kun krupiisto, kiu ne diras al vi la regulojn, kaj *ĉiam ridetas*.
+Unue, Dio movas laŭ ekstreme misteraj, por ne diri, sinuaj manieroj. Dio ne ludas ĵetkubojn per la universo; Li ludas neesprimeblan ludon de sia propra kreivo, kiun oni povus kompari, laŭ la perspektivo de iu ajn alia ludanto,{{<note text="t.e., ĉiuj">}} al partoprenado ĉe obskura kaj kompleksa versio de pokero en tre malluma ĉambro, kun malplenaj kartoj, dum senfinaj vetoj, kun krupiisto, kiu ne diras al vi la regulojn, kaj *ĉiam ridetas*.
 
 Due, la Tero estas Pesilo.
 
@@ -27,9 +30,15 @@ La astrologia antaŭdiro pri Pesilo en la "Viaj Steloj Hodiaŭ" kolumno el Tadfi
 
 > **♎︎ PESILO. 24-a de septembro---23-a de oktobro.**  
 > **Eble vi sentas vin elĉerpita kaj ĉiam en la sama malnova ĉiutaga rondo. Hejmaj kaj familiaj aferoj estas elstaraj kaj pendas de fajro. Evitu nenecesajn riskojn. Amiko estas grava por vi. Flankenigu gravajn decidojn, ĝis ke la vojo antaŭen ŝajnas klara. Eble vi estas vundebla al stomakdoloro hodiaŭ, do evitu salatojn. Helpo povas alveni de neatendita loko.**
+{.details}
 
 Ĉi tiu estis perfekte ĝusta laŭ ĉiuj aspektoj, krom la parteto pri salatoj.
 
+<br>
+
+# [! NEFINITA !]
+
+<!--
 {{<div>}}
 
 Ne estis malluma kaj tempesta nokto.
@@ -65,3 +74,4 @@ Kroŭlo havis malhelajn harojn kaj bonajn vangostojn, kaj li surportis serpentha
 Li ankaŭ ne multe palpebrumis.
 
 La aŭto, kiun li stiris, estis 1926 nigra Bentlejo, de nur unu posedanto ekde nova, kaj ĉi posedanto estis Kroŭlo. Li flegis ĝin.
+-->

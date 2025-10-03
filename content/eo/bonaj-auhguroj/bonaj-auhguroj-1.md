@@ -4,6 +4,7 @@ lang: eo
 date: 2025-08-31
 details:
 - date: 31/8/2025
+- edit: 3/10/2025
 - note: Traduko de la enkonduko de la roluloj de Good Omens; originale verkis angle Neil Gaiman kaj Terry Pratchett en 1990.
 last: bonaj-auhguroj-0
 ---
@@ -12,7 +13,7 @@ last: bonaj-auhguroj-0
 
 Rakontado pri Certaj Eventoj okazintaj je la lastaj dek unu jaroj de la homa historio, laŭ strikta konformo, kiel estos montrata, al:
 
-### **La Bonaj kaj Precizaj Profetaĵoj de Agnes Nutter**
+### **La Bonaj kaj Precizaj Profetaĵoj de Agnes Frenezulo**
 
 Kompilis kaj editoris, kun Piednotoj de Eduka Naturo kaj Priskriboj por la Saĝuloj, Neil Gaiman kaj Terry Pratchett.
 
@@ -54,17 +55,17 @@ Poluo (Poluo)
 
 Vi-Ne-Devas-Adulti Pulsifer (Sorĉistĉasisto)
 
-Agnes Nutter (Profetino)
+Agnes Frenezulo (Profetino)
 
-Neŭtono Pulsifer (Salajra Oficisto kaj Sorĉistĉasisto Privata)
+Neŭtono Pulsifero (Salajra Oficisto kaj Sorĉistĉasisto Privata)
 
-Anatema Divajso (Praktika Okultistino kaj Profesia Descendulo)
+Anatema Ilo (Praktika Okultistino kaj Profesia Descendulo)
 
 Ŝadvelo (Sorĉistĉasisto Serĝenta)
 
 Sinjorino Trejsi (Pentrita Jezabelino [nur matene, ĵaŭde laŭ aranĝo] kaj Mediumo)
 
-Fratino Maria Parolema (Satana Monakino el la Babilanta Ordo de Sankta Berilo)
+Fratino Maria Parolema (Satana Monakino el la Babilanta Ordo de Sankta Berilino)
 
 S-ro Joung (Patro)
 
@@ -83,9 +84,9 @@ Venslejo (Knabo)
 Briano (Knabo)
 
 Plena Koruso de Tibetanoj, Eksterteranoj, Usonanoj, Atlantidanoj kaj aliaj raraj kaj strangaj Estaĵoj de la Lastaj Tagoj.
-
+ 
 ### **Kaj:**
 
-Hundo (Satana inferhundo kaj kato-maltrankvilanto)
+Hundo (Satana inferhundo kaj kato-maltrankviliganto)
 
 </div>
