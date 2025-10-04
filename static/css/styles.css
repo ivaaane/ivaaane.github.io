@@ -8,10 +8,10 @@
 
 body.dark-mode {
     --text: white;
-    --bg: rgb(3, 0, 3);
+    --bg: black;
     --page: black;
     --link: pink;
-    background-image: none;
+    background-image: url(/media/backgrounds/dark.png);
 
     .ss {
         filter: invert(1);
@@ -35,7 +35,7 @@ body {
     text-align: justify;
     hyphens: auto;
     line-height: 175%;
-    background-image: url(/media/background.png);
+    background-image: url(/media/backgrounds/light.png);
 }
 
 h1, h2, h3 {
@@ -90,6 +90,7 @@ button {
 
 ul, ol {
     padding-inline-start: 1rem;
+    list-style-image: url(/media/list.png);
 }
 
 /* classes */

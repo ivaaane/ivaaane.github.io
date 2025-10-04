@@ -25,4 +25,10 @@ Saluton~ mi estas sieni (retnomo, skribu minuskle), malprofesia skribanto, foje 
 
 ## Tradukoj
 
-* [Bonaj Aŭguroj](bonaj-auhguroj-0) [[0](bonaj-auhguroj-0)] [[1](bonaj-auhguroj-1)] [[2](bonaj-auhguroj-2)] ...
+* [Bonaj Aŭguroj](bonaj-auhguroj-0) [[0](bonaj-auhguroj-0), [1](bonaj-auhguroj-1), [2](bonaj-auhguroj-2)] ...
+
+---
+
+## Aliaĵoj
+
+* [Mia libroŝranko](libroshranko)

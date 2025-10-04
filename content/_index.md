@@ -2,6 +2,6 @@
 title: sieni
 ---
 
-* [󱥄​󱤮​󱤬​󱥬​󱥔​󱥍󱦗󱥠󱥔󱦘](/sp)
+* <a href="/sp"><span class="sp">o lukin lon toki+pona pi(sitelen+pona)</span></a>
 * [o lukin lon toki pona pi sitelen Lasina](/tp)
 * [vidi en Esperanto](/eo)
