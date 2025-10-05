@@ -1,26 +1,28 @@
-/* color */
-:root {
+/* COLOR */
+
+:root[data-theme="light"] {
     --text: black;
-    --bg: #e5d7ba;
+    --bg-color: #e5d7ba;
     --page: white;
     --link: darkblue;
+    --bg: url(/media/backgrounds/light.png);
+    --list: url(/media/list/light.png);
 }
 
-body.dark-mode {
+:root[data-theme="dark"] {
     --text: white;
-    --bg: black;
+    --bg-color: black;
     --page: black;
     --link: pink;
-    background-image: url(/media/backgrounds/dark.png);
-    ul, ol { list-style-image: url(/media/list/dark.png) }
+    --bg: url(/media/backgrounds/dark.png);
+    --list: url(/media/list/dark.png);
 }
 
-/* general */
+/* GENERAL */
 
 body {
     font-size: 90%;
     font-family: ucsur, serif;
-    background-color: var(--bg);
     color: var(--text);
     max-width: 45rem;
     margin: 0 auto;
@@ -28,7 +30,8 @@ body {
     text-align: justify;
     hyphens: auto;
     line-height: 175%;
-    background-image: url(/media/backgrounds/light.png);
+    background-image: var(--bg);
+    background-color: var(--bg-color);
 }
 
 h1, h2, h3 {
@@ -83,11 +86,11 @@ button {
 }
 
 ul, ol {
+    list-style-image: var(--list);
     padding-inline-start: 1rem;
-    list-style-image: url(/media/list/light.png);
 }
 
-/* classes */
+/* CLASSES */
 
 .box {
     background-color: var(--page);
@@ -130,13 +133,6 @@ ul, ol {
     position: absolute;
     top: 15px;
     left: 20px;
-}
-
-.theme {
-    text-align: right;
-    position: absolute;
-    top: 15px;
-    right: 15px;
 }
 
 .buttons {
@@ -182,16 +178,24 @@ ul, ol {
     display: none;
 }
 
-/* langs */
+.asterisks {
+    text-align: center;
+    margin: 2rem;
+    color: gray;
+}
+
+#theme {
+    text-align: right;
+    position: absolute;
+    top: 15px;
+    right: 15px;
+}
+
+/* LANGUAGES */
+
 @font-face {
     font-family: "nasin-nanpa";
     src: url("../fonts/nasin-nanpa-5.0.0-beta.2.otf") format("opentype");
-}
-
-@font-face {
-    font-family: "ucsur";
-    src: url("../fonts/nasin-nanpa-5.0.0-beta.2-UCSUR.otf") format("opentype");
-    unicode-range: U+F1900-F19FF;
 }
 
 .tp, .eo, .es, .en {
@@ -232,9 +236,16 @@ ul, ol {
         color: gray;
         font-style: normal;
     }
+
+    ul {
+        margin-top: -2rem;
+        padding-inline-start: 1.8rem;
+    }
+
 }
 
-/* mobile */
+/* MOBILE */
+
 @media (max-width: 600px) {
     body {
         padding: 0;

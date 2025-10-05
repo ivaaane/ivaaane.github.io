@@ -17,7 +17,9 @@ toki a! mi soko sijeni. mi tonsi tan ma Katala. mi mama e lipu la mi pana tawa p
 
 # _ma suno_
 
-lipu ni li kulupu e toki musi tan kulupu jan pi tenpo pini. 
+lipu ni li kulupu e toki musi tan kulupu jan pi tenpo pini.
+
+* [lipu "ma suno" li seme?](ma-suno)
 
 # _toki open_
 
@@ -39,6 +41,10 @@ lipu ni li kulupu e toki musi tan kulupu jan pi tenpo pini.
 
 * [olin mama](olin-mama)
 
+# _toki pini_
+
+* _mi pana lon tenpo kama_
+
 ---
 
 # _musi lili_
@@ -59,11 +65,11 @@ lipu ni mute li kulupu ala, li lili.
 
 mi toki pona e lipu suli "Don Quijote" pi kon Sewante tan toki Epanjo.
 
-1) [sona en pali pi jan Kisote](jan-kisote-1)
+* #1) [sona en pali pi jan Kisote](jan-kisote-1)
 
-2) [tawa nanpa wan pi jan Kisote](jan-kisote-2)
+* #2) [tawa nanpa wan pi jan Kisote](jan-kisote-2)
 
-3) [lawa li jan utala e jan Kisote](jan-kisote-3)
+* #3) [lawa li jan utala e jan Kisote](jan-kisote-3)
 
 ---
 

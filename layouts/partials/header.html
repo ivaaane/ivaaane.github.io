@@ -1,6 +1,9 @@
 <!DOCTYPE html>
 <html lang="es-es">
     <head>
+        <script>
+            document.documentElement.dataset.theme = localStorage.getItem('theme') || 'light';
+        </script>
         <meta charset="UTF-8" />
         <title>{{ .Title}}</title>
         <meta name="viewport" content="width=device-width,initial-scale=1" />

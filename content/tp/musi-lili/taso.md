@@ -39,7 +39,7 @@ mi pilin pona. lon ike la, mi kama pilin pona.
 
 mi lape.
 
----
+{{<div>}}
 
 supa.
 
@@ -47,7 +47,7 @@ mi lon supa. kalama en telo li weka. mi lukin e sewi. laso. mi lukin e anpa. jel
 
 ale li pona. mi moli ala. a… mi lape…
 
----
+{{<div>}}
 
 suno.
 
@@ -79,7 +79,7 @@ mi lukin e ijo lili lili a. ijo loje. mi pini e awen. mi tawa loje. sike. ijo li
 
 sijelo li pilin pona. mi tawa anpa. lukin li pini. lawa li lape. ale li pona. mi lape.
 
----
+{{<div>}}
 
 nasa…
 
@@ -103,7 +103,7 @@ suwi a.
 
 ike li lon ala. ale li pona.
 
----
+{{<div>}}
 
 pona.
 
@@ -131,7 +131,7 @@ sewi o… o pona e mi, e jan ale lon tomo. a…
 
 sin la mi wile moku. mi tawa.
 
----
+{{<div>}}
 
 kalama.
 
@@ -139,7 +139,7 @@ mi kute e kalama suli. mi lukin e sewi. pimeja. telo. lili la, telo li kama tan 
 
 mi awen.
 
----
+{{<div>}}
 
 lete.
 
@@ -167,7 +167,7 @@ tenpo lili a la, suno lili li lon. suno li weka… mi awen tawa e palisa. mi ken
 
 loje li lon pimeja.
 
----
+{{<div>}}
 
 seli.
 
@@ -195,7 +195,7 @@ mi lape lili. mi lukin e sewi. pimeja li wawa… mi ken ala lape. mi ken ala anp
 
 taso tomo li awen.
 
----
+{{<div>}}
 
 tenpo.
 
