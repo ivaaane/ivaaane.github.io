@@ -31,4 +31,4 @@ Saluton~ mi estas sieni (retnomo, skribu minuskle), malprofesia skribanto, foje 
 
 ## Aliaĵoj
 
-* [Mia libroŝranko](libroshranko)
+* [Libroŝranko](libroshranko)

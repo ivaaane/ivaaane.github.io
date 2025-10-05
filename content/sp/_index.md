@@ -65,7 +65,7 @@ zzzz [tawa pona](tawa-pona) zzzzzzzzzzzz _tan toki [insa tawa,, li,, jan,,]_
 zzzz [kalama [sama,, kijetesantakalu,,, ale pona en]](kalama-sakijape) zz _tan toki [suwi,, mi,,]_  
 zzzz [o lukin e kala](kala) zzzzzzzz _tan toki [en pan,,, jo,,]_  
 zzzz [kalama pi(kulupu [en loje,, pan,,])](elopa) zz _tan toki [en pan,,, jo,,]_  
-zzzz [jan [kama,,, esun laso,,]](jan-kamela) zzzzzz _tan toki [en pan,,, jo,,]_  
+zzzz [a jan [kama,,, esun laso,,]](jan-kamela) zzzz _tan toki [en pan,,, jo,,]_  
 zzzz [o utala](o-utala) zzzzzzzzzzzz  _tan toki [kasi,, tawa,, lawa,,]_  
 zzzz [kili loje](kili-loje) zzzzzzzzzzzz _tan toki [lupa,, sina,,]_  
 zzzz [suno suwi o](suno) zzzzzzzzzz _tan toki [kasi,, tawa,, lawa,,]_  

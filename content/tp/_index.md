@@ -80,7 +80,7 @@ mi toki pona e kalama musi tan toki ante mute. mi sona ala kalama uta, taso mi s
 
 * [kalama pi kulupu Elopa](elopa), tan toki Epanjo
 
-* [jan Kamela](jan-kamela), tan toki Epanjo
+* [a, jan Kamela!](jan-kamela), tan toki Epanjo
 
 * [o utala](o-utala), tan toki Katala
 

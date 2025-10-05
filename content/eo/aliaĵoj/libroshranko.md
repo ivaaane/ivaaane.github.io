@@ -1,9 +1,9 @@
 ---
-title: Mia libroŝranko
+title: Libroŝranko
 lang: eo
 ---
 
-Ĉi tie mi **provas** enlistigi ĉiujn librojn, kiujn mi legis iam freŝjare, kaj ankaŭ tiujn, kiujn mi volas legi :3
+Ĉi tie mi **provas** enlistigi ĉiujn librojn, kiujn mi legis iam la lastajn jarojn, kaj ankaŭ tiujn, kiujn mi volas legi :3
 
 La jarojn mi enigis elmemore, do la datoj ne estas 100% konfidaj. Mi korektos, kiam mi memoras.
 
@@ -31,7 +31,7 @@ La jarojn mi enigis elmemore, do la datoj ne estas 100% konfidaj. Mi korektos, k
 | Firma Tero                          | Matilde Asensi                  | 2025       |
 | Silmariliono                        | J.R.R. Tolkien                  | 2025       |
 | La voko de Ktulhu                   | H.P. Lovecraft                  | 2025       |
-| Mi amas Amy-on                      | Unni                            | 2025       |
+| Mi amas Amjon                       | Unni                            | 2025       |
 | Neniu por skribi al la kolonelo     | García Márquez                  | 2025       |
 | Murdo en la Orienta Ekspreso        | Agatha Christie                 | 2024       |
 | Mandragoro                          | Laura Gallego García            | 2024       |
@@ -48,7 +48,7 @@ La jarojn mi enigis elmemore, do la datoj ne estas 100% konfidaj. Mi korektos, k
 | Angeloj kaj demonoj                 | Dan Brown                       | 2023       |
 | Etaj dioj                           | Terry Pratchett                 | 2023       |
 | Bonaj aŭguroj                       | Neil Gaiman kaj Terry Pratchett | 2023       |
-| Mortigemaj maŝinoj                  | Philip Reeve                    | 2023~2024  |
+| Mortigaj motoroj                    | Philip Reeve                    | 2023~2024  |
 | La mastro de la ringoj              | J.R.R. Tolkien                  | 2023       |
 | La hobito                           | J.R.R. Tolkien                  | 2023       |
 | Etiko por Amador                    | Fernando Savater                | 2022~2023  |

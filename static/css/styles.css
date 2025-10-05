@@ -12,14 +12,7 @@ body.dark-mode {
     --page: black;
     --link: pink;
     background-image: url(/media/backgrounds/dark.png);
-
-    .ss {
-        filter: invert(1);
-    }
-
-    .rss {
-        filter: invert(1);
-    }
+    ul, ol { list-style-image: url(/media/list/dark.png) }
 }
 
 /* general */
@@ -77,6 +70,7 @@ td, th {
     border-left: 1px solid;
     border-right: 1px solid;
     padding: 10px;
+    text-align: left;
 }
 
 button {
@@ -90,7 +84,7 @@ button {
 
 ul, ol {
     padding-inline-start: 1rem;
-    list-style-image: url(/media/list.png);
+    list-style-image: url(/media/list/light.png);
 }
 
 /* classes */
