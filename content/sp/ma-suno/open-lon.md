@@ -9,6 +9,7 @@ details:
     ni li toki e open ale lon sona pi(jansuno)  
     zzzzzz jan suno li tan tenpo pini a  
     zzzzzz ni li open e lipu te ma suno to
+last: ma-suno
 next: open-jan
 ---
 

@@ -6,6 +6,7 @@ details:
 - date: "29/3/2025"
 - edit: "8/8/2025"
 - note: "lipu li toki e open ale kepeken sona pi jan suno; jan suno li tan tenpo pini a. ni li open e lipu \"ma suno\"."
+last: ma-suno
 next: open-jan
 ---
 
