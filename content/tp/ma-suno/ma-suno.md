@@ -1,6 +1,6 @@
 ---
 title: lipu "ma suno" li seme?
-date: 2025-10-6
+date: 2025-10-06
 lang: tp
 details:
 - date: 6/10/2025
