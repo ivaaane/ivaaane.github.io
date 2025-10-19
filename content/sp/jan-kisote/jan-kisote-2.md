@@ -1,6 +1,6 @@
 ---
 title: tawa nanpa wan pi jan Kisote
-header: nanpa tu la tawa nanpa wan pi(jan[kiwen,, sona,, tenpo,,])
+header: <b>nanpa tu la</b> tawa nanpa wan pi(jan[kiwen,, sona,, tenpo,,])
 date: 2025-04-23
 lang: sp
 details:
@@ -37,7 +37,7 @@ zzzz jan pi(tenpokama) li sitelen e sona mi lon kiwen mani
 zzzz jan sona pona o  
 zzzz sina toki e sona mi la  
 zzzzzz o weka ala e soweli pona mi [lon,, sin,,, ante,,,,] to  
-pilin olin la ona li toki wawa e ni  
+pilin olin2 la ona li toki wawa e ni  
 zz te meli suwi [jan:suwi:] o  
 zzzz tan sina la open tawa li pali ike  
 zzzz pilin sina li pakala tan mi to  
@@ -89,7 +89,7 @@ te sina wile lape la o lon tomo mi to
 
 jan [kiwen,, sona,, tenpo,,] li lukin e pona mije li toki  
 
-te jan [kute,,, olin pan,, jan,,] o{{<note text="nimi ni< li nimisin musi tan kulupu [en pan,,, jan,,] pi(toki+pona)<br>zzzz li toki e kulupu ni^<br>ona li nimi jan ala<br>zz li te `kutopanja` to lon sitelen [la,, sina,,,,]<br>mi kepeken nimi ni^ tan musi<br>lipu ni la kon nimi li te ijo li tan kulupu [kama,, sina,, jan,,] pi(ma [en pan,,, jan,,]) to _` (castellano)`_">}}  
+te jan [kute,,, olin2 pan,, jan,,] o{{<note text="nimi ni< li nimisin musi tan kulupu [en pan,,, jan,,] pi(toki+pona)<br>zzzz li toki e kulupu ni^<br>ona li nimi jan ala<br>zz li te `kutopanja` to lon sitelen [la,, sina,,,,]<br>mi kepeken nimi ni^ tan musi<br>lipu ni la kon nimi li te ijo li tan kulupu [kama,, sina,, jan,,] pi(ma [en pan,,, jan,,]) to _` (castellano)`_">}}  
 zz ale li pona tawa mi  
 zz lape li utala mi to  
 

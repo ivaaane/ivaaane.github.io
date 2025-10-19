@@ -32,10 +32,10 @@ poki kasi la kili li suwi li mi
 
 a pona suwi suli  
 sina ike ala  
-o kama o olin mute e mi  
+o kama o olin2 mute e mi  
 a mu mu mu mu mu  
 a mu mu mu mu mu  
-o kama o olin mute e mi  
+o kama o olin2 mute e mi  
 
 kili loje li loje li loje li mi  
 poki kasi la kili li suwi li mi  

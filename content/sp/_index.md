@@ -37,10 +37,17 @@ toki mun la
 * [pona sama](pona-sama)  
 
 toki jan la  
-* [olin mama](olin-mama)  
+* [olin2 mama](olin-mama)  
 
 toki pini la  
 * _mi pana lon tenpo kama_
+
+---
+
+# lon insa pi(matu)
+
+meli li olin2 e meli
+* _nanpa wan la_ [kasi li len e mi](lon-insa-pi-ma-tu-1)
 
 ---
 

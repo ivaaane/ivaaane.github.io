@@ -1,6 +1,6 @@
 ---
 title: lawa li jan utala e jan Kisote
-header: nanpa tu-wan la lawa li jan utala e jan [kiwen,, sona,, tenpo,,]
+header: <b>nanpa tu-wan</b> la lawa li jan utala e jan [kiwen,, sona,, tenpo,,]
 date: 2025-09-20
 lang: sp
 details:
@@ -88,7 +88,7 @@ meli [jan,,, suwi,,,,] li lon pilin ona la jan [kiwen,, sona,, tenpo,,] li lukin
 zzzzzzzzzzzzzzzzzzzzzzzzzzzz li toki  
 
 te meli mi o awen e mi lon utala ni nanpa wan  
-zz olin suli sina o anpa ala e mi to  
+zz olin2 suli sina o anpa ala e mi to  
 
 jan [kiwen,, sona,, tenpo,,] li jo e ilo  
 zzzzzzzzzz li utala a e jan pali  
@@ -136,7 +136,7 @@ te sewi o pana e pona tawa sina a to
 
 jan [kiwen,, sona,, tenpo,,] li wile sona e nimi meli  
 meli li kepeken nimi [tomo,, loje,, sama,,]  
-jan [kiwen,, sona,, tenpo,,] la nimi ona o te meli [tonsi,,, jan,,] [tomo,, loje,, sama,,] to {{<note text="toki [en pan,,, jo,,] pi(tenpoweka) la meli mani li kepeken nimi namako te [tonsi,,, jan,,] to `(doña)`<br>sama la mije li kepeken nimi te [tonsi,,,] to `(don)`<br>musi la jan Kisote li kepeken ike e nimi ni">}}  
+jan [kiwen,, sona,, tenpo,,] la nimi ona o te meli [tonsi,,, jan,,] [tomo,, loje,, sama,,] to {{<note text="toki [en pan,,, jo,,] pi(tenpoweka) la meli mani li kepeken nimi namako te [tonsi,,, jan,,] to `(doña)`<br>sama la mije li kepeken nimi te [tonsi,,,] to `(don)`<br>musi la jan [kiwen,, sona,, tenpo,,] li kepeken ike e nimi ni">}}  
 meli sin li telo e len  
 sin la jan [kiwen,, sona,, tenpo,,] li wile sona e nimi meli  
 ona li meli [moli,,,, nena,, laso,,]  

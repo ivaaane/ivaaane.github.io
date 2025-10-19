@@ -30,7 +30,7 @@ mi alasa mute
 mi lukin e lipu mute  
 mi ni lon sike mute a  
 taso pali li pini  
-mi kama sona mute pi(kulupumolini)  
+mi kama sona mute pi(kulupumolin2i)  
 mi pana e sona ale tawa lipu te ma suno to
 
 nasin lipu li ni

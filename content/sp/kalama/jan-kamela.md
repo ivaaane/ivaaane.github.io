@@ -20,9 +20,9 @@ pimeja la ona li kama
 a jan [kama,,, esun laso,,]  
 a jan [kama,,, esun laso,,]  
 
-taso sina olin suli  
+taso sina olin2 suli  
 _utala utala utala_  
-taso sina olin suli  
+taso sina olin2 suli  
 _utala utala utala_  
 la pakala li ken ala  
 a jan [kama,,, esun laso,,]  

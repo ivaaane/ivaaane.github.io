@@ -8,7 +8,7 @@ details:
 last: bonaj-auhguroj-1
 ---
 
-NUNAJ TEORIOJ pri la kreo de la Universo deklaras, ke se ĝi estis kreita entute kaj ne simple komenciĝis, por diri iel, neoficiale, ĝi ekestis antaŭ inter dek kaj dudek mil milionoj da jaroj. Sammaniere la tero mem supozeble aĝas ĉirkaŭ kvar kaj duonon mil milionojn da jaroj.
+NUNAJ TEORIOJ pri la kreo de la Universo deklaras, ke se ĝi estis kreita entute kaj ne simple komenciĝis, por diri iel, neoficiale, ĝi ekestis antaŭ inter dek kaj dudek mil milionoj da jaroj. Sammaniere la tero mem supoze aĝas ĉirkaŭ kvar kaj duonon mil milionojn da jaroj.
 
 Tiuj datoj estas malĝustaj.
 
@@ -40,7 +40,7 @@ La astrologia antaŭdiro pri Pesilo en la "Viaj Steloj Hodiaŭ" kolumno el Tadfi
 
 NE ESTIS MALLUMA KAJ TEMPESTA NOKTO.
 
-Ĝi devis esti, sed tiel estas la vetero. Por ĉiu freneza sciencisto, kiu havas oportunan tempeston ĝuste en la nokto kiam lian Grandan Laboron li kompletas kaj ĝi kuŝas sur la tero, estas dek duoj da aliaj, kiuj sidas secele sub la trankvilaj steloj dum Igor akumulas kromhorojn.
+Ĝi devis esti, sed tiel estas la vetero. Por ĉiu freneza sciencisto, kiu havas oportunan tempeston ĝuste en la nokto kiam lian Grandan Laboron li kompletas kaj ĝi kuŝas sur la tero, estas dek duoj da aliaj, kiuj sidas sencele sub la trankvilaj steloj dum Igor akumulas kromhorojn.
 
 Sed ne permesu al la nebulo (kun pluvo poste, temperaturo falonta al ĉirkaŭ kvardek kvin gradoj) doni al oni malveran senton de sekureco. Nur ĉar estas milda nokto, ne signifas, ke la obskuraj fortoj ne estas ekstere. Ili ĉiam estas ekstere. Ili estas *ĉie*.
 

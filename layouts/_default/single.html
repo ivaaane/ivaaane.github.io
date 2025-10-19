@@ -4,17 +4,15 @@
     <div class="box">
         {{ partial "theme.html" . }}
         <br>
-        <h1>{{or .Params.header .Title}}</h1>
+        <h1>{{or (.Params.header | markdownify) .Title }}</h1>
         <br>
         {{ partial "details.html" . }}
     </div><br/>
-
     <div class="box">
         <br>
         {{ replace .Content "<hr>" "<br></div><br/><div class='box'><br>" | safeHTML}}
         <br>
     </div>
-
     {{ partial "links.html" (dict "string" "back" "context" .) }}
 </div>
 

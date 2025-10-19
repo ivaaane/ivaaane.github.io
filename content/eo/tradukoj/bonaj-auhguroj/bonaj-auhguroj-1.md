@@ -12,7 +12,7 @@ next: bonaj-auhguroj-2
 
 <div align="center">
 
-Rakontado pri Certaj Eventoj okazintaj je la lastaj dek unu jaroj de la homa historio, laŭ strikta konformo, kiel estos montrata, al:
+Rakontado pri Certaj Eventoj okazintaj dum la lastaj dek unu jaroj de la homa historio, laŭ strikta konformo, kiel estos montrata, al:
 
 ### **La Bonaj kaj Precizaj Profetaĵoj de Agnes Frenezulo**
 

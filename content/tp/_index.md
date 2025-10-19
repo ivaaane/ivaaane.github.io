@@ -65,11 +65,11 @@ lipu ni mute li kulupu ala, li lili.
 
 mi toki pona e lipu suli "Don Quijote" pi kon Sewante tan toki Epanjo.
 
-* #1) [sona en pali pi jan Kisote](jan-kisote-1)
+* #W) [sona en pali pi jan Kisote](jan-kisote-1)
 
-* #2) [tawa nanpa wan pi jan Kisote](jan-kisote-2)
+* #T) [tawa nanpa wan pi jan Kisote](jan-kisote-2)
 
-* #3) [lawa li jan utala e jan Kisote](jan-kisote-3)
+* #TW) [lawa li jan utala e jan Kisote](jan-kisote-3)
 
 ---
 

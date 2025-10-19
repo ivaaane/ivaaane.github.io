@@ -171,14 +171,15 @@ lon ike la mi kama pilin pona
 
 mi lape  
 
----
+. . .
+{.asterisks}
 
 ## supa
 
 mi lon supa  
 kalama en telo li weka  
 mi lukin e sewi  
-zzzz laso  
+zzzzzz laso  
 mi lukin e anpa  
 zzzzzz jelo  
 zzzzzz walo  
@@ -199,7 +200,8 @@ mi moli ala
 a(zzzzzz)  
 zzzz mi lape  
 
----
+. . .
+{.asterisks}
 
 ## suno
 
@@ -382,7 +384,8 @@ lawa li lape
 ale li pona  
 mi lape
 
----
+. . .
+{.asterisks}
 
 ## nasa
 
@@ -467,7 +470,8 @@ zz suwi a
 ike li lon ala  
 ale li pona
 
----
+. . .
+{.asterisks}
 
 ## pona
 
@@ -544,7 +548,8 @@ zzzzzzzzzzzzzz a(zz)
 sin la mi wile moku  
 zzzz mi tawa
 
----
+. . .
+{.asterisks}
 
 ## kalama
 
@@ -578,7 +583,8 @@ poka la kasi li pakala tan wawa telo
 
 mi awen
 
----
+. . .
+{.asterisks}
 
 ## lete
 
@@ -692,7 +698,8 @@ zz suno li awen
 
 loje li lon pimeja
 
----
+. . .
+{.asterisks}
 
 ## seli
 
@@ -856,7 +863,8 @@ tenpo li tawa
 
 taso tomo li awen
 
----
+. . .
+{.asterisks}
 
 ## tenpo
 
@@ -1027,7 +1035,7 @@ zzzz jan li ken pona
 zzzz jan li ken kulupu tawa pona  
 zzzz jan li ike li pakala  
 zzzzzz li pona li pali  
-zzzz jan li utala li olin  
+zzzz jan li utala li olin2  
 zzzzzz li jaki li suwi  
 zzzzzz li moli li mama  
 zzzzzz li kalama li kute  
@@ -1048,7 +1056,7 @@ zz mi wile n()
 zz mi wile moku e pan  
 zz mi moku e kili e kala taso  
 zz mi wile moku e ijo mute  
-zz mi wile olin  
+zz mi wile olin2  
 zz mi wile sitelen  
 zz mi wile toki  
 zz mi wile pona  

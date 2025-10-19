@@ -1,6 +1,6 @@
 ---
 title: tawa nanpa wan pi jan Kisote
-header: "#T) tawa nanpa wan pi jan Kisote"
+header: "#T<br>tawa nanpa wan pi jan Kisote"
 date: 2025-04-23
 lang: tp
 details:

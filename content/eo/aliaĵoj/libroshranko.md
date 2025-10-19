@@ -11,9 +11,10 @@ La jarojn mi enigis elmemore, do la datoj ne estas 100% konfidaj. Mi korektos, k
 
 ## Legataj
 
-| titolo          | aŭtoro             |
-| --------------- | ------------------ |
-| Ludo de tronoj  | George R.R. Martin |
+| titolo         | aŭtoro             |
+| -------------- | ------------------ |
+| Bonaj Aŭguroj (ree) | Neil Gaiman kaj Terry Pratchett |
+| Ĉu vi kuiras ĉine? | Claude Piron   |
 
 <br>
 
@@ -21,6 +22,7 @@ La jarojn mi enigis elmemore, do la datoj ne estas 100% konfidaj. Mi korektos, k
 
 | titolo                              | aŭtoro                          | legjaro    |
 | ----------------------------------- | ------------------------------- | ---------- |
+| Ludo de tronoj                      | George R.R. Martin              | 2025       |
 | AMO-KUGLO                           | inee                            | 2025       |
 | La eta princo                       | Antoine de Saint-Exupéry        | 2025       |
 | La tabulo de Flandrio               | Arturo Pérez-Reverte            | 2025       |
@@ -80,11 +82,12 @@ La jarojn mi enigis elmemore, do la datoj ne estas 100% konfidaj. Mi korektos, k
 | titolo                          | aŭtoro              |
 | ------------------------------- | ------------------- |
 | [ĉiuj romanoj el Diskomondo]    | Terry Pratchett     |
+| Kolizio de reĝoj                | George R. R. Martin |
 | L’ _auca_ de sinjoro Esteve     | Santiago Rusiñol    |
 | Duno                            | Frank Herbert       |
 | La taglibroj de la apotekistino | Natsu Hyūga         |
 | Poirot en Egiptio               | Agatha Christie     |
-| La mordo de Roger Ackroyd       | Agatha Christie     |
+| La murdo de Roger Ackroyd       | Agatha Christie     |
 | Tragika kristnasko              | Agatha Christie     |
 | Kvin etaj porkoj                | Agatha Christie     |
 | Malbono sub la suno             | Agatha Christie     |

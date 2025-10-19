@@ -13,7 +13,7 @@ next: ma-tomo
 open la sewi li kulupu e jan  
 zzzzzz li suno  
 jan mute li pakala tan suno  
-taso jan pona li olin e sewi la  
+taso jan pona li olin2 e sewi la  
 zz ona li ken lukin pona e suno  
 suno la jan pona li lukin e kule ale  
 zzzzzzzzzzzz e kule pi(lonala)  
@@ -35,7 +35,7 @@ nena ma li awen e ona
 jan mute li pilin ike  
 zzzz li toki e ni  
 zz te sewi li kama e moli taso tawa mi  
-zzzz mi o olin ala olin e ona to  
+zzzz mi o olin2 ala olin2 e ona to  
 taso ma nena la ale li pona  
 kasi li suli  
 soweli li suwi  

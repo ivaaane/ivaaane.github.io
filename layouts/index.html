@@ -1,17 +1,14 @@
 {{ partial "header.html" . }}
 <div class="box">
-    <marquee direction="left" scrollamount=20>
-        <img src="/media/sillies/teto.png" alt="teto" style="width:20%;">
-    </marquee>
-    {{ .Content }}
     {{ partial "theme.html" . }}
+    {{ .Content }}
+    <div class="guestbook"><a href="https://sijeni.atabook.org/">»»» guestbook! «««</a></div>
 </div><br/><div class="box">
     {{ partial "webrings/sikepona.html" . }}
     {{ partial "webrings/soweli.html" . }}
     {{ partial "webrings/noai.html" . }}
-    <br>
+</div><br/><div class="box">
     {{ partial "buttons.html" . }}
-    <br>
-    <div align=center class="details"><a href="https://sijeni.atabook.org/">» guestbook! «</a></div>
+    <br><iframe src="https://john.citrons.xyz/embed?ref=sijeni.li.pona.la" class="john"></iframe>
 </div>
 {{ partial "footer.html" . }}

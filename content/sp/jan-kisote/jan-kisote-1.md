@@ -1,6 +1,6 @@
 ---
 title: sona en pali pi jan Kisote
-header: nanpa wan la sona en pali pi jan [kiwen,, sona,, tenpo,,]
+header: <b>nanpa wan la</b> sona en pali pi jan [kiwen,, sona,, tenpo,,]
 date: 2025-04-23
 lang: sp
 details:
@@ -26,9 +26,11 @@ ona li esun e ma ona
 zz li kama jo e lipu mute mute a  
 lipu pi(ponananpawan) tawa jan mani li tan jan [pana esun li,, kasi,, nasa o]  
 lipu ni li toki e  
-zz te tan pi(tanala) li tan e pali mi la tan mi li lili li ike e mi tan sina to  
+zz te tan pi(tanala) li tan e pali mi la  
+zzzz tan mi li lili li ike e mi tan sina to  
 zzzzzzzz e  
-zz te sewi la mun sewi2 sewi li awen e sina sewi li ken e ken sina pi(kensuli) to  
+zz te sewi la mun sewi2 sewi li awen e sina sewi  
+zzzzzzzzzzzzzz li ken e ken sina pi(kensuli) to  
 
 tan ni la jan mani li kama nasa  
 zzzzzzzzzz li lape ala tan lipu  
@@ -66,19 +68,21 @@ len li telo la
 zz soweli li kepeken la  
 zzzz nimi li wawa la  
 zzzzzz ijo wan taso li wile  
-jan utala ale o olin e meli  
+jan utala ale o olin2 e meli  
 jan [kiwen,, sona,, tenpo,,] li toki e ni  
 
-te anu tan ike anu tan pona la mi utala e jan suli li anpa e ona la jan suli o tawa meli suwi o toki ni  
-zz te mi jan suli [monsi: jaki:]  
-zzzz mi anpa tan jan wawa [kiwen,, sona,, tenpo,,] pi(ma [mani,,, sama,,])   
-zzzz suwi sina li pona e mi la ona li pana e mi tawa sina to to
+te anu tan ike anu tan pona la  
+zz mi utala e jan suli li anpa e ona  
+zz la jan suli o tawa meli suwi o toki ni  
+zzzz te mi jan suli [monsi: jaki:]  
+zzzzzz mi anpa tan jan wawa [kiwen,, sona,, tenpo,,] pi(ma [mani,,, sama,,])   
+zzzzzz suwi sina li pona e mi la ona li pana e mi tawa sina to to
 
 jan mani li pini toki  
 zzzz li kama sona e nimi meli la ona li pilin wawa  
 ona li sona e meli lon ma poka   
 meli li sona ala e jan [kiwen,, sona,, tenpo,,]  
-taso jan mani li olin e ona  
+taso jan mani li olin2 e ona  
 zzzzzz li wile utala tan ona  
 nimi meli li [ale,, ona,,,]  
 taso jan mani li wile e nimi sin  
