@@ -4,7 +4,7 @@ header: lipu te ma suno to li seme
 date: 2025-10-06
 lang: sp
 details:
-- date: suno nanpa luka-wan la mun nanpa luka-luka la sike nanpa owe mute2 mute2 wan
+- date: suno nanpa luka-wan la mun nanpa luka-luka la sike nanpa owe mute1 mute1 wan
 - note: jan pi(lonala) li toki e kon lipu
 next: open-lon
 ---
@@ -30,7 +30,7 @@ mi alasa mute
 mi lukin e lipu mute  
 mi ni lon sike mute a  
 taso pali li pini  
-mi kama sona mute pi(kulupumolin2i)  
+mi kama sona mute pi(kulupumolin1i)  
 mi pana e sona ale tawa lipu te ma suno to
 
 nasin lipu li ni

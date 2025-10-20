@@ -3,8 +3,8 @@ title: open utala
 date: 2025-04-15
 lang: sp
 details:
-- date: suno nanpa luka-luka luka la mun nanpa tu-tu la sike nanpa owe mute2 mute2 wan  
-- edit: suno nanpa luka tu-wan la mun nanpa luka tu-wan la sike nanpa owe mute2 wan  
+- date: suno nanpa luka-luka luka la mun nanpa tu-tu la sike nanpa owe mute1 mute1 wan  
+- edit: suno nanpa luka tu-wan la mun nanpa luka tu-wan la sike nanpa owe mute1 wan  
 - note: toki open nanpa pini lon lipu te ma suno to
 last: open-jan
 ---

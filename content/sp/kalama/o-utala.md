@@ -3,7 +3,7 @@ title: o utala
 date: 2025-04-09
 lang: sp
 details:
-- date: suno nanpa luka tu-wan la mun nanpa tu-tu la sike nanpa owe mute2 mute2 wan  
+- date: suno nanpa luka tu-wan la mun nanpa tu-tu la sike nanpa owe mute1 mute1 wan  
 - note: mi toki+pona e kalama musi [ELS SEGADORS] tan toki [kasi,, tawa,, lawa,,]
 ---
 

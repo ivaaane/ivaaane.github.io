@@ -4,8 +4,8 @@ header: kalama [sama,, kijetesantakalu,,, ale pona en]
 date: 2025-02-15
 lang: sp
 details:
-- date: suno nanpa luka-luka luka la mun nanpa tu la sike nanpa owe mute2 mute2 wan  
-- edit: suno nanpa luka-luka la mun nanpa luka tu-wan la sike nanpa owe mute2 luka  
+- date: suno nanpa luka-luka luka la mun nanpa tu la sike nanpa owe mute1 mute1 wan  
+- edit: suno nanpa luka-luka la mun nanpa luka tu-wan la sike nanpa owe mute1 luka  
 - note: mi toki+pona e kalama musi [SAKKIJARVEN POLKKA] tan toki [suwi,, mi,,]
 ---
 

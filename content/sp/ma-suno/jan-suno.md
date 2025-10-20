@@ -3,8 +3,8 @@ title: jan suno
 date: 2025-04-24
 lang: sp
 details:
-- date: suno nanpa mute2 tu-wan lon mun nanpa tu-tu lon sike nanpa owe mute2 mute2 wan  
-- edit: suno nanpa luka-luka la mun nanpa luka tu-wan la sike nanpa owe mute2 luka  
+- date: suno nanpa mute1 tu-wan lon mun nanpa tu-tu lon sike nanpa owe mute1 mute1 wan  
+- edit: suno nanpa luka-luka la mun nanpa luka tu-wan la sike nanpa owe mute1 luka  
 - note: toki mun nanpa open lon lipu te ma suno to
 last: open-utala
 next: ma-tomo
@@ -13,7 +13,7 @@ next: ma-tomo
 open la sewi li kulupu e jan  
 zzzzzz li suno  
 jan mute li pakala tan suno  
-taso jan pona li olin2 e sewi la  
+taso jan pona li olin1 e sewi la  
 zz ona li ken lukin pona e suno  
 suno la jan pona li lukin e kule ale  
 zzzzzzzzzzzz e kule pi(lonala)  
@@ -35,7 +35,7 @@ nena ma li awen e ona
 jan mute li pilin ike  
 zzzz li toki e ni  
 zz te sewi li kama e moli taso tawa mi  
-zzzz mi o olin2 ala olin2 e ona to  
+zzzz mi o olin1 ala olin1 e ona to  
 taso ma nena la ale li pona  
 kasi li suli  
 soweli li suwi  
@@ -92,7 +92,7 @@ taso sewi li pana ala e wile
 jan wan li ken ala awen  
 zzzz li wile moli  
 len ona li jelo  
-tenpo pimeja la ona li tawa ma sewi2  
+tenpo pimeja la ona li tawa ma sewi1  
 zzzzzzzz li toki wawa tawa mun  
 zz te sewi o  
 zzzz sina jaki e mi mute tan seme a to  

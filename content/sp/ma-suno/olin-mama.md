@@ -1,10 +1,10 @@
 ---
 title: olin mama
-header: olin2 mama
+header: olin1 mama
 date: 2025-08-17
 lang: sp
 details:
-- date: suno nanpa luka-luka luka-tu la mun nanpa luka tu-wan la sike nanpa owe mute2 mute2 wan
+- date: suno nanpa luka-luka luka-tu la mun nanpa luka tu-wan la sike nanpa owe mute1 mute1 wan
 - note: toki jan nanpa open lon lipu te open lon to
 last: open-utala
 ---
@@ -194,7 +194,7 @@ jan utala li jo e ona
 zzzz li pana e ona tawa supa lape  
 lape li pini la jan utala li kama e ona lon tomo suli  
 ona li lon anpa  
-kulupu jan li lon supa sewi2  
+kulupu jan li lon supa sewi1  
 jan lawa [wawa,, lawa,,] li lon supa  
 ona li toki
 

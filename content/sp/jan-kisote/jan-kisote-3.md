@@ -4,7 +4,7 @@ header: <b>nanpa tu-wan</b> la lawa li jan utala e jan [kiwen,, sona,, tenpo,,]
 date: 2025-09-20
 lang: sp
 details:
-- date: suno nanpa mute2 la mun nanpa luka tu-tu la sike nanpa owe mute2 mute2 wan
+- date: suno nanpa mute1 la mun nanpa luka tu-tu la sike nanpa owe mute1 mute1 wan
 - note: mi toki+pona e lipu [DON QUIJOTE] pi(kon [sewi,,, ante,,,,]) tan toki [en pan,,, jo,,] 
 last: jan-kisote-2
 ---
@@ -88,7 +88,7 @@ meli [jan,,, suwi,,,,] li lon pilin ona la jan [kiwen,, sona,, tenpo,,] li lukin
 zzzzzzzzzzzzzzzzzzzzzzzzzzzz li toki  
 
 te meli mi o awen e mi lon utala ni nanpa wan  
-zz olin2 suli sina o anpa ala e mi to  
+zz olin1 suli sina o anpa ala e mi to  
 
 jan [kiwen,, sona,, tenpo,,] li jo e ilo  
 zzzzzzzzzz li utala a e jan pali  

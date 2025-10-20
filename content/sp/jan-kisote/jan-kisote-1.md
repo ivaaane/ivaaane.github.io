@@ -4,8 +4,8 @@ header: <b>nanpa wan la</b> sona en pali pi jan [kiwen,, sona,, tenpo,,]
 date: 2025-04-23
 lang: sp
 details:
-  - date: suno nanpa mute2 tu-wan la mun nanpa tu-tu la sike nanpa owe mute2 mute2 wan
-  - edit: suno nanpa luka tu-wan la mun nanpa luka tu-wan la sike nanpa owe mute2 wan
+  - date: suno nanpa mute1 tu-wan la mun nanpa tu-tu la sike nanpa owe mute1 mute1 wan
+  - edit: suno nanpa luka tu-wan la mun nanpa luka tu-wan la sike nanpa owe mute1 wan
   - note: mi toki+pona e lipu [DON QUIJOTE] pi(kon [sewi,,, ante,,,,]) tan toki [en pan,,, jo,,]
 next: jan-kisote-2
 ---
@@ -29,7 +29,7 @@ lipu ni li toki e
 zz te tan pi(tanala) li tan e pali mi la  
 zzzz tan mi li lili li ike e mi tan sina to  
 zzzzzzzz e  
-zz te sewi la mun sewi2 sewi li awen e sina sewi  
+zz te sewi la mun sewi1 sewi li awen e sina sewi  
 zzzzzzzzzzzzzz li ken e ken sina pi(kensuli) to  
 
 tan ni la jan mani li kama nasa  
@@ -68,7 +68,7 @@ len li telo la
 zz soweli li kepeken la  
 zzzz nimi li wawa la  
 zzzzzz ijo wan taso li wile  
-jan utala ale o olin2 e meli  
+jan utala ale o olin1 e meli  
 jan [kiwen,, sona,, tenpo,,] li toki e ni  
 
 te anu tan ike anu tan pona la  
@@ -82,7 +82,7 @@ jan mani li pini toki
 zzzz li kama sona e nimi meli la ona li pilin wawa  
 ona li sona e meli lon ma poka   
 meli li sona ala e jan [kiwen,, sona,, tenpo,,]  
-taso jan mani li olin2 e ona  
+taso jan mani li olin1 e ona  
 zzzzzz li wile utala tan ona  
 nimi meli li [ale,, ona,,,]  
 taso jan mani li wile e nimi sin  

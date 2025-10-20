@@ -3,8 +3,8 @@ title: open lon
 date: 2025-03-29
 lang: sp
 details:
-- date: suno nanpa mute2 luka tu-tu la mun nanpa tu-wan la sike nanpa owe mute2 mute2 wan  
-- edit: suno nanpa luka tu-wan la mun nanpa luka tu-wan la sike nanpa owe mute2 wan  
+- date: suno nanpa mute1 luka tu-tu la mun nanpa tu-wan la sike nanpa owe mute1 mute1 wan  
+- edit: suno nanpa luka tu-wan la mun nanpa luka tu-wan la sike nanpa owe mute1 wan  
 - note: |
     ni li toki e open ale lon sona pi(jansuno)  
     zzzzzz jan suno li tan tenpo pini a  
@@ -44,7 +44,7 @@ zzzzzz e lupa
 zzzzzz e sijelo ante  
 zzzzzz e kule ale  
 zzzzzz e kasi lon selo ma  
-zzzzzz e soko2 lon anpa ma  
+zzzzzz e soko lon anpa ma  
 kasi li lawa e ale la suno li lon e soweli  
 soweli li wile e moku la ona li moku e kasi  
 ale li lon  
@@ -92,7 +92,7 @@ wawa suno li weka
 suno li wile lape  
 suno li lape la pimeja li kama sin  
 utala li ken ala pini  
-ni la suno li pana e mun mute tawa sewi2  
+ni la suno li pana e mun mute tawa sewi1  
 pimeja la mun li lukin  
 zzzzzz li toki e ike tawa suno  
 suno li lon e mun suli  

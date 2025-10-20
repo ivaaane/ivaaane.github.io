@@ -4,8 +4,8 @@ header: a jan [kama,,, esun laso,,]
 date: 2025-03-29
 lang: sp
 details:
-- date: suno nanpa mute2 luka tu-wan la mun nanpa tu-wan la sike nanpa owe mute2 mute2 wan  
-- edit: suno nanpa tu-tu la mun nanpa luka-luka la sike nanpa owe mute2 luka  
+- date: suno nanpa mute1 luka tu-wan la mun nanpa tu-wan la sike nanpa owe mute1 mute1 wan  
+- edit: suno nanpa tu-tu la mun nanpa luka-luka la sike nanpa owe mute1 luka  
 - note: mi toki+pona e kalama musi [AY CARMELA] tan toki [en pan,,, jo,,]
 ---
 
@@ -20,9 +20,9 @@ pimeja la ona li kama
 a jan [kama,,, esun laso,,]  
 a jan [kama,,, esun laso,,]  
 
-taso sina olin2 suli  
+taso sina olin1 suli  
 _utala utala utala_  
-taso sina olin2 suli  
+taso sina olin1 suli  
 _utala utala utala_  
 la pakala li ken ala  
 a jan [kama,,, esun laso,,]  

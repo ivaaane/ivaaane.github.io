@@ -41,9 +41,13 @@ lipu ni li kulupu e toki musi tan kulupu jan pi tenpo pini.
 
 * [olin mama](olin-mama)
 
-# _toki pini_
+---
 
-* _mi pana lon tenpo kama_
+# _lon insa pi ma tu_
+
+meli li olin e meli.
+
+* #W) [kasi li len e mi](lon-insa-pi-ma-tu-1)
 
 ---
 

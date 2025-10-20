@@ -3,8 +3,8 @@ title: ma tomo
 date: 2025-05-31
 lang: sp
 details:
-- date: suno nanpa mute2 luka-luka wan lon mun nanpa luka lon sike nanpa owe mute2 mute2 wan  
-- edit: suno nanpa luka-luka la mun nanpa luka tu-wan la sike nanpa owe mute2 luka  
+- date: suno nanpa mute1 luka-luka wan lon mun nanpa luka lon sike nanpa owe mute1 mute1 wan  
+- edit: suno nanpa luka-luka la mun nanpa luka tu-wan la sike nanpa owe mute1 luka  
 last: jan-suno
 next: pona-sama
 ---
@@ -21,7 +21,7 @@ jan wan taso li awen sona e sewi
 ona li lili  
 zz li ken lili  
 sijelo ona li pakala  
-ona li awen lon sewi2 tomo  
+ona li awen lon sewi1 tomo  
 zz li ken lukin e mun ale  
 zz li awen alasa toki tawa sewi  
 
@@ -30,9 +30,9 @@ zz li ken ala kute e toki ona
 taso wawa mun li kama tawa jan pi(sijelopakala)  
 sin la sona sewi li wawa  
 jan pi(sijelopakala) li kulupu e jan suno ale pi(matomo)  
-zzzzzzzz li lukin e mun lon sewi2 tomo  
+zzzzzzzz li lukin e mun lon sewi1 tomo  
 
-suno li lawa e ma la jan suno li awen lon sewi2 tomo  
+suno li lawa e ma la jan suno li awen lon sewi1 tomo  
 jan utala li lukin e ona   
 jan suno li kalama musi tan suli sewi  
 jan utala li tawa moli e ona mute  
@@ -48,7 +48,7 @@ ona li ken wawa
 zz li ken suli  
 ona li pilin e sewi  
 
-jan pali li lukin e utala lon sewi2 tomo  
+jan pali li lukin e utala lon sewi1 tomo  
 zzzz li kama li utala e jan ike  
 jan mute li moli  
 taso jan pona li anpa e jan ike  
@@ -77,7 +77,7 @@ jan ike li weka tan tomo
 taso lon nasin pi(matomo) la ona li ken ala lukin  
 ale li pimeja a  
 kon pimeja nasa li ken ala e lukin  
-jan pali li len lon sewi2 tomo  
+jan pali li len lon sewi1 tomo  
 jan ike li lon insa tomo la  
 zz jan suno li pana e kon pimeja  
 ni la jan ike li ken ala sona e ijo lon poka ona  

@@ -7,11 +7,11 @@ outputs:
 
 {{<rss link="/tp/rss.xml">}}
 
-![soko2 [soko2 ilo jasima esun nasa ilo]](/media/ss.png)
+![soko [soko ilo jasima esun nasa ilo]](/media/ss.png)
 {.ss}
 
 a(toki)  
-mi soko2 [soko2 ilo jasima esun nasa ilo]  
+mi soko [soko ilo jasima esun nasa ilo]  
 mi tonsi tan ma [kasi,, tawa,, lawa,,]  
 mi mama e lipu la mi pana lon poki ni  
 awen o pona aaa  
@@ -37,7 +37,7 @@ toki mun la
 * [pona sama](pona-sama)  
 
 toki jan la  
-* [olin2 mama](olin-mama)  
+* [olin1 mama](olin-mama)  
 
 toki pini la  
 * _mi pana lon tenpo kama_
@@ -46,7 +46,7 @@ toki pini la
 
 # lon insa pi(matu)
 
-meli li olin2 e meli
+meli li olin1 e meli
 * _nanpa wan la_ [kasi li len e mi](lon-insa-pi-ma-tu-1)
 
 ---
@@ -83,11 +83,11 @@ mi ken ala kalama la kalama li ken ike tawa kute
 * [o utala](o-utala) zzzzzzzzzzzz  _tan toki [kasi,, tawa,, lawa,,]_  
 * [kili loje](kili-loje) zzzzzzzzzzzz _tan toki [lupa,, sina,,]_  
 * [suno suwi o](suno) zzzzzzzzzz _tan toki [kasi,, tawa,, lawa,,]_  
-* [soko2 lili](soko-lili) zzzzzzzzzzzz _tan toki [kasi,, tawa,, lawa,,]_  
+* [soko lili](soko-lili) zzzzzzzzzzzz _tan toki [kasi,, tawa,, lawa,,]_  
 
 ---
 
 # sona
 
 mi pana e sona e musi ala  
-* [soko2 li seme](soko-li-seme)
+* [soko li seme](soko-li-seme)

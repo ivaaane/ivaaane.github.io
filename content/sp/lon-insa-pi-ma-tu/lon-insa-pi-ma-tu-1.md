@@ -4,8 +4,8 @@ header: <b>nanpa wan la</b>kasi li len e mi
 date: 2025-10-19
 lang: sp
 details:
-- date: suno nanpa luka-luka luka tu-tu la mun nanpa luka-luka la sike nanpa owe mute2 mute2 wan
-- note: tan lipu olin2 te lon insa pi(matu) to
+- date: suno nanpa luka-luka luka tu-tu la mun nanpa luka-luka la sike nanpa owe mute1 mute1 wan
+- note: tan lipu olin1 te lon insa pi(matu) to
 ---
 
 mi kasi  
@@ -62,7 +62,7 @@ len kasi taso li pona e mi
 ni la mi kute e sina  
   
 sina kama lon len kasi mi  
-sina lukin e mi tan sewi2  
+sina lukin e mi tan sewi1  
 mi lukin e sina tan anpa  
 suno li walo e sinpin sina  
 a  
@@ -77,14 +77,14 @@ nasin suwi
 sina sama kasi tawa lukin mi  
 sina sewi anu seme  
   
-sinamu2 te o kama to  
+sinamu1 te o kama to  
   
 mi toki  
 taso kalama li ala  
 mi ken ala toki  
 mi lukin e sina  
   
-sinamu2 te n  
+sinamu1 te n  
 zzzzzz sina kama ala tan seme to  
   
 sina tawa anpa  
@@ -93,7 +93,7 @@ sina awen lon poka mi
 mi lukin e sinpin sina  
 sina pilin ike ala  
   
-sina mu2 te jan ale lon tomo sona li pilin ike  
+sina mu1 te jan ale lon tomo sona li pilin ike  
 zzzzzz ona li sona ala e tan pi(wekasina)  
 zzzzzz sina o kama sin to  
   
@@ -107,7 +107,7 @@ sina sin e sonani
 ike  
 telo lukin li kama wawa  
   
-sinamu2 te a n  
+sinamu1 te a n  
 zzzzzz o pilin ike ala  
 zzzzzz ike seme li lon to  
   
@@ -119,7 +119,7 @@ ike a
 mi ike a  
 telo lukin li awen  
   
-sinamu2 te n(zzzz)  
+sinamu1 te n(zzzz)  
 zzzzzz ale li pona  
 zzzzzz ale li pona to  
   
@@ -131,24 +131,24 @@ tenpo li tawa
 sina toki ala  
 mi pilin pona lili  
   
-sinamu2 te sina ken ala ken toki to  
+sinamu1 te sina ken ala ken toki to  
   
 mi toki e te ala to kepeken lawa   
   
-sinamu2 te tan seme to  
+sinamu1 te tan seme to  
   
 mi ken ala toki  
   
-sinamu2 te ato  
+sinamu1 te ato  
   
 mi awen  
 sina awen  
   
-sinamu2 te sina pilin pona ala pona to  
+sinamu1 te sina pilin pona ala pona to  
   
 mi toki e te pona to kepeken lawa  
   
-sinamu2 te pona   
+sinamu1 te pona   
 zzzzzzsinawile kama ala kama to  
   
 n  
@@ -161,25 +161,25 @@ mi awen
   
 mi toki e te kama to kepeken lawa  
   
-sinamu2 te pona to  
+sinamu1 te pona to  
   
 sina pini awen  
-sina lon sewi2  
+sina lon sewi1  
 mi lon anpa  
 sina jo e luka mi  
   
-sinamu2 te o kama to  
+sinamu1 te o kama to  
   
 mi pini eawen  
 kasi li lon anpa  
-tasomi lon sewi2  
+tasomi lon sewi1  
 sina pini e jo  
 sina open e tawa  
 mi lon poka sina  
 nasin tawa li suli  
 kasi mute li lon  
 kasi li kule mute  
-kasi suli la soko2  
+kasi suli la soko  
 li len lon anpa  
 nasin li kama pini  
 
@@ -197,20 +197,20 @@ ike
 mi pini tawa  
 sina pini tawa  
 
-sinamu2 te seme li lon to
+sinamu1 te seme li lon to
 
 mi awen  
 sina toki ala  
 ale li awen  
 sina tawa mi  
 
-sinamu2 te ijo ike li kama tawa sina lon tomo sona anu seme to
+sinamu1 te ijo ike li kama tawa sina lon tomo sona anu seme to
 
 mi toki e te lon to kepeken lawa  
 pilin ike li kama sin  
 sina lukin e mi
 
-sinamu2 te nimi sina li seme to
+sinamu1 te nimi sina li seme to
 
 mi wile toki  
 mi wile toki  
@@ -225,21 +225,21 @@ mi open e uta
 mi wile toki  
 mi toki
 
-mimu2 te mi meli [anpa,, jan,,] to
+mimu1 te mi meli [anpa,, jan,,] to
 
 mi lukin e anpa  
 kalama mi li ike  
 
-sinamu2 te meli [anpa,, jan,,] o  
+sinamu1 te meli [anpa,, jan,,] o  
 zzzzzz o pilin ike ala  
 zzzzzz mi ken pana e pona  
 zzzzzz taso o weka ala a to
 
 mi lukin e lukin sina  
 
-mimu2 te n(zz)  
+mimu1 te n(zz)  
 zzzzzz sina pona to  
-sinamu2 te o kama a to
+sinamu1 te o kama a to
 
 sina jo e luka mi  
 sina tawa e mi  
@@ -290,8 +290,8 @@ toki mute a
 kalama mute a  
 sina toki  
 
-sinamu2 te sina wile la mi ken awen lon poka sina to  
-mimu2 te pona to
+sinamu1 te sina wile la mi ken awen lon poka sina to  
+mimu1 te pona to
 
 mi awen lon supa mi  
 mi kama e ilo pali  
@@ -303,12 +303,12 @@ sona nanpa li ike a
 mi pilin ike sin  
 mije tu lon poka mi li toki  
 
-mijemu2 zz te meli [anpa,, jan,,] o  
+mijemu1 zz te meli [anpa,, jan,,] o  
 zzzzzzzz sina weka tawa seme to  
-mijeantemu2 te sina ken ala pali ni anu seme  
-mijemu2 zz te seme a  
+mijeantemu1 te sina ken ala pali ni anu seme  
+mijemu1 zz te seme a  
 zzzzzzzz pali ni li lili a to  
-mijeantemu2 te o toki to
+mijeantemu1 te o toki to
 
 taso mi toki ala  
 telo li open lon lukin mi  
@@ -321,17 +321,17 @@ mi wile weka
 ala li pona e mi lon ma ni  
 telo lukin li tawa anpa
 
-mijemu2 te sina pilin ike tan seme  
+mijemu1 te sina pilin ike tan seme  
 zzzzzz sina lili anu seme to  
-sinamu2 te o to
+sinamu1 te o to
 
 sina pini awen  
 sinpin sina li pana e pilin utala  
 sina toki tawa mije  
 
-mijemu2 te a&seme to  
-sinamu2 te o pini e toki jaki ni to  
-mijemu2 te mi toki jaki ala  
+mijemu1 te a&seme to  
+sinamu1 te o pini e toki jaki ni to  
+mijemu1 te mi toki jaki ala  
 zzzzzz ni ale li lon  
 zzzzzz ona li ken ala pali li ken ala toki  
 zzzzzz ona li weka tan tomo  
@@ -375,9 +375,9 @@ mi lukin e sina tan anpa awen
 lukin sina li suno lili  
 sinpin sina li pana e pilin ike lili
 
-sinamu2 te o kute ala e ona  
+sinamu1 te o kute ala e ona  
 zzzzzz ale li pona to  
-mimu2 te . . . taso . . . to
+mimu1 te . . . taso . . . to
 
 mi ken ala toki  
 sina awen luka  
@@ -385,7 +385,7 @@ nasa la mi pilin suwi
 taso sina pini tan kalama suli  
 jan sona li kama  
 
-jan sona mu2 te seme a li kama  
+jan sona mu1 te seme a li kama  
 zzzzzzzz sina ken ala utala e jan a  
 zzzzzzzz meli [telo,, jan,,, ala] o toki tawa jan lawa to  
  

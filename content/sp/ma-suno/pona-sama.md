@@ -3,7 +3,7 @@ title: pona sama
 lang: sp
 date: 2025-08-30
 details:
-- date: suno nanpa mute2 luka-luka la mun nanpa luka tu-wan la sike nanpa owe mute2 mute2 luka
+- date: suno nanpa mute1 luka-luka la mun nanpa luka tu-wan la sike nanpa owe mute1 mute1 luka
 last: ma-tomo
 ---
 
@@ -87,13 +87,13 @@ jan suli li lawa e kulupu utala
 zzzz li kama utala e ma tomo lon poka pi(telosuli)  
 ma ni la jan lili li lon  
 taso ona en jan pi(sunoala) li mama e jan sin  
-jan lili li olin2 e jan pi(sunoala)  
+jan lili li olin1 e jan pi(sunoala)  
 zzzz li wile ala weka  
 jan suli li pilin pakala  
 ona o seme  
 taso ona li awen sona e toki tan jan pi(lenjelo)  
 te mi ale li pona sama to  
-pini la ona li moli ala e jan olin2  
+pini la ona li moli ala e jan olin1  
 zzzzzz li toki  
 zz te o tawa  
 zzzz o len lon ma ante suli  

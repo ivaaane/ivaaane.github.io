@@ -2,7 +2,7 @@
 title: taso
 lang: sp
 details:
-- date: suno nanpa luka tu-tu la mun nanpa luka tu-wan la sike nanpa owe mute2 mute2 wan
+- date: suno nanpa luka tu-tu la mun nanpa luka tu-wan la sike nanpa owe mute1 mute1 wan
 - note: |
     mi pana e lipu ni tawa [utala musi pi(toki+pona)](https://utala.pona.la)  
     zzzzzz pini utala la mi nanpa tu a
@@ -15,7 +15,7 @@ zz ala li lon poka mi
 zz ala li ken pona e mi  
 kalama wawa li utala e kute  
 zz lukin li ike  
-mi lukin e sewi2  
+mi lukin e sewi1  
 zzzzzzzz pimeja  
 mi lukin e anpa  
 zzzzzzzz pimeja  
@@ -74,7 +74,7 @@ o moli ala e mi
 zzzzzzzz mi wile ala moli  
 #### zzzzzzzz miwilealamolia  
 zz moli  
-wawa lili la mi tawa sewi2  
+wawa lili la mi tawa sewi1  
 
 
 ## kon
@@ -84,7 +84,7 @@ tenpo lili la mi pilin pona
 zzzzzzzz pilin pona li pini  
 kalama wawa li lon  
 
-telo wawa li kama tan sewi2  
+telo wawa li kama tan sewi1  
 telo li mute zzzzzz  
 telo li ike e selo mi  
 {.right}
@@ -129,7 +129,7 @@ zzzz anpa
 zz mi luka e kiwen  
 zz mi ken ala lukin  
 taso mi luka wawa e kiwen  
-zz mi tawa sewi2  
+zz mi tawa sewi1  
 zz mi awen lon kiwen  
 zzzzzzzz kiwen li supa  
 selo ni  
@@ -213,7 +213,7 @@ zzzzzz mi awen
 
 ## seli
 
-zz suno li sike walo suli lon sewi2  
+zz suno li sike walo suli lon sewi1  
 zz suno li seli  
 mi wile ala seli  
 mi wile len tan suno  
@@ -280,8 +280,8 @@ mi o alasa ala e soweli
 n(zz)  
 ken la waso  
 zzzz waso li utala ala e jan  
-zz taso waso li lon sewi2  
-zz mi ken ala lon sewi2  
+zz taso waso li lon sewi1  
+zz mi ken ala lon sewi1  
 mi o alasa ala e waso  
 n(zz)  
 zzzzzz ken la kala  
@@ -328,8 +328,8 @@ ale li laso
 mi sona pona ala e kasi  
 mi awen alasa  
 mi awen tawa  
-suno li tawa lon sewi2  
-zzzzzzzz sewi2 li kama loje  
+suno li tawa lon sewi1  
+zzzzzzzz sewi1 li kama loje  
 sijelo li mu  
 zz n(moku)  
 zz wawa li weka  
@@ -394,7 +394,7 @@ lawa li ken ala pona
 noka li tawa pona ala  
 lukin li pona ala  
 mi awen lon anpa la  
-zz mi tawa sewi2  
+zz mi tawa sewi1  
 zz li kama anpa sin  
 seme li ni e mi  
 zz mi lukin e luka  
@@ -411,7 +411,7 @@ mi sona ala e kili loje ni zzzz
 
 zz pakala  
 mi ken ala awen sama ni  
-mi tawa sewi2  
+mi tawa sewi1  
 zz li luka e kasi suli  
 kasi li awen e mi  
 zz mi awen  
@@ -478,7 +478,7 @@ ale li pona
 mi pilin pona  
 mi pini e lape la mi awen lon nena  
 zz suno li kama sin  
-zz waso li lon sewi2  
+zz waso li lon sewi1  
 pilin nasa li weka  
 zz lape li pona e ale mi  
 zzzz mi tawa  
@@ -554,7 +554,7 @@ zzzz mi tawa
 ## kalama
 
 mi kute e kalama suli  
-mi lukin e sewi2  
+mi lukin e sewi1  
 
 pimeja zzzzzzzzzzzzzzzzzzzz  
 telo zzzzzzzzzzzzzzzz  
@@ -592,12 +592,12 @@ ale li lete
 zzzz lete li kama e jaki lon sijelo mi  
 zzzzzzzzzzzzzzzzzz mi pilin ike  
 zzzzzzzzzzzzzzzzzz mi lukin e ma  
-telo sewi2 li weka  
+telo sewi1 li weka  
 zz anpa li kama ko pimeja  
 zz jaki li lon anpa  
 kasi mute li anpa  
 zz pipi li kulupu  
-zz zz li tawa sike lon sewi2  
+zz zz li tawa sike lon sewi1  
 zz utala li lon insa mi  
 zz n(jaki)  
 mi tawa  
@@ -676,7 +676,7 @@ wawa li kama lon mi
 zzzz mi jo e kili laso mute  li tawa poka telo  
 mi awen alasa pali e seli  
 zzzz mi tawa e palisa  
-zz mun li lawa e sewi2  
+zz mun li lawa e sewi1  
 mi awen tawa  
 zzzzzz tawa  
 zzzzzzzz n
@@ -703,7 +703,7 @@ loje li lon pimeja
 
 ## seli
 
-mi pini e lape la suno li suli lon sewi2 laso  
+mi pini e lape la suno li suli lon sewi1 laso  
 zzzzzz seli li awen  
 zzzzzz seli a  
 mi pali e seli a  
@@ -746,14 +746,14 @@ mi moku e kala
 zz a(pona)  
 mi wile ala moku la mi awen lon seli  
 kon lili suwi li luka e mi  
-mi lukin e sewi2  
+mi lukin e sewi1  
 zz a n
 
 ## pimeja
 
-sewi2 li pimeja zzzz  
+sewi1 li pimeja zzzz  
 taso mun li lon ala zz  
-tenpo kama la telo li kama tan sewi2  
+tenpo kama la telo li kama tan sewi1  
 mi sona zzzzzzzzzzzzzzzzzz  
 ma ni la telo li wawa zzzz  
 ale li pakala zzzz  
@@ -796,7 +796,7 @@ mi tawa ale ma
 n(zz)  
 zzzz anpa en nena la mi tawa insa  
 zzzz kasi suli li lon  
-zzzz taso ma insa li sewi2 a tawa anpa  
+zzzz taso ma insa li sewi1 a tawa anpa  
 zzzzzzzzzz li poka tawa nena  
 zzzz ni^ la telo li tawa lon anpa la wawa telo li lili  
 zzzzzzzz kasi li lon la mi ken awen e tomo  
@@ -813,7 +813,7 @@ lili en ala la lili li pona
 mi pana e palisa tawa anpa  
 mi kulupu e palisa  
 zzzzzz palisa li supa  
-zzzzzzzz li awen lon sewi2 palisa ante sama sinpin  
+zzzzzzzz li awen lon sewi1 palisa ante sama sinpin  
 taso sinpin li pakala  
 a(zz)  
 zzzz mi alasa kepeken nasin ante  
@@ -826,7 +826,7 @@ mi alasa mute kepeken nasin mute
 ## pakala
 
 mi lape lili  
-mi lukin e sewi2  
+mi lukin e sewi1  
 
 pimeja li wawa  
 {.right}
@@ -839,13 +839,13 @@ zzzz mi pana e palisa ante lon poka
 zzzzzzzzzz palisa tu la  
 zzzzzzzzzzzz sewi la mi pana e palisa lon insa  
 anpa la mi pana e palisa lon poka  
-palisa sin en palisa poka la sewi2 la mi pana e palisa lon insa  
+palisa sin en palisa poka la sewi1 la mi pana e palisa lon insa  
 mi awen pali ni  
 sinpin li anpa ala  
 zz pona  
 pini la tomo li lili  
 zzzzzz li sike  
-sike la palisa li awen e palisa lon sewi2  
+sike la palisa li awen e palisa lon sewi1  
 mi pana e kasi tawa selo  
 zzzz lupa li lon  
 
@@ -872,7 +872,7 @@ tenpo pi(muteseme) la mi lon ma lili ni
 zzzzzzzzzz mi sona ala  
 ma ante la jan li kepeken nanpa  
 zzzzzzzz jan li nanpa e mute tenpo  
-jan li toki e te tenpo nanpa ale-ale ale-ale ale-ale ale-ale ale-ale ale-ale ale-ale ale-ale ale-ale ale-ale mute2 mute2 mute2 mute2 tu-tu la n() to  
+jan li toki e te tenpo nanpa ale-ale ale-ale ale-ale ale-ale ale-ale ale-ale ale-ale ale-ale ale-ale ale-ale mute1 mute1 mute1 mute1 tu-tu la n() to  
 zzzz toki suli a  
 zzzzzz kulupu jan la nanpa li ale  
 zzzzzzzzzz mi nanpa  
@@ -957,11 +957,11 @@ zzzzzz mi ken kama e pona tan ike
 a(sonasulizzzz)  
 mi lape  
 suno li suwi  
-mi lukin e sewi2  
+mi lukin e sewi1  
 zzzzzzzz laso  
 zzzz ale li laso  
 zz ma jan la laso li lili  
-zz mi lukin e laso sewi2  
+zz mi lukin e laso sewi1  
 zz mi lukin e laso kasi  
 zz mi lukin e laso telo  
 zz mi lukin e
@@ -1035,7 +1035,7 @@ zzzz jan li ken pona
 zzzz jan li ken kulupu tawa pona  
 zzzz jan li ike li pakala  
 zzzzzz li pona li pali  
-zzzz jan li utala li olin2  
+zzzz jan li utala li olin1  
 zzzzzz li jaki li suwi  
 zzzzzz li moli li mama  
 zzzzzz li kalama li kute  
@@ -1056,7 +1056,7 @@ zz mi wile n()
 zz mi wile moku e pan  
 zz mi moku e kili e kala taso  
 zz mi wile moku e ijo mute  
-zz mi wile olin2  
+zz mi wile olin1  
 zz mi wile sitelen  
 zz mi wile toki  
 zz mi wile pona  
@@ -1072,7 +1072,7 @@ zzzz e telo
 zzzzzzzz tawa pona  
 wawa la mi tawa poka telo  
 zzzz mi lukin e tomo tawa  
-zzzz mi sewi2 e luka tu  
+zzzz mi sewi1 e luka tu  
 zzzz mi toki
 
 ## te o to
