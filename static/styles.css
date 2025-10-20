@@ -292,7 +292,12 @@ ul, ol {
         padding: 0;
         font-size: 80%;
     }
-    video {width: 50%;} 
+    video {
+        width: 50%;
+    }
+    .sp {
+        ul { margin-top: -1rem; }
+    }
     .box {
         padding: 1rem;
         border-left: 0;

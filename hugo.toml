@@ -13,6 +13,8 @@ disableKinds = ["taxonomy", "term"]
 
 [markup.goldmark.renderer]
   unsafe = true
+[markup.goldmark.parser]
+  autoHeadingID = false
 [markup.goldmark.parser.attribute]
   block = true
   title = true
