@@ -50,3 +50,7 @@ multiĝas fungoj
 freŝa aero –  
 verdajn kaj oranĝajn  
 portas folioj
+
+la sun’ brilas  
+dum la vento ekfortas –  
+jen somereto!

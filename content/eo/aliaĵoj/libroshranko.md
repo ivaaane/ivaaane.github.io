@@ -78,7 +78,7 @@ details:
 | ------------------------------- | ------------------- |
 | [ĉiuj romanoj el Diskomondo]{{<note text="Discworld">}} | Terry Pratchett |
 | Kolizio de reĝoj{{<note text="A clash of kings">}} | George R. R. Martin |
-| L’ _auca_ de sinjoro Esteve{{<note text="L'auca del senjor Esteve">}} | Santiago Rusiñol |
+| L' aŭko de sinjoro Esteve{{<note text="L'auca del senjor Esteve">}} | Santiago Rusiñol |
 | Duno{{<note text="Dune">}} | Frank Herbert |
 | La taglibroj de la apotekistino{{<note text="薬屋のひとりごと">}} | Natsu Hyūga |
 | Morto sur Nilo{{<note text="Death on the Nile">}} | Agatha Christie |
