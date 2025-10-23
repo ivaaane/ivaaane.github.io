@@ -1,5 +1,5 @@
 ---
-title: kasi li len e mi
+title: "kasi li len e mi | lon insa pi ma tu #1"
 header: <b>nanpa wan la</b>kasi li len e mi
 date: 2025-10-19
 lang: sp

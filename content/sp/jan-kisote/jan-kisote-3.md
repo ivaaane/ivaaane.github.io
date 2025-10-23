@@ -1,5 +1,5 @@
 ---
-title: lawa li jan utala e jan Kisote
+title: "lawa li jan utala e jan Kisote | jan Kisote #3"
 header: <b>nanpa tu-wan</b> la lawa li jan utala e jan [kiwen,, sona,, tenpo,,]
 date: 2025-09-20
 lang: sp

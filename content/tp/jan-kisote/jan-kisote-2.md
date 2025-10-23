@@ -1,5 +1,5 @@
 ---
-title: tawa nanpa wan pi jan Kisote
+title: "tawa nanpa wan pi jan Kisote | jan Kisote #2"
 header: "#T<br>tawa nanpa wan pi jan Kisote"
 date: 2025-04-23
 lang: tp
@@ -49,7 +49,7 @@ jan Kisote la mije o pona tawa soweli Losinante kin. ona li soweli nanpa wan taw
 > jan Kisote utala  
 > lon tomo a wawa.»
 
----anu soweli Losinante. ona li soweli mi mi jan Kisote pi ma Mansa. o lawa e mi.
+---anu soweli Losinante. ona li soweli mi. mi jan Kisote pi ma Mansa. o lawa e mi.
 
 toki li nasa tawa meli la ona li toki ala. ona li pana e moku
 

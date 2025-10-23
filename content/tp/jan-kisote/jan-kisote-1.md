@@ -1,5 +1,5 @@
 ---
-title: "sona en pali pi jan Kisote"
+title: "sona en pali pi jan Kisote | jan Kisote #1"
 header: "#W<br>sona en pali pi jan Kisote"
 date: 2025-04-23
 lang: tp

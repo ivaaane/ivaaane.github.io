@@ -1,5 +1,5 @@
 ---
-title: sona en pali pi jan Kisote
+title: "sona en pali pi jan Kisote | jan Kisote #1"
 header: <b>nanpa wan la</b> sona en pali pi jan [kiwen,, sona,, tenpo,,]
 date: 2025-04-23
 lang: sp
