@@ -11,17 +11,17 @@ Frritt!... estas la vento elĉeniĝanta.
 
 Flakk!... estas la pluvo falanta torente.
 
-Tiu malpura vento-puŝo kurbigas la arbojn de la volsinia marbordo kaj frakasiĝas kontraŭ la flanko de la montoj de Krimo. Laŭ la marbordo, la altajn rokojn senĉese ronĝadas la ondoj de la vasta maro de Megalokrido.
+Tiu malpura vento-puŝo kurbigas la arbojn de la volsinia marbordo kaj frakasiĝas kontraŭ la flanko de la montoj de Krimo. Laŭ la mar-bordo, la altajn rokojn senĉese ronĝadas la ondoj de la vasta maro Megalokrida.
 
 Frritt!... Flakk!...
 
-En la fundo de la haveno kaŝas sin la eta vilaĝo de Luktropo. Iujn centoj da domoj, kun verdaj rigard-turoj, kiuj defendas kontraŭ la maraj ventoj laŭeble. Kvar aŭ kvin krutaj stratoj, pli ravinoj ol vojoj, pavimitaj per ŝtonoj, malpurigitaj de la skorioj, kiujn ĵetas la erupciaj konusoj el la fundo. La vulkano ne estas fore — Vangloro. Dumtage, la interna puŝo disiĝas je formo de sulfuraj vaporoj. Dumnokte, po minuto, granda vomado de flamoj. Kiel lumturo, de antingo de kvindek cent kertzoj, Vangloro montras la havenon de Luktropo al la marbordaj navigantoj, felzanoj, verliĉoj aŭ pesilistoj, kies arkoj tranĉas la akvojn de Megalokrido.
+En la fundo de la haveno kaŝas sin la eta vilaĝo Luktropo. Iujn centoj da domoj, kun verdaj rigard-turoj, kiuj defendas kontraŭ la maraj ventoj laŭeble. Kvar aŭ kvin krutaj stratoj, pli ravinoj ol vojoj, pavimitaj per ŝtonoj, malpurigitaj de la skorioj, kiujn ĵetas la erupciaj konusoj el la fundo. La vulkano ne estas fore — Vangloro. Dumtage, la interna puŝo disiĝas je formo de sulfuraj vaporoj. Dumnokte, po minuto, granda vomado da flamoj. Kiel lum-turo, de antingo de kvindek cent kertzoj, Vangloro montras la Luktropa havenon al la marbordaj navigantoj, felzanoj, verliĉoj aŭ pesilistoj, kies arkoj tranĉas la akvojn de Megalokrido.
 
-Trans la urbo estas kelkaj ruinoj de la krima epoko. Post araba-aspekta suburbo, kasbaho, de blankaj muroj, de rondaj plafonoj, de terasoj voritaj de la suno — Amaso de ŝtonkuboj ĵetitaj hazarde. Vera amaso de ĵetkuboj por ludi, kies punktojn forviŝis la patino de la tempo.
+Transurbe estas kelkaj ruinoj de la krima epoko. Post araba-aspekta suburbo, kasbaho, de blankaj muroj, de rondaj plafonoj, de terasoj voritaj de la suno — Amaso de ŝtonkuboj ĵetitaj hazarde. Vera amaso de ĵetkuboj por ludi, kies punktojn forviŝis la patino de la tempo.
 
-Inter aliaj, distingas sin Ses-Kvaro, nomo donita al stranga konstruo, kiu havas ses aperturojn sur unu flanko, kvar sur la alia.
+Inter aliaj, distingas sin Ses-Kvaro, nomo donita al stranga konstruo, kiu havas ses aperturojn surflanke, kvar suralie.
 
-Sonoril-turo dominas la vilaĝo, la kvardrata sonoril-turo de Sankta Filfilena, kun sonoriloj pendigitaj en la kavoj inter la muroj, kaj kiun la uragano resonigas foje.
+Sonoril-turo dominas la vilaĝon, la kvardrata sonoril-turo de Sankta Filfilena, kun sonoriloj pendigitaj en la kavoj inter la muroj, kaj kiun la uragano resonigas foje.
 
 Malbona signalo. Tiam, oni timas ĉi-lande.
 
@@ -29,13 +29,13 @@ Jen estas Luktropo. Poste, loĝejoj disaj en la kampo, inter balailoj kaj erikoj
 
 Ĉu estas Francion? Mi ne scias. Eŭropon? Mi nek scias.
 
-Ĉiuokaze,  ne serĉu Luktropon en la mapo — eĉ en la atlaso de Stieler.
+Ĉiuokaze, ne serĉu Luktropon en la mapo — eĉ en la atlaso de Stieler.
 
 ***
 
 # II
 
-Frok!... Diskreta frapo resonas ĉe la malalta pordo de Ses-Kvaro, en la maldesktra angulo de strato Misagio. Estas unu el la plej komfortaj domoj, se, tamen, tiu ĉi vorto eblas en Luktropo — unu el la plej riĉaj, se ekhavi jare kelkajn milojn da fretzoj konsistigas riĉecon.
+Frok!... Diskreta frapo resonas ĉe la malalta pordo de Ses-Kvaro, en la maldesktra angulo de strato Misagio. Estas unu el la plej komfortaj domoj, se, tamen, tiu ĉi vorto esteblas en Luktropo — unu el la plej riĉaj, se ekhavi kelkajn milojn da fretzoj po jaro konsistigas riĉecon.
 
 Al _frok_' respondas unu el tiuj sovaĝaj bojoj, en kiu estas hurloj, — kiu al oni memorigas bojon de lupo. Poste fenestro malfermas super la pordo de Ses-Kvaro.
 

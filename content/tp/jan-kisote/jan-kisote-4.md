@@ -5,6 +5,7 @@ lang: tp
 details:
   - note: mi toki pona e lipu "Don Quijote" pi kon Sewante tan toki Epanjo.
 last: jan-kisote-3
+draft: true
 ---
 
 jan Kisote li kama jan utala la ona li pilin pona a. taso, ona li kute e mije la, sin la ona li wile tawa tomo ona, li wile kama e mani e len e jan jo.

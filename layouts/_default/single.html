@@ -1,6 +1,7 @@
 {{ partial "header.html" . }}
 
 <div class="{{ .Params.lang }}">
+    {{ if not .Params.noheader }}
     <div class="box">
         {{ partial "theme.html" . }}
         <br>
@@ -8,6 +9,7 @@
         <br>
         {{ partial "details.html" . }}
     </div><br/>
+    {{ end }}
     <div class="box">
         <br>
         {{ replace .Content "<hr>" "<br></div><br/><div class='box'><br>" | safeHTML}}
