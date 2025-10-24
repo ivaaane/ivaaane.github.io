@@ -19,6 +19,8 @@ awen o pona aaa
 _ilo li lili la o sike e lukin_
 {.mobile}
 
+<marquee>mu</marquee>
+
 ---
 
 # ma suno

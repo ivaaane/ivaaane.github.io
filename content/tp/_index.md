@@ -13,6 +13,8 @@ outputs:
 
 toki a! mi soko sijeni. mi tonsi tan ma Katala. mi mama e lipu la mi pana tawa poki ni. awen o pona!!!
 
+<marquee>mu</marquee>
+
 ---
 
 # _ma suno_

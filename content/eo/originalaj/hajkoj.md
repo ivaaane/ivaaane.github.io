@@ -47,9 +47,13 @@ nun el la tero
 jam ŝanĝita l' plant-kolor’  
 multiĝas fungoj  
 
+<br>
+
 freŝa aero –  
 verdajn kaj oranĝajn  
 portas folioj
+
+<br>
 
 la sun’ brilas  
 dum la vento ekfortas –  
