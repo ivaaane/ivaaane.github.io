@@ -3,6 +3,7 @@ title: Frritt-Flakk
 lang: eo
 details:
 - note: Traduko de 'Fritt-flacc', terura rakonteto fare de Jules Verne en 1884.
+draft: true
 ---
 
 # I
@@ -25,9 +26,9 @@ Sonoril-turo dominas la vilaĝon, la kvardrata sonoril-turo de Sankta Filfilena,
 
 Malbona signalo. Tiam, oni timas ĉi-lande.
 
-Jen estas Luktropo. Poste, loĝejoj disaj en la kampo, inter balailoj kaj erikoj, _passim_, kiel Bretonion. Sed ĝi ne estas Bretonion.
+Jen estas Luktropo. Poste, loĝejoj disaj en la kampo, inter balailoj kaj erikoj, _passim_, kiel Bretonujon. Sed ĝi ne estas Bretonujon.
 
-Ĉu estas Francion? Mi ne scias. Eŭropon? Mi nek scias.
+Ĉu estas Francujon? Mi ne scias. Eŭropon? Mi nek scias.
 
 Ĉiuokaze, ne serĉu Luktropon en la mapo — eĉ en la atlaso de Stieler.
 

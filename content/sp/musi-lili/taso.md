@@ -171,8 +171,7 @@ lon ike la mi kama pilin pona
 
 mi lape  
 
-. . .
-{.asterisks}
+{{<div>}}
 
 ## supa
 
@@ -200,8 +199,7 @@ mi moli ala
 a(zzzzzz)  
 zzzz mi lape  
 
-. . .
-{.asterisks}
+{{<div>}}
 
 ## suno
 
@@ -384,8 +382,7 @@ lawa li lape
 ale li pona  
 mi lape
 
-. . .
-{.asterisks}
+{{<div>}}
 
 ## nasa
 
@@ -470,8 +467,7 @@ zz suwi a
 ike li lon ala  
 ale li pona
 
-. . .
-{.asterisks}
+{{<div>}}
 
 ## pona
 
@@ -548,8 +544,7 @@ zzzzzzzzzzzzzz a(zz)
 sin la mi wile moku  
 zzzz mi tawa
 
-. . .
-{.asterisks}
+{{<div>}}
 
 ## kalama
 
@@ -583,8 +578,7 @@ poka la kasi li pakala tan wawa telo
 
 mi awen
 
-. . .
-{.asterisks}
+{{<div>}}
 
 ## lete
 
@@ -698,8 +692,7 @@ zz suno li awen
 
 loje li lon pimeja
 
-. . .
-{.asterisks}
+{{<div>}}
 
 ## seli
 
@@ -863,8 +856,7 @@ tenpo li tawa
 
 taso tomo li awen
 
-. . .
-{.asterisks}
+{{<div>}}
 
 ## tenpo
 

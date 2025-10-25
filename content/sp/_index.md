@@ -41,9 +41,6 @@ toki mun la
 toki jan la  
 * [olin1 mama](olin-mama)  
 
-toki pini la  
-* _mi pana lon tenpo kama_
-
 ---
 
 # lon insa pi(matu)

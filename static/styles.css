@@ -127,6 +127,10 @@ ul, ol {
 
     a {
         color: var(--text);
+        &:hover {
+            color: var(--bg-color);
+            background-color: var(--text);
+        }
     }
 }
 
