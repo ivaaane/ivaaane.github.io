@@ -41,7 +41,9 @@ title: sieni
 <a href="https://baccyflap.com/noai" target="_blank">no ai &#x1f6ab;&#129302; webring</a>
 <a style="font-size:60%" href="https://baccyflap.com/noai/?rnd" target="_top" title="random">(&#x1F3B2;)</a>
 <a href="https://baccyflap.com/noai/?nxt&s=nja" target="_top" title="next">»</a>
-</div> 
+</div>
+
+<iframe id="bucket-webring" style="width: 100%; height: 3rem; border: none;" src="https://webring.bucketfish.me/embed.html?name=your name"></iframe> 
 
 <br>
 
