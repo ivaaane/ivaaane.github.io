@@ -3,9 +3,8 @@ title: tawa pona
 date: 2025-02-14
 lang: tp
 details:
-- date: 14/2/2025
-- note: |
-        mi toki pona e kalama musi "bella ciao" tan toki Italija.
+- date: 2025/2/14
+- note: mi toki pona e kalama musi "bella ciao" tan toki Italija.
 ---
 
 suno ni la  

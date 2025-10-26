@@ -3,8 +3,8 @@ title: jan suno
 date: 2025-04-24
 lang: tp
 details:
-- date: 24/04/2024
-- edit: 10/8/2025
+- date: 2025/4/24
+- edit: 2025/8/10
 - note: toki mun nanpa open lon lipu "ma suno".
 last: open-utala
 next: ma-tomo

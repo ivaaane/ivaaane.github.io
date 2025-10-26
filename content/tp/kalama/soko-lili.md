@@ -3,7 +3,7 @@ title: soko lili
 date: 2025-08-31
 lang: tp
 details:
-- date: 31/8/2025
+- date: 2025/8/31
 - note: jan lili lon ma Katala li kalama musi ni "el bolet petitó"; mi toki pona e musi.
 ---
 

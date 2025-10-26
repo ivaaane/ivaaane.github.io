@@ -4,8 +4,8 @@ header: "#T<br>tawa nanpa wan pi jan Kisote"
 date: 2025-04-23
 lang: tp
 details:
-  - date: 23/4/2025
-  - edit: 10/8/2025
+  - date: 2025/4/23
+  - edit: 2025/10/8
   - note: mi toki pona e lipu "Don Quijote" pi kon Sewante tan toki Epanjo.
 last: jan-kisote-1
 next: jan-kisote-3

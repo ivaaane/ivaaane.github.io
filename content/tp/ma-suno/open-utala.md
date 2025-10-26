@@ -3,8 +3,8 @@ title: open utala
 date: 2025-04-15
 lang: tp
 details:
-- date: 15/4/2025
-- edit: 8/8/2025
+- date: 2025/4/15
+- edit: 2025/8/8
 - note: toki open nanpa pini lon lipu "ma suno".
 last: open-jan
 ---

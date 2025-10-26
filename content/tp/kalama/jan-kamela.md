@@ -3,8 +3,8 @@ title: a, jan Kamela!
 date: 2025-03-29
 lang: tp
 details:
-- date: "29/3/2025"
-- edit: "4/10/2025"
+- date: "2025/3/29"
+- edit: "2025/10/4"
 - note: mi toki pona e kalama musi "¡ay, Carmela!" tan toki Epanjo.
 ---
 

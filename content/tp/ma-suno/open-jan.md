@@ -3,8 +3,8 @@ title: open jan
 date: 2025-03-10
 lang: tp
 details:
-- date: 10/3/2025
-- edit: 8/8/2025
+- date: 2025/3/10
+- edit: 2025/8/8
 - note: toki open nanpa tu lon lipu "ma suno".
 last: open-lon
 next: open-utala

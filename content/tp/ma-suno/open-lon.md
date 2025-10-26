@@ -3,8 +3,8 @@ title: "open lon"
 date: 2025-03-29
 lang: tp
 details:
-- date: "29/3/2025"
-- edit: "8/8/2025"
+- date: 2025/3/29
+- edit: 2025/8/8
 - note: "lipu li toki e open ale kepeken sona pi jan suno; jan suno li tan tenpo pini a. ni li open e lipu \"ma suno\"."
 last: ma-suno
 next: open-jan

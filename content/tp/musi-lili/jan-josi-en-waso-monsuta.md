@@ -3,8 +3,8 @@ title: jan Josi en waso monsuta
 date: 2025-04-23
 lang: tp
 details:
-- date: "23/4/2025"
-- edit: "10/8/2025"
+- date: 2025/4/23
+- edit: 2025/8/10
 - note: kulupu mute lon ma Elopa li toki e musi ni.
 ---
 

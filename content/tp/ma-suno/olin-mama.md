@@ -3,7 +3,7 @@ title: olin mama
 date: 2025-08-17
 lang: tp
 details:
-- date: 17/8/2025
+- date: 2025/8/17
 - note: toki jan nanpa open lon lipu "open lon"
 last: open-utala
 ---

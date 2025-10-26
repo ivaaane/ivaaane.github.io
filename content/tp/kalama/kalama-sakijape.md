@@ -3,8 +3,8 @@ title: kalama Sakijape
 date: 2025-02-15
 lang: tp
 details:
-- date: 15/2/2025
-- edit: 10/8/2025
+- date: 2025/2/15
+- edit: 2025/8/10
 - note: mi toki pona e kalama musi "säkkijärven polkka" tan toki Sumi.
 ---
 

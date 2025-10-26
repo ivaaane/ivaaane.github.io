@@ -4,7 +4,7 @@ header: "#W<br>kasi li len e mi"
 date: 2025-10-19
 lang: tp
 details:
-- date: 19/10/2025
+- date: 2025/10/19
 - note: tan lipu olin "lon insa pi ma tu"
 ---
 

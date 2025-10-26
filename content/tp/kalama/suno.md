@@ -3,7 +3,7 @@ title: suno suwi o
 date: 2025-05-30
 lang: tp
 details:
-- date: 30/5/2025
+- date: 2025/5/30
 - note: jan lili lon ma Katala li kalama musi ni "sol solet"; mi toki pona e musi.
 ---
 

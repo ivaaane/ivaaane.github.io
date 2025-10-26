@@ -3,8 +3,8 @@ title: jan suli kasi
 date: 2025-05-30
 lang: tp
 details:
-- date: "30/5/2025"
-- edit: "14/8/2025"
+- date: 2025/5/30
+- edit: 2025/8/14
 - note: mi toki pona e toki musi "el gegant del pi" pi kulupu Katala.
 ---
 

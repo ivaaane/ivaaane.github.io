@@ -3,7 +3,7 @@ title: kalama pi kulupu Elopa
 date: 2025-03-21
 lang: tp
 details:
-- date: 21/3/2025
+- date: 2025/3/21
 - note: mi toki pona e kalama musi pi kulupu Elopa tan toki Epanjo.
 ---
 

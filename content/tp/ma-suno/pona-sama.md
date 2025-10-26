@@ -3,7 +3,7 @@ title: pona sama
 lang: tp
 date: 2025-08-30
 details:
-- date: 30/8/2025
+- date: 2025/8/30
 last: ma-tomo
 ---
 

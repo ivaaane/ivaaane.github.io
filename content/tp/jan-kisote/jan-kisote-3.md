@@ -4,7 +4,7 @@ header: "#TW<br>lawa li jan utala e jan Kisote"
 date: 2025-09-20
 lang: tp
 details:
-  - date: 20/9/2025
+  - date: 2025/9/20
   - note: mi toki pona e lipu "Don Quijote" pi kon Sewante tan toki Epanjo.
 last: jan-kisote-2
 ---

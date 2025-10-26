@@ -3,7 +3,7 @@ title: o lukin
 date: 2025-08-12
 lang: tp
 details:
-- date: 12/8/2025
+- date: 2025/8/12
 ---
 
 o lukin! sina lukin e ale. ijo mute li lon. sina ken kama sona.

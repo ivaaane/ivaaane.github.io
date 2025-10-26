@@ -73,7 +73,7 @@ mi toki+pona e lipu suli [DON QUIJOTE] pi(kon [sewi,,, ante,,,,]) tan toki [en p
 
 mi toki+pona e kalama musi tan toki ante mute  
 mi sona ala kalama uta taso mi sitelen e ni tan musi  
-mi ken ala kalama la kalama li ken ike tawa kute  
+mi sona kalama ala la toki li ken ike tawa kute  
 * [tawa pona](tawa-pona) zzzzzzzzzzzz _tan toki [insa tawa,, li,, jan,,]_  
 * [kalama [sama,, kijetesantakalu,,, ale pona en]](kalama-sakijape) zz _tan toki [suwi,, mi,,]_  
 * [o lukin e kala](kala) zzzzzzzz _tan toki [en pan,,, jo,,]_  

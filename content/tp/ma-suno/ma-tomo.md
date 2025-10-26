@@ -3,8 +3,8 @@ title: ma tomo
 date: 2025-05-31
 lang: tp
 details:
-- date: 31/5/2025
-- edit: 10/8/2025
+- date: 2025/5/31
+- edit: 2025/8/10
 last: jan-suno
 next: pona-sama
 ---

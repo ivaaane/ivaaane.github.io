@@ -3,8 +3,8 @@ title: o utala
 date: 2025-04-09
 lang: tp
 details:
-- date: 09/4/2025
-- edit: 8/8/2025
+- date: 2025/4/9
+- edit: 2025/8/8
 - note: mi toki pona e kalama musi "els segadors" tan toki Katala.
 ---
 

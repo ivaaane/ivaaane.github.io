@@ -4,8 +4,8 @@ header: "#W<br>sona en pali pi jan Kisote"
 date: 2025-04-23
 lang: tp
 details:
-- date: "23/4/2025"
-- edit: "10/8/2025"
+- date: "2025/4/23"
+- edit: "2025/8/10"
 - note: mi toki pona e lipu "Don Quijote" pi kon Sewante tan toki Epanjo.
 next: jan-kisote-2
 ---
