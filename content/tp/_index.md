@@ -102,6 +102,8 @@ mi toki pona e kalama musi tan toki ante mute. mi sona ala kalama uta, taso mi s
 
 * [soko lili](soko-lili), tan toki Katala
 
+* [mama mi li ike tawa lawa](mama-mi-li-ike-tawa-lawa), tan toki Sopisi
+
 ---
 
 # _sona_

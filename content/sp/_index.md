@@ -83,6 +83,7 @@ mi sona kalama ala la toki li ken ike tawa kute
 * [kili loje](kili-loje) zzzzzzzzzzzz _tan toki [lupa,, sina,,]_  
 * [suno suwi o](suno) zzzzzzzzzz _tan toki [kasi,, tawa,, lawa,,]_  
 * [soko lili](soko-lili) zzzzzzzzzzzz _tan toki [kasi,, tawa,, lawa,,]_  
+* [mama mi li ike tawa lawa](mama-mi-li-ike-tawa-lawa) zzzz _tan toki [sona,, pini,, sitelen,,]_  
 
 ---
 
