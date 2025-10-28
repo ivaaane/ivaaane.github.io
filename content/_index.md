@@ -2,20 +2,17 @@
 title: sieni
 ---
     
-<marquee direction="left" scrollamount=20>
+<marquee direction="left" scrollamount=10>
     <img src="/media/sillies/teto.png" alt="teto" class="fatass">
 </marquee>
 
-<div align="center">
+<center>
     <a href="/sp"><span class="sp">o lukin lon toki+pona pi(sitelen+pona)</span></a><br>
     <a href="/tp">o lukin lon toki pona pi sitelen Lasina</a><br>
     <a href="/eo">vidi en Esperanto</a>
-</div>
-
+</center>
 <br>
-<div class="guestbook">
-    <a href="https://sijeni.atabook.org/">» guestbook! «</a><br>
-</div>
+<center><a class="rainbow" href="https://sijeni.atabook.org/">» guestbook! «</a></center>
 
 </div><br><div class="box">
 
@@ -36,16 +33,16 @@ title: sieni
 
 <p id="soweliring" style="display: flex; justify-content: space-between; width: auto;"><a href="https://thedressedmolerat.github.io/webring?name=soko%20Sijeni&to=skipprevious">⇇</a> <a href="https://thedressedmolerat.github.io/webring?name=soko%20Sijeni&to=previous">&lt;</a> <a href="https://thedressedmolerat.github.io/webring">soweli ring</a> <a href="https://thedressedmolerat.github.io/webring?name=soko%20Sijeni&to=next">&gt;</a> <a href="https://thedressedmolerat.github.io/webring?name=soko%20Sijeni&to=skipnext">⇉</a></p>
 
-<div style="text-align:center">
+<center>
 <a href="https://baccyflap.com/noai/?prv&s=nja" target="_top" title="previous">«</a>
 <a href="https://baccyflap.com/noai" target="_blank">no ai &#x1f6ab;&#129302; webring</a>
 <a style="font-size:60%" href="https://baccyflap.com/noai/?rnd" target="_top" title="random">(&#x1F3B2;)</a>
 <a href="https://baccyflap.com/noai/?nxt&s=nja" target="_top" title="next">»</a>
-</div>
+</center>
 
-<iframe id="bucket-webring" style="width: 100%; height: 3rem; border: none;margin: 1rem;" src="https://webring.bucketfish.me/embed.html?name=sieni&lightmode=true"></iframe> 
+<p style="display: flex; justify-content: space-between; width: auto;"><a href="https://webring.bucketfish.me/redirect.html?to=prev&name=sieni">⥼ prev</a> <a href="https://webring.bucketfish.me" class="rainbow">🏳️‍🌈 bucketfish webring 🏳️‍🌈</a> <a href="https://webring.bucketfish.me/redirect.html?to=next&name=sieni">next ⥽</a></p>
 
-<br>
+<center><span class="sp">lipu ni ale li pona a</span></center>
 
 {{<buttons>}}
 

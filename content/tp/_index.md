@@ -8,10 +8,10 @@ outputs:
 
 {{<rss link="/tp/rss.xml">}}
 
-![soko2 [soko2 ilo jasima esun nasa ilo]](/media/ss.png)
+![soko Sijeni](/media/ss.png)
 {.ss}
 
-toki a! mi soko sijeni. mi tonsi tan ma Katala. mi mama e lipu la mi pana tawa poki ni. awen o pona!!!
+toki a! mi soko Sijeni. mi tonsi tan ma Katala. mi mama e lipu la mi pana tawa poki ni. awen o pona!!!
 
 <marquee>mu</marquee>
 

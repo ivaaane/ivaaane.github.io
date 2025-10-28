@@ -16,6 +16,5 @@ themeToggler.onclick = () => {
   const newTheme = rotateTheme(theme);
   applyTheme(newTheme);
   saveTheme(newTheme);
-
   theme = newTheme;
 }

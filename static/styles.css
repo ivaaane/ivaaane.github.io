@@ -6,7 +6,7 @@
     --page: white;
     --link: darkblue;
     --border: black;
-    --bg: url(/media/backgrounds/light.png);
+    --bg: url(/media/background.png);
     --list: url(/media/list/light.png);
 }
 
@@ -16,15 +16,14 @@
     --page: black;
     --link: pink;
     --border: gray;
-    --bg: url(/media/backgrounds/dark.png);
+    --bg: none;
     --list: url(/media/list/dark.png);
 }
 
 /* GENERAL */
 
 body {
-    font-size: 90%;
-    font-family: Garamond, serif;
+    font-family: serif;
     color: var(--text);
     max-width: 45rem;
     margin: 0 auto;
@@ -83,16 +82,40 @@ td, th {
 
 button {
     background-color: var(--page);
-    color: var(--text);
-    border: 1px solid var(--text);
+    color: var(--border);
+    border: 1px solid var(--border);
     &:active {
         transform: translateY(2px) translateX(2px);
     }
 }
 
+#theme button {
+    margin-bottom: 1em;
+    font-family: monospace;
+    padding-left: 0.5em;
+    padding-right: 0.5em;
+    padding-top: 0.2em;
+    padding-bottom: 0.2rem;
+}
+
 ul, ol {
     list-style-image: var(--list);
     padding-inline-start: 1rem;
+}
+
+footer {
+    text-align: center;
+    padding: 1rem;
+    opacity: 75%;
+    font-size: 80%;
+
+    a {
+        color: var(--text);
+        &:hover {
+            color: var(--bg-color);
+            background-color: var(--text);
+        }
+    }
 }
 
 /* CLASSES */
@@ -115,25 +138,6 @@ ul, ol {
     text-align: right !important;
 }
 
-.center {
-    text-align: center !important;
-}
-
-.foot {
-    text-align: center;
-    padding: 1rem;
-    opacity: 75%;
-    font-size: 80%;
-
-    a {
-        color: var(--text);
-        &:hover {
-            color: var(--bg-color);
-            background-color: var(--text);
-        }
-    }
-}
-
 .ss {
     padding: 0;
     width: 15%;
@@ -146,10 +150,6 @@ ul, ol {
     position: absolute;
     top: 15px;
     left: 20px;
-}
-
-.buttons {
-    text-align: center;
 }
 
 .links {
@@ -186,37 +186,18 @@ ul, ol {
     opacity: 1;
 }
 
-.mobile {
-    display: none;
-}
-
 .asterisks {
     text-align: center;
     margin: 2rem;
     color: gray;
 }
 
-.guestbook {
-    text-align: center;
-    a {
-        animation: rainbow 10s infinite; 
-    }
-    a:hover {
+.rainbow {
+    animation: rainbow 20s infinite; 
+    &:hover {
         color: var(--page);
         animation: rainbow-bg 10s infinite; 
     }
-}
-
-@keyframes rainbow {
-    0%{color: orange;} 10%{color: purple;} 20%{color: red;} 30%{color: CadetBlue;}
-    40%{color: yellow;} 50%{color: coral;} 60%{color: green;} 70%{color: cyan;}
-    80%{color: DeepPink;} 90%{color: DodgerBlue;} 100%{color: orange;}
-}
-@keyframes rainbow-bg {
-    0%{background-color: orange;} 10%{background-color: purple;} 20%{background-color: red;}
-    30%{cbackground-olor: CadetBlue;} 40%{background-color: yellow;} 50%{background-color: coral;}
-    60%{background-color: green;} 70%{background-color: cyan;} 80%{background-color: DeepPink;}
-    90%{background-color: DodgerBlue;} 100%{background-color: orange;}
 }
 
 #theme {
@@ -239,6 +220,19 @@ ul, ol {
     width:100%;
     height:94px;
     border:none
+}
+
+@keyframes rainbow {
+    0%{color: orange;} 10%{color: purple;} 20%{color: red;} 30%{color: CadetBlue;}
+    40%{color: yellow;} 50%{color: coral;} 60%{color: green;} 70%{color: cyan;}
+    80%{color: DeepPink;} 90%{color: DodgerBlue;} 100%{color: orange;}
+}
+
+@keyframes rainbow-bg {
+    0%{background-color: orange;} 10%{background-color: purple;} 20%{background-color: red;}
+    30%{cbackground-olor: CadetBlue;} 40%{background-color: yellow;} 50%{background-color: coral;}
+    60%{background-color: green;} 70%{background-color: cyan;} 80%{background-color: DeepPink;}
+    90%{background-color: DodgerBlue;} 100%{background-color: orange;}
 }
 
 /* LANGUAGES */
@@ -313,8 +307,18 @@ ul, ol {
         box-shadow: 0 0;
     }
     .ss {width: 30%;}
-    .mobile {display: block;}
     .table {text-align: left;}
+}
+
+@media (prefers-reduced-motion: reduce;) {
+    .guestbook {
+        a {animation: none !important;}
+        a:hover {animation: none !important;}
+    }
+
+    marquee {
+        display: none;
+    }
 }
 
 /* cursr */
