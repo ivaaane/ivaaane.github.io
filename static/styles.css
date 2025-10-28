@@ -162,6 +162,20 @@ footer {
     }
 }
 
+.marquee {
+    white-space: nowrap;
+    overflow: hidden;
+    box-sizing: border-box;
+    p, img {
+        display: inline-block;
+        padding-left: 100%;
+        animation: marquee 5s linear infinite;
+    }
+    img {
+        width: 20%;
+    }
+}
+
 .note {
     text-decoration: underline;
     text-decoration-style: dotted;
@@ -207,11 +221,6 @@ footer {
     right: 15px;
 }
 
-.fatass {
-    width: 20%;
-    cursor: url("/media/sillies/teto.png"), auto;
-}
-
 .john {
     margin-left:auto;
     display:block;
@@ -233,6 +242,11 @@ footer {
     30%{cbackground-olor: CadetBlue;} 40%{background-color: yellow;} 50%{background-color: coral;}
     60%{background-color: green;} 70%{background-color: cyan;} 80%{background-color: DeepPink;}
     90%{background-color: DodgerBlue;} 100%{background-color: orange;}
+}
+
+@keyframes marquee {
+  0%   { transform: translate(0, 0); }
+  100% { transform: translate(-100%, 0); }
 }
 
 /* LANGUAGES */
@@ -316,7 +330,7 @@ footer {
         a:hover {animation: none !important;}
     }
 
-    marquee {
+    .marquee {
         display: none;
     }
 }

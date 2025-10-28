@@ -2,9 +2,9 @@
 title: sieni
 ---
     
-<marquee direction="left" scrollamount=10>
-    <img src="/media/sillies/teto.png" alt="teto" class="fatass">
-</marquee>
+<div class="marquee">
+    <img src="/media/sillies/teto.png" alt="teto">
+</div>
 
 <center>
     <a href="/sp"><span class="sp">o lukin lon toki+pona pi(sitelen+pona)</span></a><br>
