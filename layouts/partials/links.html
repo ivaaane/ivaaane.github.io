@@ -1,14 +1,13 @@
-<br/>
-<div class="box links" >
+<article class="links">
     <div>
-    {{ if .context.Params.last }}
-        <a href="../{{ .context.Params.last }}" class="details">« {{ index .context.Site.Data.langs .context.Params.lang "last" }}</a>
+    {{ if .Params.last }}
+        <a href="../{{ .Params.last }}">« {{ index .Site.Data.langs .Params.lang "last" }}</a>
     {{ end }}
     </div>
-    <div><a href=".." class="details">{{ index .context.Site.Data.langs .context.Params.lang .string }}</a></div>
+    <div><a href="..">{{ index .Site.Data.langs .Params.lang "back" }}</a></div>
     <div>
-    {{ if .context.Params.next }}
-        <a href="../{{ .context.Params.next }}" class="details">{{ index .context.Site.Data.langs .context.Params.lang "next" }} »</a>
+    {{ if .Params.next }}
+        <a href="../{{ .Params.next }}">{{ index .Site.Data.langs .Params.lang "next" }} »</a>
     {{ end }}
     </div>
-</div>
+</article>

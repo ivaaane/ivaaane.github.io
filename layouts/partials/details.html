@@ -1,10 +1,9 @@
 {{if .Params.details}}
-<details class="details">
+<details>
     <summary>{{index .Site.Data.langs .Params.lang "more"}}</summary>
-    <div>{{range .Params.details}}
-        {{if .date}}<b>{{index $.Site.Data.langs $.Params.lang "date"}}</b>{{.date}}<br/>{{end}}
-        {{if .edit}}<b>{{index $.Site.Data.langs $.Params.lang "edit"}}</b>{{.edit}}<br/>{{end}}
-        {{if .note}}<b>{{index $.Site.Data.langs $.Params.lang "note"}}</b>{{.note | markdownify}}<br/>{{end}}{{end}}
-    </div>
+    {{range .Params.details}}
+        {{if .date}}<b>{{index $.Site.Data.langs $.Params.lang "date"}}</b>{{.date}}<br>{{end}}
+        {{if .edit}}<b>{{index $.Site.Data.langs $.Params.lang "edit"}}</b>{{.edit}}<br>{{end}}
+        {{if .note}}<b>{{index $.Site.Data.langs $.Params.lang "note"}}</b>{{.note | markdownify}}<br>{{end}}{{end}}
 </details>
 {{end}}

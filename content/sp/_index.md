@@ -5,10 +5,12 @@ outputs:
 - html
 ---
 
+<article>
+
 {{<rss link="/tp/rss.xml">}}
 
-![soko [soko ilo jasima esun nasa ilo]](/media/ss.png)
-{.ss}
+![soko [soko ilo jasima esun nasa ilo]](/media/icons/ss.png)
+{.sitelen-suwi}
 
 a(toki)  
 mi soko [soko ilo jasima esun nasa ilo]  
@@ -16,9 +18,8 @@ mi tonsi tan ma [kasi,, tawa,, lawa,,]
 mi mama e lipu la mi pana lon poki ni  
 awen o pona aaa  
 
-<div class="marquee"><p>mu</p></div>
-
----
+</article>
+<article>
 
 # ma suno
 
@@ -38,14 +39,16 @@ toki mun la
 toki jan la  
 * [olin1 mama](olin-mama)  
 
----
+</article>
+<article>
 
 # lon insa pi(matu)
 
 meli li olin1 e meli
 * _nanpa wan la_ [kasi li len e mi](lon-insa-pi-ma-tu-1)
 
----
+</article>
+<article>
 
 # musi lili
 
@@ -55,7 +58,8 @@ lipu ni mute li kulupu ala li lili
 * [jan [jo,, sina,,] en waso monsuta](jan-josi-en-waso-monsuta)  
 * [jan suli kasi](jan-suli)  
 
----
+</article>
+<article>
 
 # jan [kiwen,, sona,, tenpo,,] pi(ma [mani,,, sama,,])
 
@@ -64,7 +68,8 @@ mi toki+pona e lipu suli [DON QUIJOTE] pi(kon [sewi,,, ante,,,,]) tan toki [en p
 * _nanpa tu la_ [tawa nanpa wan pi(jan [kiwen,, sona,, tenpo])](jan-kisote-2)  
 * _nanpa tu-wan la_ [lawa li jan utala e jan [kiwen,, sona,, tenpo]](jan-kisote-3)
 
----
+</article>
+<article>
 
 # kalama musi
 
@@ -82,9 +87,13 @@ mi sona kalama ala la toki li ken ike tawa kute
 * [soko lili](soko-lili) zzzzzzzzzzzz _tan toki [kasi,, tawa,, lawa,,]_  
 * [mama mi li ike tawa lawa](mama-mi-li-ike-tawa-lawa) zzzz _tan toki [sona,, pini,, sitelen,,]_  
 
----
+</article>
+<article>
 
-# sona
+# ante
 
-mi pana e sona e musi ala  
 * [soko li seme](soko-li-seme)
+* [sewi lili](sewi-lili)
+* [nasin tawa lipu ante](nasin)
+
+</article>

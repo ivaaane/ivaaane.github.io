@@ -1,21 +1,8 @@
 {{ partial "header.html" . }}
-
-<div class="{{ .Params.lang }}">
-    {{ if not .Params.noheader }}
-    <div class="box">
-        {{ partial "theme.html" . }}
-        <br>
-        <h1>{{or (.Params.header | markdownify) .Title }}</h1>
-        <br>
-        {{ partial "details.html" . }}
-    </div><br/>
-    {{ end }}
-    <div class="box">
-        <br>
-        {{ replace .Content "<hr>" "<br></div><br/><div class='box'><br>" | safeHTML}}
-        <br>
-    </div>
-    {{ partial "links.html" (dict "string" "back" "context" .) }}
-</div>
-
+<header>
+    <br><h1>{{or (.Params.header | markdownify) .Title }}</h1><br>
+    {{ partial "details.html" . }}
+</header>
+<main>{{ .Content }}</main>
+{{ partial "links.html" . }}
 {{ partial "footer.html" . }}

@@ -9,8 +9,7 @@ details:
 
 | titolo | aŭtoro |
 | -------------- | ------------------ |
-| Bonaj Aŭguroj (ree) | Neil Gaiman kaj Terry Pratchett |
-| Ĉu vi kuiras ĉine? | Claude Piron |
+| Kolizio de reĝoj {{<note text="A clash of kings">}} | George R.R. Martin |
 
 ---
 
@@ -77,7 +76,6 @@ details:
 | titolo | aŭtoro |
 | ------------------------------- | ------------------- |
 | [ĉiuj romanoj el Diskomondo] {{<note text="Discworld">}} | Terry Pratchett |
-| Kolizio de reĝoj {{<note text="A clash of kings">}} | George R. R. Martin |
 | L' aŭko de sinjoro Esteve {{<note text="L'auca del senjor Esteve">}} | Santiago Rusiñol |
 | Duno {{<note text="Dune">}} | Frank Herbert |
 | La taglibroj de la apotekistino {{<note text="薬屋のひとりごと">}} | Natsu Hyūga |

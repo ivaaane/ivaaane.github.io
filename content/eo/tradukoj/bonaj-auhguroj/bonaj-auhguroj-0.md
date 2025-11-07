@@ -19,19 +19,19 @@ La anĝelo de la Orienta Pordego etendis siajn flugilojn super sian kapon por pr
 
 "Mi *diris*, ke unu falis kiel plumba balono," diris la serpento.
 
-"Ho. Jes," diris la anĝelo, kies nomo estis Azirafalo.
+"Ho. Jes," diris la anĝelo, kies nomo estis Azirafelo.
 
 "Mi pensas, ke estis iom troa reago, honeste," diris la serpento. "Nu, la unua delikto kaj ĉio. Mi ne komprenas, kio estas tiel malbona pri scii la diferencon inter bono kaj malbono, ĉiuokaze."
 
-"Ĝi devas *esti* malbona," rezonis Azirafalo, per la iomete maltrankvila tono de tiu, kiu ankaŭ ne komprenas, kaj zorgas pri tio, "alie *vi* ne estus implikita."
+"Ĝi devas *esti* malbona," rezonis Azirafelo, per la iomete maltrankvila tono de tiu, kiu ankaŭ ne komprenas, kaj zorgas pri tio, "alie *vi* ne estus implikita."
 
 "Ili nur diris, Iru tien supren kaj faru iom da problemo," diris la serpento, kies nomo estis Kraŭlo, kvankam li pensadis ŝanĝi ĝin. Kraŭlo, li decidis, ne estis *li*.
 
-"Jes, sed vi estas demono. Mi ne certas, ĉu verfakte vi povas fari bonon," diris Azirafalo. "Tio dependas de via baza, vi scias, naturo. Nenio persona, komprenu."
+"Jes, sed vi estas demono. Mi ne certas, ĉu verfakte vi povas fari bonon," diris Azirafelo. "Tio dependas de via baza, vi scias, naturo. Nenio persona, komprenu."
 
 "Konfesu, ke estas iom pantomimo, tamen," diris Kraŭlo. "Nu, montri la Arbon kaj diri 'Ne Tuŝu' per grandaj literoj. Ne tre subtila, ĉu? Nu, kial ne lokigi ĝin sur pinton de alta monto aŭ tre malproksimen? Igas vin demandi, kion Li vere planas."
 
-"Pli bone ne spekulativi, vere," diris Azirafalo. "Oni ne povas dubi neesprimeblecon, ĉiam mi diras. Ekzistas Ĝusto kaj ekzistas Malĝusto. Se oni faras Malĝuste kiam oni faru Ĝuste, oni meritas punon. Er."
+"Pli bone ne spekulativi, vere," diris Azirafelo. "Oni ne povas dubi neesprimeblecon, ĉiam mi diras. Ekzistas Ĝusto kaj ekzistas Malĝusto. Se oni faras Malĝuste kiam oni faru Ĝuste, oni meritas punon. Er."
 
 Ili sidis embarase silente, rigardante la pluvgutojn falantajn sur la unuajn florojn.
 
@@ -53,7 +53,7 @@ Fine Kraŭlo diris, "Ĉu vi ne havis flaman glavon?"
 
 "Nu?"
 
-Azirafalo ŝajnis mizera. "Se vi devas scii," li diris, kolerete, "mi fordonis ĝin."
+Azirafelo ŝajnis mizera. "Se vi devas scii," li diris, kolerete, "mi fordonis ĝin."
 
 Kraŭlo fikse rigardis lin.
 
@@ -63,7 +63,7 @@ Li ridetis maltrankvile al Kraŭlo.
 
 "Tio estis la plej bona elekto, ĉu?"
 
-"Mi ne scias, ĉu verfakte vi povas fari malbonon," diris Kraŭlo sarkasme. Azirafalo ne rimarkis la tonon.
+"Mi ne scias, ĉu verfakte vi povas fari malbonon," diris Kraŭlo sarkasme. Azirafelo ne rimarkis la tonon.
 
 "Ho, mi esperas," li diris. "Mi vere esperas. Tio zorgadis min la tutan posttagmezon."
 
@@ -71,7 +71,7 @@ Ili rigardis la pluvon dum iom da tempo.
 
 "Strange," diris Kraŭlo, "*mi* daŭre scivolas, ĉu la afero pri la pomo ankaŭ estis la ĝusta io por fari. Demono povas eniri verajn problemojn, por fari la ĝustan ion." Li puŝetis la anĝelon. "Amuze se ni ambaŭ eraris, ĉu ne? Amuze se mi faris la ĝustan ion kaj vi faris la malĝustan, ĉu ne?"
 
-"Ne vere", diris Azirafalo.
+"Ne vere", diris Azirafelo.
 
 Kraŭlo rigardis la pluvon.
 

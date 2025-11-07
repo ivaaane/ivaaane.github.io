@@ -6,16 +6,17 @@ outputs:
 - rss
 ---
 
+<article>
+
 {{<rss link="/tp/rss.xml">}}
 
-![soko Sijeni](/media/ss.png)
-{.ss}
+![soko Sijeni](/media/icons/ss.png)
+{.sitelen-suwi}
 
 toki a! mi soko Sijeni. mi tonsi tan ma Katala. mi mama e lipu la mi pana tawa poki ni. awen o pona!!!
 
-<div class="marquee"><p>mu</p></div>
-
----
+</article>
+<article>
 
 # _ma suno_
 
@@ -43,7 +44,8 @@ lipu ni li kulupu e toki musi tan kulupu jan pi tenpo pini.
 
 * [olin mama](olin-mama)
 
----
+</article>
+<article>
 
 # _lon insa pi ma tu_
 
@@ -51,7 +53,8 @@ meli li olin e meli.
 
 * #W) [kasi li len e mi](lon-insa-pi-ma-tu-1)
 
----
+</article>
+<article>
 
 # _musi lili_
 
@@ -65,7 +68,8 @@ lipu ni mute li kulupu ala, li lili.
 
 * [jan suli kasi](jan-suli)
 
----
+</article>
+<article>
 
 # _jan Kisote pi ma Mansa_
 
@@ -77,7 +81,8 @@ mi toki pona e lipu suli "Don Quijote" pi kon Sewante tan toki Epanjo.
 
 * #TW) [lawa li jan utala e jan Kisote](jan-kisote-3)
 
----
+</article>
+<article>
 
 
 # _kalama musi_
@@ -104,10 +109,13 @@ mi toki pona e kalama musi tan toki ante mute. mi sona ala kalama uta, taso mi s
 
 * [mama mi li ike tawa lawa](mama-mi-li-ike-tawa-lawa), tan toki Sopisi
 
----
+</article>
+<article>
 
-# _sona_
-
-mi pana e sona e musi ala.
+# _ante_
 
 * [soko li seme?](soko-li-seme)
+
+* [nasin tawa lipu ante](nasin)
+
+</article>

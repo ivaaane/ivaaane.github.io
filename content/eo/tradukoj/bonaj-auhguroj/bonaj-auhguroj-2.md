@@ -36,7 +36,7 @@ La astrologia antaŭdiro pri Pesilo en la "Viaj Steloj Hodiaŭ" kolumno el Tadfi
 
 Ĉi tiu estis perfekte ĝusta laŭ ĉiuj aspektoj, krom la parteto pri salatoj.
 
-{{<div>}}
+---
 
 NE ESTIS MALLUMA KAJ TEMPESTA NOKTO.
 
@@ -58,7 +58,7 @@ La nomo de la parolinto estis Hasturo. Li estis Duko de Infero.
 
 <!--
 
-{{<div>}}
+---
 
 Multaj fenomenoj—militoj, plagoj, subitaj revizoradoj—estas proponitaj pruvoj pro la kaŝita mano de Satano en la Homaj aferoj, sed kiam ajn demonologiaj studentoj renkontiĝas, la Londona orbita aŭtovojo M25 estas interkonsentite inter la ĉefaj kandidatoj por Ekspozicaĵo A.
 

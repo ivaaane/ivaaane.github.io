@@ -248,7 +248,7 @@ ma kasi li lon monsi mi
 ma tomo li lon sinpin mi  
 mi tu li tawa tomo sona  
 
-{{<div>}}
+---
 
 mi jan  
 jan li mute  

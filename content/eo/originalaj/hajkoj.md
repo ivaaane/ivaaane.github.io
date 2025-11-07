@@ -7,7 +7,7 @@ lang: eo
 
 soleca arbo  
 origata de vesper'  
-en tritikejo
+sur tritikejo
 
 <br>
 
@@ -58,3 +58,9 @@ portas folioj
 la sun’ brilas  
 dum la vento ekfortas –  
 jen somereto!
+
+<br>
+
+ekmalvarmiĝas  
+kaj simple kiel tiel  
+oktobron finas  

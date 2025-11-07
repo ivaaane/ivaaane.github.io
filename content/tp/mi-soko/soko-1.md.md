@@ -16,7 +16,7 @@ mi sama ni. taso, soko ni li ken lawa e ijo lili taso. nasa la, mi ken lawa e ij
 
 mi ken lawa e jan.
 
-{{<div>}}
+---
 
 open la, mi lon ma kasi. soweli en akesi li mute ala. jan li lon ala. mi sona ala e mama mi, li wan li taso. tenpo li tawa la, ala li lon. mi ken ala lawa… mi ken ala moku… mi pilin e kama moli. ike a! sijelo mi li pakala… taso, pini la, pona li kama: jan li kama.
 

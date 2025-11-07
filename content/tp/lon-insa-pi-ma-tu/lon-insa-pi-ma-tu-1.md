@@ -102,7 +102,7 @@ mi lukin e lukin sina.
 
 sina jo e luka mi. sina tawa e mi. mi tu li weka tan nasin. ma kasi li lon monsi mi. ma tomo li lon sinpin mi. mi tu li tawa tomo sona.
 
-{{<div>}}
+---
 
 mi jan. jan li mute. jan li kulupu. kulupu li suli. jan kulupu li ken ala jo e ale wile. jan li pali. jan li wile e ijo la, jan li pali. jan li wile e moku la, jan li pali. jan li wile moli ala la, jan li pali. taso, jan li wile pali la, nanpa wan la jan o sona. ni la, jan li tawa tomo sona. tomo sona la jan pali li pana e sona tawa jan sin. kama sona li wile e tenpo mute. mi jan la, mi tawa tomo sona. tomo sona li poki e jan mute.
 
