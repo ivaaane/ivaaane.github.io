@@ -289,13 +289,6 @@ select {
 
 /* LANGUAGES N FONTS */
 
-body:has( > #font option:checked[value="serif"] ) { font-family: serif; }
-body:has( > #font option:checked[value="sans"]  ) { font-family: sans-serif; }
-body:has( > #font option:checked[value="mono"]  ) {
-    font-family: monospace;
-    font-size: 110%;
-}
-
 @font-face {
     font-family: "nasin-nanpa";
     src: url("/fonts/nasin-nanpa-4.0.2.otf") format("opentype");
