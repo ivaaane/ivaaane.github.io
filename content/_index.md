@@ -39,4 +39,11 @@ lang: eo
 </center>
 
 <p style="display: flex; justify-content: space-between; width: auto;"><a href="https://webring.bucketfish.me/redirect.html?to=prev&name=sieni">⥼ prev</a> <a href="https://webring.bucketfish.me" class="rainbow">🏳️‍🌈 bucketfish webring 🏳️‍🌈</a> <a href="https://webring.bucketfish.me/redirect.html?to=next&name=sieni">next ⥽</a></p>
+
+<details>
+    <summary>john</summary>
+    <iframe src="https://john.citrons.xyz/embed?ref=example.com" style="margin-left:auto;display:block;margin-right:auto;max-width:732px;width:100%;height:94px;border:none;"></iframe>
+    <iframe src="https://john.citrons.xyz/embed?ref=example.com" style="margin-left:auto;display:block;margin-right:auto;max-width:732px;width:100%;height:94px;border:none;"></iframe>
+    <iframe src="https://john.citrons.xyz/embed?ref=example.com" style="margin-left:auto;display:block;margin-right:auto;max-width:732px;width:100%;height:94px;border:none;"></iframe>
+</details>
 </article>
