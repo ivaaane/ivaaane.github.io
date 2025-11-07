@@ -11,4 +11,6 @@ Hiii- This is sieni (me)'s archive. Here I save all my creative works and whatev
 
 Oh well, there's the [buttons](8831).
 
+<div class="marquee"><img alt="kasane teto" src="/media/sillies/teto.png"></img></div>
+
 </header>
