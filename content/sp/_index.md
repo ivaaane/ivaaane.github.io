@@ -18,6 +18,8 @@ mi tonsi tan ma [kasi,, tawa,, lawa,,]
 mi mama e lipu la mi pana lon poki ni  
 awen o pona aaa  
 
+<p class="center"><a href="https://sijeni.atabook.org">o toki lon lipu mi a</a></p>
+
 </article>
 <article>
 

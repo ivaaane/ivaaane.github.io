@@ -15,6 +15,8 @@ outputs:
 
 toki a! mi soko Sijeni. mi tonsi tan ma Katala. mi mama e lipu la mi pana tawa poki ni. awen o pona!!!
 
+<p class="center"><a href="https://sijeni.atabook.org">o toki lon lipu mi!</a></p>
+
 </article>
 <article>
 

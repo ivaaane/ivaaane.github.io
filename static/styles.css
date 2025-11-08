@@ -12,21 +12,23 @@
 }
 
 @media (prefers-color-scheme: dark) {
-    --text:         white;
-    --page:         black;
-    --link:         pink;
-    --border:       grey;
-    --border-alt:   white;
-    --bg:           black;
-    --bg-img:       none;
-    --list:         url(/media/list/dark.png);
-    .img-switch { filter: invert(1); }
+    body {
+        --text:         white;
+        --page:         black;
+        --link:         pink;
+        --border:       grey;
+        --border-alt:   white;
+        --bg:           black;
+        --bg-img:       none;
+        --list:         url(/media/list/dark.png);
+        .img-switch { filter: invert(1); }
+    }
 }
 
 /* GENERAL */
 
 body {
-    font-family: serif
+    font-family: serif;
     color: var(--text);
     max-width: 45rem;
     margin: 0 auto;
@@ -171,7 +173,12 @@ select {
 /* CLASSES */
 
 .right {
-    text-align: right !important;
+    text-align: right;
+}
+
+.center {
+    text-align: center;
+    font-size: 90%;
 }
 
 .content-img {
@@ -267,7 +274,7 @@ select {
     max-width:732px;
     width:100%;
     height:94px;
-    border:none
+    border:none;
 }
 
 @keyframes rainbow {
@@ -295,15 +302,25 @@ select {
     src: url("/fonts/nasin-nanpa-4.0.2.otf") format("opentype");
 }
 
-.tp h1, .sp h1 {
-    text-transform: none !important;
+@font-face {
+    font-family: "Nunito";
+    src: url("/fonts/Nunito-Regular.ttf") format("truetype");
+}
+
+.tp {
+    font-family: Nunito, serif;
+    font-size: 110%;
+    h1 {
+        text-transform: none !important;
+    }
 }
 
 .sp {
-    font-family: nasin-nanpa !important;
+    font-family: nasin-nanpa;
     margin-bottom: 5%;
     
     h1 {
+        text-transform: none !important;
         font-size: 120%;
     }
 

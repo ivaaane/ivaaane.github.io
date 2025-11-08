@@ -13,6 +13,8 @@ outputs:
 
 Saluton~ mi estas sieni (retnomo, skribu minuskle), malprofesia skribanto, foje programanto kaj aĵo-faristo el Katalunujo. Ĉi tiu estas mia persona arkivo, kie mi gardas ĉiujn verkojn fare de mi. Mi skribas ĉefe en [la tokipona](/sp) lingvo, kiun mi estas pli flua. Bonan ĉe-estadon!
 
+<p class="center"><a href="https://sijeni.atabook.org">» subskribu mian vizito-libron! «</a></p>
+
 </article>
 <article>
 
