@@ -114,7 +114,7 @@ jan mute.
 
 jan mute li awen lon supa. ona ale li pali li toki. toki mute a. kalama mute a. sina toki.
 
-— sina wile la mi ken awen lon poka sina to.
+— sina wile la mi ken awen lon poka sina.
 
 — pona.
 

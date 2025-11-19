@@ -8,19 +8,20 @@ details:
 ## Legataj
 
 | titolo | aŭtoro |
-| -------------- | ------------------ |
+| ------ | ------ |
 | Kolizio de reĝoj {{<note text="A clash of kings">}} | George R.R. Martin |
 
----
+<br>
 
 ## Legitaj
 
 | titolo | aŭtoro |
-| ------------------------------------------------------------------------------------- | ------------------------------- |
+| ------ | ------ |
+| Kiam la verd-tea fiulino ĉantaĝis min {{<note text="关于被班上绿茶威胁那件事">}} | Xiam jun |
 | Ludo de tronoj {{<note text="A game of thrones">}} | George R.R. Martin |
 | AMO-KUGLO {{<note text="ラブ・バレット (LOVE-BULLET)">}} | inee |
 | La eta princo {{<note text="Le petit prince">}} | Antoine de Saint-Exupéry |
-| La tabulo de Flandrio {{<note text="La tabla de Flandes">}} | Arturo Pérez-Reverte |
+| La tabulo de Flandrujo {{<note text="La tabla de Flandes">}} | Arturo Pérez-Reverte |
 | Tempo-ŝtelisto {{<note text="Time thief">}} | Terry Pratchett |
 | La mirinda lumo {{<note text="The light fantastic">}} | Terry Pratchett |
 | Morto en la nuboj {{<note text="Death in the clouds">}} | Agatha Christie |
@@ -69,7 +70,7 @@ details:
 | La besto-farmo {{<note text="Animal farm">}} | George Orwell |
 | La vent-musiko {{<note text="La música del viento">}} | Jordi Sierra I Fabra |
 
----
+<br>
 
 ## Legotaj
 
