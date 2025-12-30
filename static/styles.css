@@ -3,11 +3,11 @@
 :root {
     --text:         black;
     --border:       black;
-    --border-alt:   gray;
+    --border-alt:   violet;
     --page:         white;
     --link:         darkblue;
     --bg:           pink;
-    --bg-img:       url(/media/background.png);
+    --bg-img:       url(/media/background/light.png);
     --list:         url(/media/list/light.png);
 }
 
@@ -16,10 +16,10 @@
         --text:         white;
         --page:         black;
         --link:         pink;
-        --border:       grey;
-        --border-alt:   white;
+        --border:       silver;
+        --border-alt:   dimgrey;
         --bg:           black;
-        --bg-img:       none;
+        --bg-img:       url(/media/background/dark.png);
         --list:         url(/media/list/dark.png);
         .img-switch { filter: invert(1); }
     }
@@ -302,13 +302,7 @@ select {
     src: url("/fonts/nasin-nanpa-4.0.2.otf") format("opentype");
 }
 
-@font-face {
-    font-family: "Nunito";
-    src: url("/fonts/Nunito-Regular.ttf") format("truetype");
-}
-
 .tp {
-    font-family: Nunito, serif;
     font-size: 110%;
     h1 {
         text-transform: none;

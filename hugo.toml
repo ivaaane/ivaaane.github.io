@@ -3,10 +3,10 @@ title = 'sieni'
 disableKinds = ["taxonomy", "term"]
 
 [permalinks]
-  tp = "/tp/:filename"
-  sp = "/sp/:filename"
-  eo = "/eo/:filename"
-  es = "/es/:filename"
+  tp = "/tp/:contentbasename"
+  sp = "/sp/:contentbasename"
+  eo = "/eo/:contentbasename"
+  es = "/es/:contentbasename"
 
 [outputs]
   home = ["HTML"]
