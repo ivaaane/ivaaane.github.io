@@ -12,10 +12,11 @@ outputs:
 ![soko [soko ilo jasima esun nasa ilo]](/media/icons/ss.png)
 {.sitelen-suwi}
 
-a(toki)  
-mi soko [soko ilo jasima esun nasa ilo]  
-mi tonsi tan ma [kasi,, tawa,, lawa,,]  
+a(kama pona)  
+mi soko [soko ilo jasima esun nasa ilo] li tan ma [kasi,, tawa,, lawa,,]  
 mi mama e lipu la mi pana lon poki ni  
+mi pana kepeken [toki [e pilin e la,, n tomo,,]](/eo) kin  
+ante la mi pali e [musi ilo](https://sienii.itch.io)  
 awen o pona aaa  
 
 <p class="center"><a href="https://sijeni.atabook.org">o toki lon lipu mi a</a></p>
