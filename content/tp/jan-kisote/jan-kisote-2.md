@@ -19,12 +19,12 @@ lon la ona li tawa lon ma kasi ni. ona li toki e ni kin: «tenpo pi toki mi li t
 
 sama la ona li toki nasa mute sama lipu. ni la, ona li tawa lili lon tenpo suli. suno li seli la lawa li ken moli. pona la lawa ona li moli lon tenpo pini.
 
-suli ala li kama lon suno nanpa wan. ona li wile utala la ni li ike a. jan mute la utala ona nanpa wan li lon ma telo Lapise. jan ante la utala ona nanpa wan li lon tomo pan. taso utala nanpa wan pi jan Kisote la ona li tawa lon ale suno li wile lape li wile moku. ona li lukin e poka ale li wile lon tomo suli tan lape. ni la, ona li lukin e suno lili li tawa ona.
+ijo suli ala li kama lon suno nanpa wan. ona li wile utala la ni li ike a. jan mute la utala ona nanpa wan li lon ma telo Lapise. jan ante la utala ona nanpa wan li lon tomo pan. taso utala nanpa wan pi jan Kisote la ona li tawa lon ale suno li wile lape li wile moku. ona li lukin e poka ale li wile lon tomo suli tan lape. ni la, ona li lukin e suno lili li tawa ona.
 
 tomo lili la meli tu li lon. ona li lili li pali. taso jan Kisote la ona li suli li lon tomo lawa suli. mije ante lon tomo li lawa e soweli mani. jan Kisote li kama la meli li pilin monsuta
 li tawa insa tomo. taso jan Kisote li toki suwi e ni:
 
----o monsuta ala! mi jan utala tawa lawa la mi pakala ala e meli suwi sama sina.
+---o pilin monsuta ala! mi jan utala tawa lawa la mi pakala ala e meli suwi sama sina.
 
 meli li kute e «meli suwi» la ona li mu tan musi. ni la jan Kisote li toki sin.
 

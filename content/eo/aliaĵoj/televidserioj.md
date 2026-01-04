@@ -20,14 +20,14 @@ details:
 * Nova centjara evangelio {{<note text="新世紀エヴァンゲリオン">}}
 * Neniel mi povus esti via amatino! Krom se... {{<note text="わたしが恋人になれるわけないじゃん、ムリムリ! (※ムリじゃなかった!?)">}}
 * La taglibroj de la apotekistino {{<note text="薬屋のひとりごと">}}
-* Mortigaj robotoj {{<note text="Murder drones">}}
+* Mortig-robotoj {{<note text="Murder drones">}}
 * Ludo de tronoj {{<note text="Game of thrones">}}
 * La praeksplodo-teorio {{<note text="The big bang theory">}}
 * Dr-o Ŝtono {{<note text="Dr.STONE">}}
 * Boĉi la Roko! {{<note text="ぼっち・ざ・ろっく！">}}
 * Mia cerva amikino Nokotan {{<note text="しかのこのこのここしたんたん">}}
 * Frieren {{<note text="葬送のフリーレン">}}
-* Galeria manĝaĵo {{<note text="ダンジョン飯">}}
+* Danĝereja manĝaĵo {{<note text="ダンジョン飯">}}
 * Hazbin-hotelo {{<note text="Hazbin Hotel">}}
 * Gravity Falls
 * Nia flago signifas morto {{<note text="Our flag means death">}}

@@ -55,8 +55,8 @@ zzzz a li tawa a li tawa
 zzzz jan suli kasi  
 zzzz a li tawa lon nasin  
 
-zzzz jan suli tomo  
+zzzz jan tomo suli  
 zzzz a li tawa a li tawa  
-zzzz jan suli tomo  
+zzzz jan tomo suli  
 zzzz a li tawa lon sewi1 to  
 

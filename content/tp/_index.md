@@ -84,6 +84,8 @@ mi toki pona e lipu suli "Don Quijote" pi kon Sewante tan toki Epanjo.
 
 * #TW) [lawa li jan utala e jan Kisote](jan-kisote-3)
 
+* #TT) [jan Kisote li weka tan tomo](jan-kisote-4)
+
 </article>
 <article>
 

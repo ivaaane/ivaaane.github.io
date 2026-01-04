@@ -7,6 +7,7 @@ details:
   - date: 2025/9/20
   - note: mi toki pona e lipu "Don Quijote" pi kon Sewante tan toki Epanjo.
 last: jan-kisote-2
+next: jan-kisote-4
 ---
 
 pilin ni li utala e jan Kisote. moku li pini la ona li kama anpa tawa mije li toki:

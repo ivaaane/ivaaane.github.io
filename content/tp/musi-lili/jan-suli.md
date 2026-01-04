@@ -27,7 +27,7 @@ tan sona ni la jan pi kulupu Katala li kalama musi e ni:
 > jan suli kasi  
 > a li tawa lon nasin!
 
-> jan suli tomo  
+> jan tomo suli  
 > a li tawa a li tawa!  
-> jan suli tomo  
+> jan tomo suli  
 > a li tawa lon sewi!
