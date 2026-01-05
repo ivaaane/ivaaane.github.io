@@ -67,9 +67,10 @@ lipu ni mute li kulupu ala li lili
 # jan [kiwen,, sona,, tenpo,,] pi(ma [mani,,, sama,,])
 
 mi toki+pona e lipu suli [DON QUIJOTE] pi(kon [sewi,,, ante,,,,]) tan toki [en pan,,, jo,,]  
-* _nanpa wan la_ [sona en pali pi(jan [kiwen,, sona,, tenpo])](jan-kisote-1)  
-* _nanpa tu la_ [tawa nanpa wan pi(jan [kiwen,, sona,, tenpo])](jan-kisote-2)  
-* _nanpa tu-wan la_ [lawa li jan utala e jan [kiwen,, sona,, tenpo]](jan-kisote-3)
+* _nanpa wan la_ [sona en pali pi(jan [kiwen,, sona,, tenpo,,])](jan-kisote-1)  
+* _nanpa tu la_ [tawa nanpa wan pi(jan [kiwen,, sona,, tenpo,,])](jan-kisote-2)  
+* _nanpa tu-wan la_ [lawa li jan utala e jan [kiwen,, sona,, tenpo,,]](jan-kisote-3)  
+* _nanpa tu-tu la_ [jan [kiwen,, sona,, tenpo,,] li weka tan tomo](jan-kisote-4)
 
 </article>
 <article>

@@ -1,8 +1,10 @@
 ---
 title: "jan Kisote li weka tan tomo | jan Kisote #4"
 header: "#TT<br>jan Kisote li weka tan tomo"
+date: 2026-01-04
 lang: tp
 details:
+  - date: 2026/1/4
   - note: mi toki pona e lipu "Don Quijote" pi kon Sewante tan toki Epanjo.
 last: jan-kisote-3
 ---
@@ -47,7 +49,7 @@ jan kulupu li lukin e jan Kisote e nasa ona, taso ona li toki:
 
 —jan ike o, sina lukin anu lukin ala la ni li suli ala. mi toki e lon. lon li ken ala lon ala. sina ken ala lukin e sewi, taso sina sona e lon sewi.
 
-—jan utala o, kulupu la jan ala li sona e meli ni. mi lukin ala e ona la, seme la mi o sona e ona? o kama e meli.
+—jan utala o, kulupu la jan ala li sona e meli ni. mi lukin ala e ona la, seme la mi ken sona e ona? o kama e meli.
 
 —sina toki ike a. o moli.
 

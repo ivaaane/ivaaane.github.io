@@ -1,6 +1,6 @@
 ---
 title: "tawa nanpa wan pi jan Kisote | jan Kisote #2"
-header: <b>nanpa tu la</b> tawa nanpa wan pi(jan[kiwen,, sona,, tenpo,,])
+header: <b>nanpa tu la</b>tawa nanpa wan pi(jan[kiwen,, sona,, tenpo,,])
 date: 2025-04-23
 lang: sp
 details:
