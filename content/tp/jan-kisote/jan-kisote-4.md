@@ -29,9 +29,9 @@ jan suli li lukin e ilo utala pi jan Kisote, li pilin monsuta. ona li toki:
 
 —o pana e mani pi mute pona, o weka e linja tan jan lili. ante la mi moli e sina.
 
-jan suli li weka e linja, taso mani li awen lon tomo la jan suli o tawa tomo. jan lili o kama lon poka ona. jan lili li wile ala, li toki:
+jan suli li weka e linja, taso mani li awen lon tomo la jan suli o tawa tomo. jan lili o kama lon poka ona. jan lili li wile ala, li toki tawa jan Kisote:
 
-—jan Kisote li weka la, jan ike ni li utala sin e mi a!
+—sina weka la, jan ike ni li utala sin e mi a!
 
 —jan suli o pana e mani o pini e utala. sina ni ala la mi kama sin, li moli e sina.
 

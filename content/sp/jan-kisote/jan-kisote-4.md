@@ -57,9 +57,9 @@ jan suli li weka e linja
 taso mani li awen lon tomo la jan suli o tawa tomo  
 jan lili o kama lon poka ona  
 jan lili li wile ala  
-zzzz li toki  
+zzzz li toki tawa jan [kiwen,, sona,, tenpo,,]  
   
-te jan [kiwen,, sona,, tenpo,,] li weka la jan ike ni li utala sin e mi a to
+te sina weka la jan ike ni li utala sin e mi a to
   
 te jan suli o pana e mani  
 zzzzzz o pini e utala  
