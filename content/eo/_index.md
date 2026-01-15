@@ -11,7 +11,7 @@ outputs:
 
 <div class="marquee"><img alt="kasane teto" src="/media/sillies/teto.png"></img></div>
 
-Saluton~ mi estas sieni (retnomo, skribu minuskle), malprofesia skribanto, foje programanto kaj aĵo-faristo el Katalunujo. Ĉi tiu estas mia persona arkivo, kie mi gardas ĉiujn verkojn fare de mi. Mi skribas ĉefe en [la tokipona](/sp) lingvo, kiun mi estas pli flua. Bonan ĉe-estadon!
+Saluton~ mi estas sieni (retnomo, skribu minuskle), malprofesia skribanto, foje programanto kaj aĵo-faristo el Katalunujo. Tiu ĉi estas mia persona arĥivo, kie mi gardas ĉiun verkon fare de mi. Mi skribas ĉefe en [la tokipona](/sp) lingvo, kiun mi estas pli flua. Bonan ĉe-estadon!
 
 <p class="center"><a href="https://sijeni.atabook.org">» subskribu mian vizito-libron! «</a></p>
 

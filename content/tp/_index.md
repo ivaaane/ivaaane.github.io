@@ -16,7 +16,7 @@ outputs:
 kama pona! mi soko sijeni li tan ma Katala. mi mama e lipu la mi pana tawa poki ni. mi pana kepeken [toki Epelanto](/eo) kin.
 ante la, mi pali e [musi ilo](https://sienii.itch.io). awen o pona!
 
-<p class="center"><a href="https://sijeni.atabook.org">o toki lon lipu mi!</a></p>
+<p class="center"><a href="https://sijeni.atabook.org">» o toki lon lipu mi! «</a></p>
 
 </article>
 <article>
