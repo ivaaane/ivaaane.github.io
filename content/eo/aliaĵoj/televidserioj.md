@@ -7,6 +7,7 @@ details:
 
 ## Vidataj
 
+* Ĉensegila homo {{<note text="チェンソーマン">}}
 * Dr-o Ŝtono {{<note text="Dr.STONE">}} (4a sezono {{<note text="NOTO: redaŭros aprile">}})
 * La mirinda ĉifereca cirko {{<note text="The amazing digital circus">}}
 
