@@ -40,6 +40,7 @@ details:
 * **Kanto**: It's a long way to Tipperary
 * **Lingvo**: Tokipono
 * **Programlingvo**: Lua
+* **Muzikĝenro**: finna polko
 * **Manĝaĵo**: spagetoj kun saŭco tomata kaj tinuso
 * **Vokalojdo**: Kasane Teto
 * **Estetiko**: goblincore
