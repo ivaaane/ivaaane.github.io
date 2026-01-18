@@ -16,8 +16,8 @@ details:
 * **Nacio**: Hispanujo
 * **Aŭtonoma komunumo**: Katalunujo
 * **Okupo**: komputik-lernejano
-* **Ĝenro**: neĝenra
-* **Seksa orientiĝo**: ambaŭseksema
+* **Genro**: negenra
+* **Seksemeco**: ambaŭseksema
 * **Etno**: ibera
 * **Religio**: agnostikismo
 * **Politika ideologio**: anarĥiismo
