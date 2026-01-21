@@ -34,7 +34,6 @@ Saluton~ mi estas sieni (retnomo, skribu minuskle), malprofesia skribanto, foje 
 
 ## Aliaĵoj
 
-* [Pri mi](mi)
 * [Libroŝranko](libroshranko)
 * [Televidaj serioj kaj animeoj](televidserioj)
 * [88x31-butonoj](8831)
