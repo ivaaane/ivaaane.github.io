@@ -7,12 +7,13 @@ details:
 
 ## Vidataj
 
-* Ĉensegila homo {{<note text="チェンソーマン">}}
+* Frieren {{<note text="葬送のフリーレン">}} (2a sezono)
 * Dr-o Ŝtono {{<note text="Dr.STONE">}} (4a sezono {{<note text="NOTO: redaŭros aprile">}})
 * La mirinda ĉifereca cirko {{<note text="The amazing digital circus">}}
 
 ## Viditaj
 
+* Ĉensegila homo {{<note text="チェンソーマン">}}
 * Spiono x Familio {{<note text="SPYxFAMILY">}}
 * Morto-kajero {{<note text="デスノート / DEATH NOTE">}}
 * Juna Ŝeldon {{<note text="Young Sheldon">}}
