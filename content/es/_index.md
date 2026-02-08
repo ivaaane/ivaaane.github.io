@@ -3,7 +3,7 @@ title: sieni
 lang: es
 ---
 
-<main>
+<article>
 
 # ñ
 
@@ -11,4 +11,4 @@ lang: es
 
 aquí habrá cosas lo juro-
 
-</main>
+</article>

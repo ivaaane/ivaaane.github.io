@@ -4,6 +4,7 @@ lang: eo
 ---
 
 <main>
+<article>
     <h1>SIENI :3</h1>
     <img class="img-switch side-img" style="width:25%;" src="/media/icons/language.svg" alt="SELECT LANGUAGE"></img>
     <ul>
@@ -13,6 +14,7 @@ lang: eo
         <li><a href="/es">ver en español</a></li>
         <li><a href="/en">view in English</a></li>
     </ul>
+</article>
 </main>
 
 <article>
