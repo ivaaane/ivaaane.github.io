@@ -39,7 +39,8 @@ post la pluveto
 herbojn lumigas la sun'  
 kaj verd' ekbrilas  
 
-***
+</article>
+<article>
 
 ## Aŭtuno, 2025
 
@@ -64,3 +65,19 @@ jen somereto!
 ekmalvarmiĝas  
 kaj simple kiel tiel  
 oktobron finas  
+
+</article>
+<article>
+
+## Vintro, 2026
+
+jen ĉio blankas  
+jen ĉio ĉesas movi  
+jen ĉio mortas  
+
+<br>
+
+placas ri al mi  
+kiel ombro somera  
+kiel sun' vintra  
+

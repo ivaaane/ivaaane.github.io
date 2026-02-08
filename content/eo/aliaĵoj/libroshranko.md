@@ -2,13 +2,14 @@
 title: Libroŝranko
 lang: eo
 details:
-- note: Ĉi tie mi **provas** enlistigi ĉiujn librojn, kiujn mi legis iam dum la lastaj jaroj, kaj tiujn, kiujn mi volas legi :3
+- note: Ĉi tie mi **provas** enlistigi ĉiujn librojn, kiujn mi legis iam dum la lastaj jaroj aŭ kiujn mi volas legi estonte :3
 ---
 
 ## Legataj
 
 | titolo | aŭtoro |
 | ------ | ------ |
+| La enketo de la kanalo 4a {{<note text="L'enquesta del canal 4">}} | Avel·lí Artís-Gener |
 | La sekreto de sekretoj {{<note text="The secret of secrets">}} | Dan Brown |
 
 <br>
@@ -93,3 +94,4 @@ details:
 | Malbono sub la suno {{<note text="Evil under the sun">}} | Agatha Christie |
 | Don Kiĥoto el Manĉo {{<note text="Don Quijote de la Mancha">}} | Miguel de Cervantes |
 | La Biblio {{<note text="ביבליה / ܟܬܒܐ ܩܕܝܫܐ / Αγία Γραφή">}} | owo |
+

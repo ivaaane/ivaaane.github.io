@@ -3,6 +3,8 @@
     <br><h1>{{or (.Params.header | markdownify) .Title }}</h1><br>
     {{ partial "details.html" . }}
 </header>
-<main>{{ .Content }}</main>
+<main>
+    <article>{{ .Content }}</article>
+</main>
 {{ partial "links.html" . }}
 {{ partial "footer.html" . }}
