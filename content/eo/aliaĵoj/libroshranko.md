@@ -9,6 +9,7 @@ details:
 
 | titolo | aŭtoro |
 | ------ | ------ |
+| Frankenŝtejno aŭ la moderna Prometeo {{<note text="Frankenstein or the modern Prometheus">}} | Mary Shelley |
 | La enketo de la kanalo 4a {{<note text="L'enquesta del canal 4">}} | Avel·lí Artís-Gener |
 | La sekreto de sekretoj {{<note text="The secret of secrets">}} | Dan Brown |
 
@@ -34,6 +35,7 @@ details:
 | Mi amas Amjon {{<note text="나는 에이미를 사랑해">}} | Unni |
 | Neniu por skribi al la kolonelo {{<note text="El coronel no tiene quien le escriba">}} | García Márquez |
 | Murdo en la Orienta Ekspreso {{<note text="Murder on the Orient Express">}} | Agatha Christie |
+| La aventuroj de Alico en Mirlando {{<note text="Alice's adventures in Wonderland">}} | Charles Lutwidge |
 | Mandragoro {{<note text="Mandrágora">}} | Laura Gallego García |
 | La Malsat-ludoj {{<note text="The Hunger Games">}} | Suzanne Collins |
 | La koloro de la magio {{<note text="The colour of magic">}} | Terry Pratchett |
@@ -81,6 +83,7 @@ details:
 | titolo | aŭtoro |
 | ------------------------------- | ------------------- |
 | [ĉiuj romanoj el Diskomondo] {{<note text="Discworld">}} | Terry Pratchett |
+| Vortoj de Opotono la Maljuna {{<note text="Paraules d'Opòton el Vell">}} | Avel·lço Artís-Gener |
 | Ŝtormo de glavoj {{<note text="A storm of swords">}} | George R.R. Martin |
 | Festeno por korvoj {{<note text="A feast for crows">}} | George R.R. Martin |
 | Danco kun drakoj {{<note text="A dance with dragons">}} | George R.R. Martin |
