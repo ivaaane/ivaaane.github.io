@@ -1,6 +1,6 @@
 /* COLOR */
 
-:root {
+:root[data-theme="light"] {
     --text:         black;
     --border:       black;
     --border-alt:   violet;
@@ -11,18 +11,16 @@
     --list:         url(/media/list/light.png);
 }
 
-@media (prefers-color-scheme: dark) {
-    body {
-        --text:         white;
-        --page:         black;
-        --link:         pink;
-        --border:       silver;
-        --border-alt:   dimgrey;
-        --bg:           black;
-        --bg-img:       url(/media/background/dark.png);
-        --list:         url(/media/list/dark.png);
-        .img-switch { filter: invert(1); }
-    }
+:root[data-theme="dark"] {
+    --text:         white;
+    --page:         black;
+    --link:         pink;
+    --border:       silver;
+    --border-alt:   dimgrey;
+    --bg:           black;
+    --bg-img:       url(/media/background/dark.png);
+    --list:         url(/media/list/dark.png);
+    .img-switch { filter: invert(1); }
 }
 
 /* GENERAL */
@@ -203,7 +201,7 @@ select {
 .rss {
     position: absolute;
     top: 15px;
-    left: 20px;
+    right: 20px;
 }
 
 .links {
@@ -234,15 +232,12 @@ select {
 .note {
     text-decoration: underline;
     text-decoration-style: dotted;
-    display: inline-block;
 }
 
 .note-content {
-    position: relative;
     visibility: hidden;
     position: absolute;
     padding: 10px;
-
     font-style: italic;
     align-items: right;
     background-color: var(--page);
@@ -256,7 +251,6 @@ select {
 
 .note:hover .note-content {
     visibility: visible;
-    opacity: 1;
 }
 
 .rainbow {
@@ -293,6 +287,15 @@ select {
 @keyframes marquee {
   0%   { transform: translate(0, 0); }
   100% { transform: translate(-100%, 0); }
+}
+
+#theme {
+    margin: 1rem;
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    padding: 0.5rem !important;
+    z-index: 2;
 }
 
 /* LANGUAGES N FONTS */
@@ -340,7 +343,7 @@ select {
         width: 50%;
     }
 
-    article, main, header {
+    article, header {
         padding: 1rem;
         border-left: 0;
         border-right: 0;

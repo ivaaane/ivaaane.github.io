@@ -12,7 +12,7 @@ outputs:
 ![soko [soko ilo jasima esun nasa ilo]](/media/icons/ss.png)
 {.sitelen-suwi}
 
-a(kama pona)  
+kama pona a  
 mi soko [soko ilo jasima esun nasa ilo] li tan ma [kasi,, tawa,, lawa,,]  
 mi mama e lipu la mi pana lon poki ni  
 mi pana kepeken [toki [e pilin e la,, n tomo,,]](/eo) kin  

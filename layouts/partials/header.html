@@ -1,6 +1,11 @@
 <!DOCTYPE html>
 <html lang="eo">
     <head>
+        <script>
+            document.documentElement.dataset.theme = localStorage.getItem('theme') || 'light';
+            console.log("nyaaaa~");
+        </script>
+
         <meta charset="UTF-8" />
         <title>{{.Title}}</title>
         <link rel="stylesheet" href="/styles.css">
@@ -10,3 +15,5 @@
         <meta property="og:image" content="/media/icons/preview.png" />
     </head>
     <body class="{{.Params.lang}}">
+        <button id="theme">☀</button>
+        

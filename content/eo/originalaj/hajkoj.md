@@ -71,13 +71,19 @@ oktobron finas
 
 ## Vintro, 2026
 
-jen ĉio blankas  
-jen ĉio ĉesas movi  
+jen ĉio blankas --  
+jen ĉio ĉesas movi --  
 jen ĉio mortas  
 
 <br>
 
 placas ri al mi  
 kiel ombro somera  
-kiel sun' vintra  
+kaj suno vintra  
+
+<br>
+
+arboj nudiĝas --  
+jen ĝiaj branĉoj  
+bele kompleksaj  
 

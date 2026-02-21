@@ -6,6 +6,7 @@ lang: eo
 <main>
 <article>
     <h1>SIENI :3</h1>
+    <div class="marquee"><p>选语言 ~ SELECT LANGUAGE ~ ELEKTU LINGVON ~ ELIGE IDIOMA ~ ESCULL IDIOMA ~ <span class="sp">o luka e toki wile</span> ~ 言語を選べ ~ VALITSE KIELI ~ HAUTATU HIZKUNTZARIK ~ ESCOLHA IDIOMA ~ LINGUAM DELIGE</p></div>
     <img class="img-switch side-img" style="width:25%;" src="/media/icons/language.svg" alt="SELECT LANGUAGE"></img>
     <ul>
         <li><a href="/sp"><span class="sp">o lukin lon toki+pona pi(sitelen+pona)</span></a></li>
