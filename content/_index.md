@@ -6,7 +6,7 @@ lang: eo
 <main>
 <article>
     <h1>SIENI :3</h1>
-    <div class="marquee"><p>选语言 ~ SELECT LANGUAGE ~ ELEKTU LINGVON ~ ELIGE IDIOMA ~ ESCULL IDIOMA ~ <span class="sp">o luka e toki wile</span> ~ 言語を選べ ~ VALITSE KIELI ~ HAUTATU HIZKUNTZARIK ~ ESCOLHA IDIOMA ~ LINGUAM DELIGE</p></div>
+    <div class="marquee" aria-hidden="true"><p>选语言 ~ SELECT LANGUAGE ~ ELEKTU LINGVON ~ ELIGE IDIOMA ~ ESCULL IDIOMA ~ <span class="sp">o luka e toki wile</span> ~ 言語を選べ ~ VALITSE KIELI ~ HAUTATU HIZKUNTZARIK ~ ESCOLHA IDIOMA ~ LINGUAM DELIGE ~ <span class="qy">~C 1DÎyF 1Fx$jR</span> ~ uw õvò owõv uwu</p></div>
     <img class="img-switch side-img" style="width:25%;" src="/media/icons/language.svg" alt="SELECT LANGUAGE"></img>
     <ul>
         <li><a href="/sp"><span class="sp">o lukin lon toki+pona pi(sitelen+pona)</span></a></li>
@@ -18,7 +18,7 @@ lang: eo
 </article>
 </main>
 
-<article>
+<article aria-hidden="true">
 <div id="sike-pona" style="width: 100%; height: 3rem;">
   <link rel="stylesheet" href="https://sike.pona.la/embed.css"/>
   <span id="left">
@@ -43,10 +43,5 @@ lang: eo
 
 <p style="display: flex; justify-content: space-between; width: auto;"><a href="https://webring.bucketfish.me/redirect.html?to=prev&name=sieni">⥼ prev</a> <a href="https://webring.bucketfish.me" class="rainbow">🏳️‍🌈 bucketfish webring 🏳️‍🌈</a> <a href="https://webring.bucketfish.me/redirect.html?to=next&name=sieni">next ⥽</a></p>
 
-<details>
-    <summary>john</summary>
-    <iframe src="https://john.citrons.xyz/embed?ref=example.com" style="margin-left:auto;display:block;margin-right:auto;max-width:732px;width:100%;height:94px;border:none;"></iframe>
-    <iframe src="https://john.citrons.xyz/embed?ref=example.com" style="margin-left:auto;display:block;margin-right:auto;max-width:732px;width:100%;height:94px;border:none;"></iframe>
-    <iframe src="https://john.citrons.xyz/embed?ref=example.com" style="margin-left:auto;display:block;margin-right:auto;max-width:732px;width:100%;height:94px;border:none;"></iframe>
-</details>
+<iframe src="https://john.citrons.xyz/embed?ref=example.com" style="margin-left:auto;display:block;margin-right:auto;max-width:732px;width:100%;height:94px;border:none;"></iframe>
 </article>

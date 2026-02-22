@@ -305,6 +305,11 @@ select {
     src: url("/fonts/nasin-nanpa-4.0.2.otf") format("opentype");
 }
 
+@font-face {
+    font-family: "tengwar";
+    src: url("/fonts/tngani.ttf") format("truetype");
+}
+
 .tp {
     h1 {
         text-transform: none;
@@ -329,6 +334,10 @@ select {
         margin-top: -1rem;
         padding-inline-start: 1.8rem;
     }
+}
+
+.qy {
+    font-family: tengwar;
 }
 
 /* MOBILE */

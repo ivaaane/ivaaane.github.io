@@ -9,7 +9,7 @@ outputs:
 
 # la arĥivo de mi, sieni >:3
 
-<div class="marquee"><img alt="gumi" src="/media/sillies/gumi.png"></img></div>
+<div class="marquee" aria-hidden="true"><img alt="gumi" src="/media/sillies/gumi.png"></img></div>
 
 Saluton~ mi estas sieni{{<note text="Retnomo; skribu minuskle.">}}, malprofesia skribanto, programanto kaj aĵo-faristo el Katalunujo. Tiu ĉi estas mia persona arĥivo, kie mi gardas ĉiun verkon faritan de mi. Mi skribas ĉefe en [la tokipona](/sp) lingvo, en kiu mi pli fluas. Bonan ĉeestadon!
 
