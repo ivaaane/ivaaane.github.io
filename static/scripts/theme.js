@@ -1,5 +1,4 @@
-let theme = localStorage.getItem('theme')
-    || window.matchMedia("(prefers-color-scheme: dark)").matches ? 'dark' : 'light';
+let theme = localStorage.getItem('theme') || 'light';
 document.documentElement.dataset.theme = theme;
 
 document.getElementById('theme').onclick = () => {
