@@ -83,18 +83,11 @@ details:
 | titolo | aŭtoro |
 | ------------------------------- | ------------------- |
 | [ĉiuj romanoj el Diskomondo] {{<note text="Discworld">}} | Terry Pratchett |
-| Vortoj de Opotono la Maljuna {{<note text="Paraules d'Opòton el Vell">}} | Avel·lço Artís-Gener |
 | Ŝtormo de glavoj {{<note text="A storm of swords">}} | George R.R. Martin |
-| Festeno por korvoj {{<note text="A feast for crows">}} | George R.R. Martin |
-| Danco kun drakoj {{<note text="A dance with dragons">}} | George R.R. Martin |
 | L' aŭko de sinjoro Esteve {{<note text="L'auca del senjor Esteve">}} | Santiago Rusiñol |
+| Vortoj de Opotono la Maljuna {{<note text="Paraules d'Opòton el Vell">}} | Avel·lço Artís-Gener |
 | La taglibroj de la apotekistino {{<note text="薬屋のひとりごと">}} | Natsu Hyūga |
 | Duno {{<note text="Dune">}} | Frank Herbert |
-| Morto sur Nilo {{<note text="Death on the Nile">}} | Agatha Christie |
-| La murdo de Roger Ackroyd {{<note text="The murder of Roger Ackroyd">}} | Agatha Christie |
-| Kristnaska tragiko {{<note text="A christmas tragedy">}} | Agatha Christie |
-| Kvin etaj porkoj {{<note text="Five little pigs">}} | Agatha Christie |
-| Malbono sub la suno {{<note text="Evil under the sun">}} | Agatha Christie |
 | Don Kiĥoto el Manĉo {{<note text="Don Quijote de la Mancha">}} | Miguel de Cervantes |
-| La Biblio {{<note text="ביבליה / ܟܬܒܐ ܩܕܝܫܐ / Αγία Γραφή">}} | owo |
+| La Biblio {{<note text="ביבליה / ܟܬܒܐ ܩܕܝܫܐ / Αγία Γραφή">}} |   |
 

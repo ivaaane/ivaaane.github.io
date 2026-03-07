@@ -13,7 +13,7 @@ outputs:
 ![soko Sijeni](/media/icons/ss.png)
 {.sitelen-suwi}
 
-kama pona~ mi soko sijeni, mi tan ma Katala. mi mama e lipu la mi pana tawa poki ni. mi pana kepeken [toki Epelanto](/eo) kin. awen o pona!
+kama pona~ mi soko sijeni, mi tan ma Katala. mi mama e lipu la mi pana tawa poki ni. awen o pona!
 
 <p class="center"><a href="https://sijeni.atabook.org">» o toki lon lipu mi! «</a></p>
 
@@ -119,7 +119,5 @@ mi toki pona e kalama musi tan toki ante mute. mi sona ala kalama uta, taso mi s
 # _ante_
 
 * [soko li seme?](soko-li-seme)
-
-* [nasin tawa lipu ante](nasin)
 
 </article>

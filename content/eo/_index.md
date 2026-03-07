@@ -11,7 +11,7 @@ outputs:
 
 <div class="marquee" aria-hidden="true"><img alt="gumi" src="/media/sillies/gumi.png"></img></div>
 
-Saluton~ mi estas sieni{{<note text="Retnomo; skribu minuskle.">}}, malprofesia skribanto, programanto kaj aĵo-faristo el Katalunujo. Tiu ĉi estas mia persona arĥivo, kie mi gardas ĉiun verkon faritan de mi. Mi skribas ĉefe en [la tokipona](/sp) lingvo, en kiu mi pli fluas. Bonan ĉeestadon!
+Saluton~ mi estas sieni,{{<note text="Retnomo; skribu minuskle.">}} malprofesia skribanto, programanto kaj aĵo-faristo el Katalunujo. Tiu ĉi estas mia persona arĥivo, kie mi gardas ĉiun verkon faritan de mi. Mi skribas ĉefe en [la tokipona](/sp) lingvo, en kiu mi pli fluas. Bonan ĉeestadon!
 
 <p class="center"><a href="https://sijeni.atabook.org">» subskribu mian vizito-libron! «</a></p>
 
@@ -36,6 +36,5 @@ Saluton~ mi estas sieni{{<note text="Retnomo; skribu minuskle.">}}, malprofesia 
 
 * [Libroŝranko](libroshranko)
 * [Televidaj serioj kaj animeoj](televidserioj)
-* [88x31-butonoj](8831)
 
 </article>

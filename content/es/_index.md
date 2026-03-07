@@ -7,6 +7,6 @@ lang: es
 
 # ñ
 
-aquí habrá cosas lo juro-
+EN CONSTRUCCIÓN !!
 
 </article>

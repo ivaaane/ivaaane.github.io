@@ -15,7 +15,6 @@ outputs:
 kama pona a  
 mi soko [soko ilo jasima esun nasa ilo] li tan ma [kasi,, tawa,, lawa,,]  
 mi mama e lipu la mi pana lon poki ni  
-mi pana kepeken [toki [e pilin e la,, n tomo,,]](/eo) kin  
 awen o pona aaa  
 
 <p class="center"><a href="https://sijeni.atabook.org">o toki lon lipu mi a</a></p>
@@ -97,6 +96,5 @@ mi sona kalama ala la toki li ken ike tawa kute
 
 * [soko li seme](soko-li-seme)
 * [sewi lili](sewi-lili)
-* [nasin tawa lipu ante](nasin)
 
 </article>
