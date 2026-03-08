@@ -5,7 +5,7 @@
     --text:         light-dark(black, white);
     --border:       light-dark(black, silver);
     --border-alt:   light-dark(violet, dimgrey);
-    --page:         light-dark(white, black);
+    --page:         light-dark(#f6eee3, black);
     --link:         light-dark(darkblue, pink);
     --bg:           light-dark(pink, black);
 
@@ -85,10 +85,21 @@ a {
     }
 }
 
-img {
+img:not(.tokipona, .marquee *) {
     image-rendering: optimizeSpeed;
     max-width: 100%;
     height: auto;
+    font-size: 0;
+    display: inline-block;
+    transition: 100ms;
+    
+    &:hover {
+        position: relative;
+        scale: 1.2;
+        rotate: 10deg;
+        transition: 100ms;
+}
+
 }
 
 table {
@@ -172,7 +183,7 @@ select {
 }
 
 theme-switch {
-    margin: 1rem;
+    margin: 1em 0.5em 1em 0.5em;
     padding: 1rem;
     position: fixed;
     bottom: 0;
@@ -302,25 +313,6 @@ theme-switch {
     border:none;
 }
 
-.btn {
-    img {
-        font-size: 0;
-        display: inline-block;
-        transition: 100ms;
-        
-        &:hover {
-            position: relative;
-            scale: 1.5;
-            rotate: 10deg;
-            transition: 100ms;
-        }
-    }
-
-    a:hover {
-        background-color: var(--page);
-    }
-}
-
 @keyframes rainbow {
     0%{color: orange;} 10%{color: purple;} 20%{color: red;} 30%{color: CadetBlue;}
     40%{color: yellow;} 50%{color: coral;} 60%{color: green;} 70%{color: cyan;}
@@ -400,13 +392,11 @@ theme-switch {
         box-shadow: 0 0;
     }
 
-    article, header, table, td, th, {
-        border-color: var(--border);
+    article, header, table, td, th, label {
+        border-color: var(--border) !important;
     }
 
-    .side-img { display: none; }
-    .ss { width: 30%; }
-    .table { text-align: left; }
+    .side-img { display: none !important; }
 }
 
 @media (prefers-reduced-motion: reduce;) {

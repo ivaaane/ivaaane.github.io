@@ -16,7 +16,6 @@ details:
 * Ĉensegila homo {{<note text="チェンソーマン">}}
 * Spiono x Familio {{<note text="SPYxFAMILY">}}
 * Morto-kajero {{<note text="デスノート / DEATH NOTE">}}
-* Juna Ŝeldon {{<note text="Young Sheldon">}}
 * Baldaŭ mi fariĝos vi {{<note text="やがて君になる">}}
 * Lasta vojaĝo de knabino {{<note text="少女終末旅行">}}
 * Nova centjara evangelio {{<note text="新世紀エヴァンゲリオン">}}
@@ -24,7 +23,6 @@ details:
 * La taglibroj de la apotekistino {{<note text="薬屋のひとりごと">}}
 * Mortig-robotoj {{<note text="Murder drones">}}
 * Ludo de tronoj {{<note text="Game of thrones">}}
-* La praeksplodo-teorio {{<note text="The big bang theory">}}
 * Dr-o Ŝtono {{<note text="Dr.STONE">}}
 * Boĉi la Roko! {{<note text="ぼっち・ざ・ろっく！">}}
 * Mia cerva amikino Nokotan {{<note text="しかのこのこのここしたんたん">}}
