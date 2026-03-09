@@ -16,8 +16,8 @@
 
     &:not(#dark:checked) {
         color-scheme: light;
-        & body { background-image: var(--bg-img); }
         & ul, ol { list-style-image: var(--list); }
+        & body { background-image: var(--bg-img); }
     }
 
     &:has(#dark:checked) {
@@ -90,7 +90,7 @@ img:not(.tokipona, .marquee *) {
     max-width: 100%;
     height: auto;
     font-size: 0;
-    display: inline-block;
+    display: inline;
     transition: 100ms;
     
     &:hover {
@@ -265,13 +265,16 @@ theme-switch {
     white-space: nowrap;
     overflow: hidden;
     box-sizing: border-box;
-    p, img {
+    p {
         display: inline-block;
         padding-left: 100%;
-        animation: marquee 20s linear infinite;
+        animation: marquee 30s linear infinite;
     }
     img {
         width: 20%;
+        display: inline-block;
+        padding-left: 100%;
+        animation: marquee 8s linear infinite;
     }
 }
 
@@ -303,16 +306,6 @@ theme-switch {
     }
 }
 
-.john {
-    margin-left:auto;
-    display:block;
-    margin-right:auto;
-    max-width:732px;
-    width:100%;
-    height:94px;
-    border:none;
-}
-
 @keyframes rainbow {
     0%{color: orange;} 10%{color: purple;} 20%{color: red;} 30%{color: CadetBlue;}
     40%{color: yellow;} 50%{color: coral;} 60%{color: green;} 70%{color: cyan;}
@@ -329,6 +322,28 @@ theme-switch {
 @keyframes marquee {
   0%   { transform: translate(0, 0); }
   100% { transform: translate(-100%, 0); }
+}
+
+/* aero webring */
+#aero-ring {
+    background: linear-gradient(to bottom, #404040 0%, #000000 100%);
+    border-radius: 10px;
+    box-shadow: 0 0 4px rgba(0, 0, 0, 0.5),
+      inset 0 2px 1px rgba(255, 255, 255, 0.15),
+      inset 0 -2px 1px rgba(0, 0, 0, 0.35);
+    font-family: sans-serif;
+    margin: 10px auto 0px auto;
+    max-width: 15rem;
+    padding: 0.75rem;
+    scale: 0.8;
+
+    a, a:visited {
+        color: white !important;
+    }
+
+    a:focus, a:hover, a:active {
+        color: lightgrey !important;
+    }
 }
 
 /* LANGUAGES N FONTS */
@@ -367,6 +382,20 @@ theme-switch {
         margin-top: -1rem;
         padding-inline-start: 1.8rem;
     }
+}
+
+.eo {
+    --bg-img: url("/media/background/green.png");
+    --border-alt: green;
+}
+
+.es {
+    --bg-img: url("/media/background/pink.png");
+}
+
+.en {
+    --bg-img: url("/media/background/blue.png");
+    --border-alt: lightgray;
 }
 
 .qy {
