@@ -9,7 +9,6 @@ details:
 
 | titolo | aŭtoro |
 | ------ | ------ |
-| La enketo de la kanalo 4a {{<note text="L'enquesta del canal 4">}} | Avel·lí Artís-Gener |
 | La sekreto de sekretoj {{<note text="The secret of secrets">}} | Dan Brown |
 
 <br>
@@ -18,6 +17,7 @@ details:
 
 | titolo | aŭtoro |
 | ------ | ------ |
+| La enketo de la kanalo 4a {{<note text="L'enquesta del canal 4">}} | Avel·lí Artís-Gener |
 | Frankenŝtejno {{<note text="Frankenstein; or the modern Prometheus">}} | Mary Shelley |
 | Kolizio de reĝoj {{<note text="A clash of kings">}} | George R.R. Martin |
 | Kiam la verd-tea fiulino ĉantaĝis min {{<note text="关于被班上绿茶威胁那件事">}} | Xiam jun |
