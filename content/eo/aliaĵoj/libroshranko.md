@@ -51,6 +51,7 @@ details:
 | Etaj dioj {{<note text="Small gods">}} | Terry Pratchett |
 | Bonaj aŭguroj {{<note text="Good omens">}} | Neil Gaiman kaj Terry Pratchett |
 | Mortigaj motoroj {{<note text="Mortal engines">}} | Philip Reeve |
+| Kristnaska kanto {{<note text="A christmas carol">}} | Charles Dickens |
 | La mastro de la ringoj {{<note text="The lord of the rings">}} | J.R.R. Tolkien |
 | La hobito {{<note text="The Hobbit">}} | J.R.R. Tolkien |
 | Etiko por Amador {{<note text="Ética para Amador">}} | Fernando Savater |
