@@ -9,7 +9,8 @@ details:
 
 | titolo | aŭtoro |
 | ------ | ------ |
-| La sekreto de sekretoj {{<note text="The secret of secrets">}} | Dan Brown |
+| Duno {{<note text="Dune">}} | Frank Herbert |
+| Mort | Terry Pratchett |
 
 <br>
 
@@ -17,6 +18,7 @@ details:
 
 | titolo | aŭtoro |
 | ------ | ------ |
+| La sekreto de sekretoj {{<note text="The secret of secrets">}} | Dan Brown |
 | La enketo de la kanalo 4a {{<note text="L'enquesta del canal 4">}} | Avel·lí Artís-Gener |
 | Frankenŝtejno {{<note text="Frankenstein; or the modern Prometheus">}} | Mary Shelley |
 | Kolizio de reĝoj {{<note text="A clash of kings">}} | George R.R. Martin |
@@ -84,11 +86,11 @@ details:
 | titolo | aŭtoro |
 | ------------------------------- | ------------------- |
 | [ĉiuj romanoj el Diskomondo] {{<note text="Discworld">}} | Terry Pratchett |
+| Omaĝo al Katalunujo {{<note text="Homage to Catalonia">}} | George Orwell |
 | Ŝtormo de glavoj {{<note text="A storm of swords">}} | George R.R. Martin |
 | L' aŭko de sinjoro Esteve {{<note text="L'auca del senjor Esteve">}} | Santiago Rusiñol |
 | Vortoj de Opotono la Maljuna {{<note text="Paraules d'Opòton el Vell">}} | Avel·lço Artís-Gener |
 | La taglibroj de la apotekistino {{<note text="薬屋のひとりごと">}} | Natsu Hyūga |
-| Duno {{<note text="Dune">}} | Frank Herbert |
 | Don Kiĥoto el Manĉo {{<note text="Don Quijote de la Mancha">}} | Miguel de Cervantes |
 | La Biblio {{<note text="ביבליה / ܟܬܒܐ ܩܕܝܫܐ / Αγία Γραφή">}} |   |
 
