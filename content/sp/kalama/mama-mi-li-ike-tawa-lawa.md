@@ -1,7 +1,7 @@
 ---
 title: mama mi li ike tawa lawa
 date: 2025-10-27
-lang: sp
+language: sp
 details:
 - date: suno nanpa mute1 luka-tu la mun nanpa luka-luka la sike nanpa owe mute1 mute1 wan
 - note: mi toki+pona e kalama musi [TATA] tan toki [sona,, pini,, sitelen,,]

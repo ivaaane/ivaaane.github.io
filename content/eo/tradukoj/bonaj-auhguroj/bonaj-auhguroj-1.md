@@ -1,6 +1,6 @@
 ---
 title: Bonaj Aŭguroj
-lang: eo
+language: eo
 date: 2025-08-31
 details:
 - date: 31/8/2025

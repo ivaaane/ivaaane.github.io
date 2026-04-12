@@ -1,7 +1,7 @@
 ---
 title: "open lon"
 date: 2025-03-29
-lang: tp
+language: tp
 details:
 - date: 2025/3/29
 - edit: 2025/8/8

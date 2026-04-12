@@ -1,7 +1,7 @@
 ---
 title: jan suno
 date: 2025-04-24
-lang: sp
+language: sp
 details:
 - date: suno nanpa mute1 tu-wan lon mun nanpa tu-tu lon sike nanpa owe mute1 mute1 wan  
 - edit: suno nanpa luka-luka la mun nanpa luka tu-wan la sike nanpa owe mute1 luka  

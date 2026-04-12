@@ -2,7 +2,7 @@
 title: "jan Kisote li weka tan tomo | jan Kisote #4"
 header: "<b>nanpa tu-tu la</b>jan [kiwen,, sona,, tenpo,,] li weka tan tomo"
 date: 2026-01-04
-lang: sp
+language: sp
 details:
   - date: suno nanpa tu-tu la mun nanpa wan la sike nanpa owe mute1 mute1 tu
   - note: mi toki+pona e lipu [DON QUIJOTE] pi(kon [sewi,,, ante,,,,]) tan toki [en pan,,, jo,,]

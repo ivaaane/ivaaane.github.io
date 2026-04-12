@@ -1,7 +1,7 @@
 ---
 title: suno suwi o
 date: 2025-05-30
-lang: sp
+language: sp
 details:
 - date: suno nanpa mute1 luka-luka la mun nanpa luka la sike nanpa owe mute1 mute1 wan
 - note: |

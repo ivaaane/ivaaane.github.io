@@ -2,7 +2,7 @@
 title: "kasi li len e mi | lon insa pi ma tu #1"
 header: "#W<br>kasi li len e mi"
 date: 2025-10-19
-lang: tp
+language: tp
 details:
 - date: 2025/10/19
 - note: tan lipu olin "lon insa pi ma tu"

@@ -1,5 +1,5 @@
 ---
 title: sieni
-lang: uwu
+language: uwu
 ---
 

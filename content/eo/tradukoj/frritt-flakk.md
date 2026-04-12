@@ -1,6 +1,6 @@
 ---
 title: Frritt-Flakk
-lang: eo
+language: eo
 details:
 - note: Traduko de 'Fritt-flacc', terura rakonteto fare de Jules Verne en 1884.
 draft: true

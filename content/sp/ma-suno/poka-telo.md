@@ -1,6 +1,6 @@
 ---
 title: poka telo
-lang: sp
+language: sp
 draft: true
 details:
 - date: suno nanpa luka tu-wan la mun nanpa luka-luka la sike nanpa owe mute1 mute1 wan

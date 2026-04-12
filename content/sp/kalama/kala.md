@@ -1,7 +1,7 @@
 ---
 title: o lukin e kala
 date: 2025-02-16
-lang: sp
+language: sp
 details:
 - date: suno nanpa luka-luka luka-wan lon mun nanpa tu lon sike nanpa owe mute1 mute1 wan  
 - note: mi toki+pona e kalama musi [LOS PECES EN EL RIO] tan toki [en pan,,, jo,,]

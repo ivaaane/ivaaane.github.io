@@ -1,7 +1,7 @@
 ---
 title: open jan
 date: 2025-03-10
-lang: sp
+language: sp
 details:
 - date: suno nanpa luka-luka la mun nanpa tu-tu la sike nanpa owe mute1 mute1 wan  
 - edit: suno nanpa luka tu-wan la mun nanpa luka tu-wan la sike nanpa owe mute1 mute1 wan  

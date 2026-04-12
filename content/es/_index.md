@@ -1,6 +1,6 @@
 ---
 title: sieni
-lang: es
+language: es
 ---
 
 <article>

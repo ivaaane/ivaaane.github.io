@@ -2,7 +2,7 @@
 title: kalama Sakijape
 header: kalama [sama,, kijetesantakalu,,, ale pona en]
 date: 2025-02-15
-lang: sp
+language: sp
 details:
 - date: suno nanpa luka-luka luka la mun nanpa tu la sike nanpa owe mute1 mute1 wan  
 - edit: suno nanpa luka-luka la mun nanpa luka tu-wan la sike nanpa owe mute1 luka  

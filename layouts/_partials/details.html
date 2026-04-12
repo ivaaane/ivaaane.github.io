@@ -1,9 +1,9 @@
 {{if .Params.details}}
 <details>
-    <summary>{{index .Site.Data.langs .Params.lang "more"}}</summary>
+    <summary>{{index hugo.Data.langs .Params.language "more"}}</summary>
     {{range .Params.details}}
-        {{if .date}}<b>{{index $.Site.Data.langs $.Params.lang "date"}}</b>{{.date}}<br>{{end}}
-        {{if .edit}}<b>{{index $.Site.Data.langs $.Params.lang "edit"}}</b>{{.edit}}<br>{{end}}
-        {{if .note}}<b>{{index $.Site.Data.langs $.Params.lang "note"}}</b>{{.note | markdownify}}<br>{{end}}{{end}}
+        {{if .date}}<b>{{index hugo.Data.langs $.Params.language "date"}}</b>{{.date}}<br>{{end}}
+        {{if .edit}}<b>{{index hugo.Data.langs $.Params.language "edit"}}</b>{{.edit}}<br>{{end}}
+        {{if .note}}<b>{{index hugo.Data.langs $.Params.language "note"}}</b>{{.note | markdownify}}<br>{{end}}{{end}}
 </details>
 {{end}}

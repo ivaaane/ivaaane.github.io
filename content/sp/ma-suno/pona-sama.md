@@ -1,6 +1,6 @@
 ---
 title: pona sama
-lang: sp
+language: sp
 date: 2025-08-30
 details:
 - date: suno nanpa mute1 luka-luka la mun nanpa luka tu-wan la sike nanpa owe mute1 mute1 luka

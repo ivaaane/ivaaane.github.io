@@ -1,6 +1,6 @@
 ---
 title: lon insa pi ma tu #2
-lang: tp
+language: tp
 draft: true
 ---
 

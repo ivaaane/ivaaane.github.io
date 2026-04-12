@@ -1,6 +1,6 @@
 ---
 title: Mi ne estas samseksema, sed-
-lang: eo
+language: eo
 draft: true
 ---
 

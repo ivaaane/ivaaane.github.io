@@ -1,6 +1,6 @@
 ---
 title: Libroŝranko
-lang: eo
+language: eo
 details:
 - note: Ĉi tie mi **provas** enlistigi ĉiujn librojn, kiujn mi legis iam dum la lastaj jaroj aŭ kiujn mi volas legi estonte :3
 ---

@@ -2,7 +2,7 @@
 title: soko li seme
 header: soko li seme
 date: 2025-06-29
-lang: sp
+language: sp
 details:
 - date: "suno nanpa mute1 luka tu-tu la mun nanpa luka-wan la sike nanpa owe mute1 mute1 wan"
 - note: "mi pana e ni tawa [lipu tenpo nanpa supa](https://liputenpo.org/lipu/nanpa-supa/)"

@@ -1,6 +1,6 @@
 ---
 title: taso
-lang: sp
+language: sp
 details:
 - date: suno nanpa luka tu-tu la mun nanpa luka tu-wan la sike nanpa owe mute1 mute1 wan
 - note: |

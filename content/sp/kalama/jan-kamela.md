@@ -2,7 +2,7 @@
 title: a, jan Kamela!
 header: a jan [kama,,, esun laso,,]
 date: 2025-03-29
-lang: sp
+language: sp
 details:
 - date: suno nanpa mute1 luka tu-wan la mun nanpa tu-wan la sike nanpa owe mute1 mute1 wan  
 - edit: suno nanpa tu-tu la mun nanpa luka-luka la sike nanpa owe mute1 luka  

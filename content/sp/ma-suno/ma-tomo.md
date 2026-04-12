@@ -1,7 +1,7 @@
 ---
 title: ma tomo
 date: 2025-05-31
-lang: sp
+language: sp
 details:
 - date: suno nanpa mute1 luka-luka wan lon mun nanpa luka lon sike nanpa owe mute1 mute1 wan  
 - edit: suno nanpa luka-luka la mun nanpa luka tu-wan la sike nanpa owe mute1 luka  

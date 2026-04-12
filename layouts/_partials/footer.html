@@ -1,7 +1,7 @@
         <footer>
-            <a href="https://creativecommons.org/licenses/by-sa/4.0/">{{or (index .Site.Data.langs .Params.lang "cc") "CC-BY-SA 4.0"}}</a> ~
-            <a href="https://codeberg.org/sieni/website">{{or (index .Site.Data.langs .Params.lang "source") "font-kodo"}}</a> ~
-            <a href="https://gohugo.io">{{or (index .Site.Data.langs .Params.lang "hugo") "farita per hugo"}}</a>
+            <a href="https://creativecommons.org/licenses/by-sa/4.0/">{{or (index hugo.Data.langs .Params.language "cc") "CC-BY-SA 4.0"}}</a> ~
+            <a href="https://codeberg.org/sieni/website">{{or (index hugo.Data.langs .Params.language "source") "font-kodo"}}</a> ~
+            <a href="https://gohugo.io">{{or (index hugo.Data.langs .Params.language "hugo") "farita per hugo"}}</a>
         </footer>
     </body>
 </html>

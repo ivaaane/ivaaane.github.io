@@ -1,6 +1,6 @@
 ---
 title: sieni
-lang: eo
+language: eo
 outputs:
   - html
 ---

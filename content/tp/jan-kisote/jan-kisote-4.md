@@ -2,7 +2,7 @@
 title: "jan Kisote li weka tan tomo | jan Kisote #4"
 header: "#TT<br>jan Kisote li weka tan tomo"
 date: 2026-01-04
-lang: tp
+language: tp
 details:
   - date: 2026/1/4
   - note: mi toki pona e lipu "Don Quijote" pi kon Sewante tan toki Epanjo.

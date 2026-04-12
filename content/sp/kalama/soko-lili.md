@@ -2,7 +2,7 @@
 title: soko lili
 header: soko lili
 date: 2025-08-31
-lang: sp
+language: sp
 details:
 - date: suno nanpa mute1 luka-luka wan la mun nanpa luka tu-wan la sike nanpa owe mute1 mute1 wan
 - note: |

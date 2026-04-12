@@ -1,7 +1,7 @@
 ---
 title: jan suli kasi
 date: 2025-05-30
-lang: sp
+language: sp
 details:
 - date: suno nanpa mute1 luka tu-wan la mun nanpa tu-wan la sike nanpa owe mute1 mute1 wan  
 - edit: suno nanpa luka-luka la mun nanpa luka tu-wan la sike nanpa owe mute1 luka  

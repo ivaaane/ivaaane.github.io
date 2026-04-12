@@ -2,7 +2,7 @@
 title: jan Josi en waso monsuta
 header: jan [jo,, sin,,] en waso monsuta
 date: 2025-04-23
-lang: sp
+language: sp
 details:
 - date: suno nanpa mute1 tu-wan lon mun nanpa tu-tu lon sike nanpa owe mute1 mute1 wan
 - edit: suno nanpa luka-luka la mun nanpa luka tu-wan la sike nanpa owe mute1 luka

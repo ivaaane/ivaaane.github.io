@@ -2,7 +2,7 @@
 title: "kasi li len e mi | lon insa pi ma tu #1"
 header: <b>nanpa wan la</b>kasi li len e mi
 date: 2025-10-19
-lang: sp
+language: sp
 details:
 - date: suno nanpa luka-luka luka tu-tu la mun nanpa luka-luka la sike nanpa owe mute1 mute1 wan
 - note: tan lipu olin1 te lon insa pi(matu) to

@@ -2,7 +2,7 @@
 title: lipu "ma suno" li seme?
 header: lipu te ma suno to li seme
 date: 2025-10-06
-lang: sp
+language: sp
 details:
 - date: suno nanpa luka-wan la mun nanpa luka-luka la sike nanpa owe mute1 mute1 wan
 - note: jan pi(lonala) li toki e kon lipu

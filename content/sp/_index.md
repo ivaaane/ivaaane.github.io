@@ -1,6 +1,6 @@
 ---
 title: soko sijeni
-lang: sp
+language: sp
 outputs:
 - html
 ---

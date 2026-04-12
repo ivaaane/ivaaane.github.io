@@ -1,7 +1,7 @@
 ---
 title: mama mi li ike tawa lawa
 date: 2025-10-27
-lang: tp
+language: tp
 details:
 - date: 2025/10/27
 - note: mi toki pona e kalama musi "tata" tan toki Sopisi

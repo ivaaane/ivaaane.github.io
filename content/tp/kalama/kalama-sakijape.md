@@ -1,7 +1,7 @@
 ---
 title: kalama Sakijape
 date: 2025-02-15
-lang: tp
+language: tp
 details:
 - date: 2025/2/15
 - edit: 2025/8/10

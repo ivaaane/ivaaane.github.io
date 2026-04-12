@@ -1,7 +1,7 @@
 ---
 title: o lukin
 date: 2025-08-12
-lang: tp
+language: tp
 details:
 - date: 2025/8/12
 ---

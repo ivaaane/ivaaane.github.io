@@ -1,13 +1,13 @@
 <article class="links">
     <div>
     {{ if .Params.last }}
-        <a href="../{{ .Params.last }}">« {{ index .Site.Data.langs .Params.lang "last" }}</a>
+        <a href="../{{ .Params.last }}">« {{ index hugo.Data.langs .Params.language "last" }}</a>
     {{ end }}
     </div>
-    <div><a href="..">{{ index .Site.Data.langs .Params.lang "back" }}</a></div>
+    <div><a href="..">{{ index hugo.Data.langs .Params.language "back" }}</a></div>
     <div>
     {{ if .Params.next }}
-        <a href="../{{ .Params.next }}">{{ index .Site.Data.langs .Params.lang "next" }} »</a>
+        <a href="../{{ .Params.next }}">{{ index hugo.Data.langs .Params.language "next" }} »</a>
     {{ end }}
     </div>
 </article>

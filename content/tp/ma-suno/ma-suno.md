@@ -1,7 +1,7 @@
 ---
 title: lipu "ma suno" li seme?
 date: 2025-10-06
-lang: tp
+language: tp
 details:
 - date: 2025/10/6
 - note: jan pi lon ala li toki e kon lipu.

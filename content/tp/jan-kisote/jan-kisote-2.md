@@ -2,7 +2,7 @@
 title: "tawa nanpa wan pi jan Kisote | jan Kisote #2"
 header: "#T<br>tawa nanpa wan pi jan Kisote"
 date: 2025-04-23
-lang: tp
+language: tp
 details:
   - date: 2025/4/23
   - edit: 2025/10/8

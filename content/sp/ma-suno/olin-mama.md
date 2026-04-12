@@ -2,7 +2,7 @@
 title: olin mama
 header: olin1 mama
 date: 2025-08-17
-lang: sp
+language: sp
 details:
 - date: suno nanpa luka-luka luka-tu la mun nanpa luka tu-wan la sike nanpa owe mute1 mute1 wan
 - note: toki jan nanpa open lon lipu te open lon to

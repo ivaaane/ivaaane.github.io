@@ -1,7 +1,7 @@
 ---
 title: jan Josi en waso monsuta
 date: 2025-04-23
-lang: tp
+language: tp
 details:
 - date: 2025/4/23
 - edit: 2025/8/10

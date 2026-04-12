@@ -1,6 +1,6 @@
 ---
 title: Hajkoj
-lang: eo
+language: eo
 ---
 
 ## Somero, 2025

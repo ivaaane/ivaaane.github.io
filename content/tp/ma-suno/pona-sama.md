@@ -1,6 +1,6 @@
 ---
 title: pona sama
-lang: tp
+language: tp
 date: 2025-08-30
 details:
 - date: 2025/8/30

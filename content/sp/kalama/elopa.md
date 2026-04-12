@@ -2,7 +2,7 @@
 title: kalama pi kulupu Elopa
 header: kalama pi(kulupu[en loje,, pan,,])
 date: 2025-03-21
-lang: sp
+language: sp
 details:
 - date: suno nanpa mute1 tu lon mun nanpa tu wan lon sike nanpa mute1 ale mute1 mute1 wan
 - note: mi toki+pona e kalama musi pi(kulupu [en loje,, pan,,]) tan toki [en pan,,, jo,,]

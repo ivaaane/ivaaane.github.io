@@ -2,7 +2,7 @@
 title: "lawa li jan utala e jan Kisote | jan Kisote #3"
 header: <b>nanpa tu-wan la</b>lawa li jan utala e jan [kiwen,, sona,, tenpo,,]
 date: 2025-09-20
-lang: sp
+language: sp
 details:
 - date: suno nanpa mute1 la mun nanpa luka tu-tu la sike nanpa owe mute1 mute1 wan
 - note: mi toki+pona e lipu [DON QUIJOTE] pi(kon [sewi,,, ante,,,,]) tan toki [en pan,,, jo,,] 

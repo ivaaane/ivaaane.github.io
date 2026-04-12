@@ -402,8 +402,6 @@ theme-switch {
     article, header, table, td, th, label {
         border-color: var(--border) !important;
     }
-
-    .side-img { display: none !important; }
 }
 
 @media (prefers-reduced-motion: reduce;) {

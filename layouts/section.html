@@ -1,6 +1,6 @@
 {{ partial "header.html" . }}
 {{ .Content }}
 <article class="links">
-    <div><a href="/">{{ index .Site.Data.langs .Params.lang "select" }}</a></div>
+    <div><a href="/">{{ index hugo.Data.langs .Params.language "select" }}</a></div>
 </article>
 {{ partial "footer.html" . }}

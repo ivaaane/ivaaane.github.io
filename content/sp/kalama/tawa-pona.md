@@ -1,7 +1,7 @@
 ---
 title: tawa pona
 date: 2025-02-14
-lang: sp
+language: sp
 details:
 - date: suno nanpa luka-luka tu-tu la mun nanpa tu la sike nanpa owe mute1 mute1 wan
 - note: mi toki+pona e kalama musi [BELLA CIAO] tan toki [insa tawa,, li,, jan,,]

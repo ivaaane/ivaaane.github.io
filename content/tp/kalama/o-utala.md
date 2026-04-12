@@ -1,7 +1,7 @@
 ---
 title: o utala
 date: 2025-04-09
-lang: tp
+language: tp
 details:
 - date: 2025/4/9
 - edit: 2025/8/8

@@ -1,6 +1,6 @@
 ---
 title: soko sijeni
-lang: tp
+language: tp
 outputs:
 - html
 - rss

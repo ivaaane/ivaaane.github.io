@@ -1,7 +1,7 @@
 ---
 title: soko li seme?
 date: 2025-06-29
-lang: tp
+language: tp
 details:
 - date: 2025/6/29
 - note: "mi pana e ni tawa [lipu tenpo nanpa supa](https://liputenpo.org/lipu/nanpa-supa/)."

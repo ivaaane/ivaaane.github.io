@@ -1,7 +1,7 @@
 ---
 title: jan suli kasi
 date: 2025-05-30
-lang: tp
+language: tp
 details:
 - date: 2025/5/30
 - edit: 2025/8/14

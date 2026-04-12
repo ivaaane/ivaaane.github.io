@@ -1,6 +1,6 @@
 ---
 title: Televidaj serioj kaj animeoj
-lang: eo
+language: eo
 details:
 - note: Ĉi tie mi enlistigas seriojn televidajn kaj animeojn, kiujn mi memoras vidinti aŭ nune vidas.
 ---

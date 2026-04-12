@@ -1,6 +1,6 @@
 ---
 title: wawa pilin
-lang: tp
+language: tp
 draft: true
 ---
 

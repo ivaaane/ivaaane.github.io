@@ -1,7 +1,7 @@
 ---
 title: jan suno
 date: 2025-04-24
-lang: tp
+language: tp
 details:
 - date: 2025/4/24
 - edit: 2025/8/10

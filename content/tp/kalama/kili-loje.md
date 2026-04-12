@@ -1,7 +1,7 @@
 ---
 title: kili loje
 date: 2025-05-29
-lang: tp
+language: tp
 details:
 - date: 2025/05/29
 - note: mi toki pona e kalama musi "kalinka" tan toki Lusi.

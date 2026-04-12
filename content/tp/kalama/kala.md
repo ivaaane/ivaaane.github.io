@@ -1,7 +1,7 @@
 ---
 title: o lukin e kala
 date: 2025-02-16
-lang: tp
+language: tp
 details:
 - date: 2025/2/16
 - note: mi toki pona e kalama musi "los peces en el río" tan toki Epanjo.

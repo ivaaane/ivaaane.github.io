@@ -1,7 +1,7 @@
 ---
 title: ma tomo
 date: 2025-05-31
-lang: tp
+language: tp
 details:
 - date: 2025/5/31
 - edit: 2025/8/10

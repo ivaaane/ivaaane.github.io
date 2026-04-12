@@ -2,7 +2,7 @@
 title: "sona en pali pi jan Kisote | jan Kisote #1"
 header: <b>nanpa wan la</b>sona en pali pi jan [kiwen,, sona,, tenpo,,]
 date: 2025-04-23
-lang: sp
+language: sp
 details:
   - date: suno nanpa mute1 tu-wan la mun nanpa tu-tu la sike nanpa owe mute1 mute1 wan
   - edit: suno nanpa luka tu-wan la mun nanpa luka tu-wan la sike nanpa owe mute1 wan

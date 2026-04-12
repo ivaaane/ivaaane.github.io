@@ -1,6 +1,7 @@
 ---
-"title:": soko li moli e jan
+title: soko li moli e jan
 header: "#W) soko li moli e jan"
+language: tp
 draft: true
 ---
 

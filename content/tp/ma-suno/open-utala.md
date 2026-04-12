@@ -1,7 +1,7 @@
 ---
 title: open utala
 date: 2025-04-15
-lang: tp
+language: tp
 details:
 - date: 2025/4/15
 - edit: 2025/8/8

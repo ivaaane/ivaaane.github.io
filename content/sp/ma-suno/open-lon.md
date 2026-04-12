@@ -1,7 +1,7 @@
 ---
 title: open lon
 date: 2025-03-29
-lang: sp
+language: sp
 details:
 - date: suno nanpa mute1 luka tu-tu la mun nanpa tu-wan la sike nanpa owe mute1 mute1 wan  
 - edit: suno nanpa luka tu-wan la mun nanpa luka tu-wan la sike nanpa owe mute1 wan  

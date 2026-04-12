@@ -1,7 +1,7 @@
 ---
 title: open jan
 date: 2025-03-10
-lang: tp
+language: tp
 details:
 - date: 2025/3/10
 - edit: 2025/8/8
