@@ -10,7 +10,6 @@ details:
 | titolo | aŭtoro |
 | ------ | ------ |
 | Duno {{<note text="Dune">}} | Frank Herbert |
-| Mort | Terry Pratchett |
 
 <br>
 
@@ -18,6 +17,7 @@ details:
 
 | titolo | aŭtoro |
 | ------ | ------ |
+| Mort | Terry Pratchett |
 | La sekreto de sekretoj {{<note text="The secret of secrets">}} | Dan Brown |
 | La enketo de la kanalo 4a {{<note text="L'enquesta del canal 4">}} | Avel·lí Artís-Gener |
 | Frankenŝtejno {{<note text="Frankenstein; or the modern Prometheus">}} | Mary Shelley |
