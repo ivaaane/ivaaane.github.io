@@ -7,8 +7,8 @@ details:
 
 ## Vidataj
 
-* Frieren {{<note text="葬送のフリーレン">}} (2a sezono)
-* Dr-o Ŝtono {{<note text="Dr.STONE">}} (4a sezono {{<note text="NOTO: redaŭros aprile">}})
+* Dandadan {{<note text="ダンダダン">}}
+* Dr-o Ŝtono {{<note text="Dr.STONE">}} (4a sezono)
 * La mirinda ĉifereca cirko {{<note text="The amazing digital circus">}}
 
 ## Viditaj
