@@ -1,6 +1,7 @@
 ---
 title: Antaŭ dek unu jaroj
 language: eo
+date: 2025-08-31
 details:
 - date: 3/10/2025
 - edit: 4/10/2025

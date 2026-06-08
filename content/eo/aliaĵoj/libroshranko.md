@@ -9,7 +9,7 @@ details:
 
 | titolo | aŭtoro |
 | ------ | ------ |
-| Duno {{<note text="Dune">}} | Frank Herbert |
+| Gardistoj! Gardistoj! {{<note text="Guards! Guards!">}} | Terry Pratchett |
 
 <br>
 
@@ -17,12 +17,13 @@ details:
 
 | titolo | aŭtoro |
 | ------ | ------ |
+| Duno {{<note text="Dune">}} | Frank Herbert |
 | Mort | Terry Pratchett |
 | La sekreto de sekretoj {{<note text="The secret of secrets">}} | Dan Brown |
 | La enketo de la kanalo 4a {{<note text="L'enquesta del canal 4">}} | Avel·lí Artís-Gener |
 | Frankenŝtejno {{<note text="Frankenstein; or the modern Prometheus">}} | Mary Shelley |
 | Kolizio de reĝoj {{<note text="A clash of kings">}} | George R.R. Martin |
-| Kiam la verd-tea fiulino ĉantaĝis min {{<note text="关于被班上绿茶威胁那件事">}} | Xiam jun |
+| Kiam la verd-tea fiulino ĉantaĝis min {{<note text="关于被班上绿茶威胁那件事">}} | Xiam Jun |
 | Ludo de tronoj {{<note text="A game of thrones">}} | George R.R. Martin |
 | AMO-KUGLO {{<note text="ラブ・バレット (LOVE-BULLET)">}} | inee |
 | La eta princo {{<note text="Le petit prince">}} | Antoine de Saint-Exupéry |
@@ -86,11 +87,13 @@ details:
 | titolo | aŭtoro |
 | ------------------------------- | ------------------- |
 | [ĉiuj romanoj el Diskomondo] {{<note text="Discworld">}} | Terry Pratchett |
+| La Mesio el Duno {{<note text="Dune Messiah">}} | Frank Herbert |
 | Omaĝo al Katalunujo {{<note text="Homage to Catalonia">}} | George Orwell |
 | Ŝtormo de glavoj {{<note text="A storm of swords">}} | George R.R. Martin |
-| L' aŭko de sinjoro Esteve {{<note text="L'auca del senjor Esteve">}} | Santiago Rusiñol |
+| L'aŭko de sinjoro Esteve {{<note text="L'auca del senjor Esteve">}} | Santiago Rusiñol |
 | Vortoj de Opotono la Maljuna {{<note text="Paraules d'Opòton el Vell">}} | Avel·lço Artís-Gener |
 | La taglibroj de la apotekistino {{<note text="薬屋のひとりごと">}} | Natsu Hyūga |
+| La nomo de l'vento {{<note text="The name of the wind">}} | Patrick Rothfuss |
 | Don Kiĥoto el Manĉo {{<note text="Don Quijote de la Mancha">}} | Miguel de Cervantes |
 | La Biblio {{<note text="ביבליה / ܟܬܒܐ ܩܕܝܫܐ / Αγία Γραφή">}} |   |
 

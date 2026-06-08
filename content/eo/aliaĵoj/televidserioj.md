@@ -7,12 +7,13 @@ details:
 
 ## Vidataj
 
-* Dandadan {{<note text="ダンダダン">}}
 * Dr-o Ŝtono {{<note text="Dr.STONE">}} (4a sezono)
-* La mirinda ĉifereca cirko {{<note text="The amazing digital circus">}}
+* Breaking Bad
 
 ## Viditaj
 
+* La mirinda ĉifereca cirko {{<note text="The amazing digital circus">}}
+* Dandadan {{<note text="ダンダダン">}}
 * Ĉensegila homo {{<note text="チェンソーマン">}}
 * Spiono x Familio {{<note text="SPYxFAMILY">}}
 * Morto-kajero {{<note text="デスノート / DEATH NOTE">}}
