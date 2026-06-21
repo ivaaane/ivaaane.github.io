@@ -7,6 +7,7 @@ details:
 
 ## Vidataj
 
+* Atako de Titanoj {{<note text="進撃の巨人">}}
 * Dr-o Ŝtono {{<note text="Dr.STONE">}} (4a sezono)
 * Breaking Bad
 

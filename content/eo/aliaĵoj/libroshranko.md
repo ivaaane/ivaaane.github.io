@@ -9,7 +9,7 @@ details:
 
 | titolo | aŭtoro |
 | ------ | ------ |
-| Gardistoj! Gardistoj! {{<note text="Guards! Guards!">}} | Terry Pratchett |
+| Omaĝo al Katalunujo {{<note text="Homage to Catalonia">}} | George Orwell |
 
 <br>
 
@@ -17,6 +17,7 @@ details:
 
 | titolo | aŭtoro |
 | ------ | ------ |
+| Gardistoj! Gardistoj! {{<note text="Guards! Guards!">}} | Terry Pratchett |
 | Duno {{<note text="Dune">}} | Frank Herbert |
 | Mort | Terry Pratchett |
 | La sekreto de sekretoj {{<note text="The secret of secrets">}} | Dan Brown |
@@ -88,7 +89,6 @@ details:
 | ------------------------------- | ------------------- |
 | [ĉiuj romanoj el Diskomondo] {{<note text="Discworld">}} | Terry Pratchett |
 | La Mesio el Duno {{<note text="Dune Messiah">}} | Frank Herbert |
-| Omaĝo al Katalunujo {{<note text="Homage to Catalonia">}} | George Orwell |
 | Ŝtormo de glavoj {{<note text="A storm of swords">}} | George R.R. Martin |
 | L'aŭko de sinjoro Esteve {{<note text="L'auca del senjor Esteve">}} | Santiago Rusiñol |
 | Vortoj de Opotono la Maljuna {{<note text="Paraules d'Opòton el Vell">}} | Avel·lço Artís-Gener |
