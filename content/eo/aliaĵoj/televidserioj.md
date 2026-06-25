@@ -7,12 +7,12 @@ details:
 
 ## Vidataj
 
-* Atako de Titanoj {{<note text="進撃の巨人">}}
-* Dr-o Ŝtono {{<note text="Dr.STONE">}} (4a sezono)
+* Sorĉistĉapel-ateliero {{<note text="とんがり帽子のアトリエ">}}
 * Breaking Bad
 
 ## Viditaj
 
+* Atako de Titanoj {{<note text="進撃の巨人">}}
 * La mirinda ĉifereca cirko {{<note text="The amazing digital circus">}}
 * Dandadan {{<note text="ダンダダン">}}
 * Ĉensegila homo {{<note text="チェンソーマン">}}

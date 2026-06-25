@@ -26,6 +26,7 @@ Saluton~ mi estas sieni,{{<note text="Retnomo; skribu minuskle.">}} malprofesia 
 * [Somero, 2025](somero-2025)
 * [Aŭtuno, 2025](auhtuno-2025)
 * [Vintro, 2026](vintro-2026)
+* [Printempo, 2026](printempo-2026)
 
 </article>
 <article>

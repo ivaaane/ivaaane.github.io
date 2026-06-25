@@ -3,6 +3,7 @@ title: Hajkoj, vintro 2026
 language: eo
 date: 2026-03-20
 last: auhtuno-2025
+next: printempo-2026
 ---
 
 jen ĉio blankas --  
