@@ -23,17 +23,8 @@ Saluton~ mi estas sieni,{{<note text="Retnomo; skribu minuskle.">}} malprofesia 
 
 ## Haijkoj
 
-* [Somero, 2025](somero-2025)
-* [Aŭtuno, 2025](auhtuno-2025)
-* [Vintro, 2026](vintro-2026)
-* [Printempo, 2026](printempo-2026)
-
-</article>
-<article>
-
-## Tradukoj
-
-* [Bonaj Aŭguroj](bonaj-auhguroj-0) [[0](bonaj-auhguroj-0), [1](bonaj-auhguroj-1), [2](bonaj-auhguroj-2), ...]
+* 2025 -- [somero](somero-2025), [aŭtuno](auhtuno-2025)
+* 2026 -- [vintro](vintro-2026), [printempo](printempo-2026), [somero](somero-2026)
 
 </article>
 <article>

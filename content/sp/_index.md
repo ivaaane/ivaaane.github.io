@@ -36,6 +36,7 @@ toki mun la
 * [jan suno](jan-suno)  
 * [ma tomo](ma-tomo)  
 * [pona sama](pona-sama)  
+* [nasin telo](nasin-telo)  
 
 toki jan la  
 * [olin1 mama](olin-mama)  

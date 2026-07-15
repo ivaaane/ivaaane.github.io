@@ -3,6 +3,7 @@ title: Hajkoj, printempo 2026
 language: eo
 date: 2026-06-25
 last: vintro-2026
+next: somero-2026
 ---
 
 ene de verdar'  

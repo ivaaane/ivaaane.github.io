@@ -42,6 +42,8 @@ lipu ni li kulupu e toki musi tan kulupu jan pi tenpo pini.
 
 * [pona sama](pona-sama)
 
+* [nasin telo](nasin-telo)
+
 # _toki jan_
 
 * [olin mama](olin-mama)

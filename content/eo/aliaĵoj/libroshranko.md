@@ -9,6 +9,7 @@ details:
 
 | titolo | aŭtoro |
 | ------ | ------ |
+| Duno-mesio {{<note text="Dune Messiah">}} | Frank Herbert |
 | Omaĝo al Katalunujo {{<note text="Homage to Catalonia">}} | George Orwell |
 
 <br>
@@ -57,16 +58,16 @@ details:
 | Mortigaj motoroj {{<note text="Mortal engines">}} | Philip Reeve |
 | Kristnaska kanto {{<note text="A christmas carol">}} | Charles Dickens |
 | La mastro de la ringoj {{<note text="The lord of the rings">}} | J.R.R. Tolkien |
-| La hobito {{<note text="The Hobbit">}} | J.R.R. Tolkien |
-| Etiko por Amador {{<note text="Ética para Amador">}} | Fernando Savater |
-| Politiko por Amador {{<note text="Política para Amador">}} | Fernando Savater |
+| La Hobito {{<note text="The Hobbit">}} | J.R.R. Tolkien |
+| Etiko por Amadoro {{<note text="Ética para Amador">}} | Fernando Savater |
+| Politiko por Amadoro {{<note text="Política para Amador">}} | Fernando Savater |
 | La mistero de la tundro {{<note text="El misterio de la tundra">}} | Pedro Urvi |
 | La sekreto de la reĝo {{<note text="El secreto del rey">}} | Pedro Urvi |
 | La filo de la perfidinto {{<note text="El hijo del traidor">}} | Pedro Urvi |
 | Fernis, la elfo {{<note text="Fernis, el elfo">}} | Laura Gallego García |
 | La voko de la mortintaj {{<note text="La llamada de los muertos">}} | Laura Gallego García |
 | La malbeno de la mastro {{<note text="La maldición del maestro">}} | Laura Gallego García |
-| 1984 {{<note text="Nineteen eighty-four">}} | George Orwell |
+| Mil naŭcent okdek kvar {{<note text="Nineteen eighty-four">}} | George Orwell |
 | Trezor-insulo {{<note text="Treasure island">}} | Robert Louis Stevenson |
 | De tero al luno {{<note text="De la Terre à la Lune">}} | Julio Verne |
 | Dudek mil leŭgoj sub la maro {{<note text="Vingt mille lieues sous les mers">}} | Julio Verne |
@@ -75,10 +76,10 @@ details:
 | Ĉirkaŭ la mondo dum okdek tagoj {{<note text="Le tour du monde en quatre-vingts jours">}} | Julio Verne |
 | La esploranto {{<note text="The explorer">}} | Katherine Rundell |
 | La malmalicaj ŝtelistoj {{<note text="The good thieves">}} | Katherine Rundell |
-| La lup-valo {{<note text="El valle de los lobos">}} | Laura Gallego García |
+| La valo de lupoj {{<note text="El valle de los lobos">}} | Laura Gallego García |
 | Kufulineto en Manhatano {{<note text="Caperucita en Manhattan">}} | Sara Allen |
 | Wonder | Raquel J. Palacio |
-| La besto-farmo {{<note text="Animal farm">}} | George Orwell |
+| Besto-farmo {{<note text="Animal farm">}} | George Orwell |
 | La vent-musiko {{<note text="La música del viento">}} | Jordi Sierra I Fabra |
 
 <br>
@@ -88,7 +89,6 @@ details:
 | titolo | aŭtoro |
 | ------------------------------- | ------------------- |
 | [ĉiuj romanoj el Diskomondo] {{<note text="Discworld">}} | Terry Pratchett |
-| La Mesio el Duno {{<note text="Dune Messiah">}} | Frank Herbert |
 | Ŝtormo de glavoj {{<note text="A storm of swords">}} | George R.R. Martin |
 | L'aŭko de sinjoro Esteve {{<note text="L'auca del senjor Esteve">}} | Santiago Rusiñol |
 | Vortoj de Opotono la Maljuna {{<note text="Paraules d'Opòton el Vell">}} | Avel·lço Artís-Gener |
