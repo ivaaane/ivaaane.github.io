@@ -29,7 +29,7 @@ Malbona signalo. Tiam, ĉi-landujoj timas.
 
 Jen Luktropo. Poste, iuj loĝejoj disaj surkampe, inter stipoj kaj erikoj, _passim_, kiel en Britujo, sed ne estas ĝi en Britujo.
 
-Ĉu estas ĝi Francujo? Mi ne scias. Ĉu en Eŭropo? Mi nek scias.
+Ĉu estas ĝi en Francujo? Mi ne scias. Ĉu en Eŭropo? Mi nek scias.
 
 Ĉiuokaze, ne serĉu Luktropon en la mapo --- ne eĉ en la atlaso de Stieler.
 
