@@ -1,219 +1,249 @@
 ---
 title: Frritt-Flakk
+date: 2026-07-20
 language: eo
 details:
-- note: Traduko de 'Fritt-flacc', terura rakonteto fare de Jules Verne en 1884.
-draft: true
+- date: 20/7/2026
+- note: Traduko al Esperanto de «Frritt-Flacc», terura novelo france verkita de Julio Verne en 1884.
 ---
 
 # I
 
-Frritt!... estas la vento elĉeniĝanta.
+Frritt!... estas la vento ekscitiĝanta.
 
 Flakk!... estas la pluvo falanta torente.
 
-Tiu malpura vento-puŝo kurbigas la arbojn de la volsinia marbordo kaj frakasiĝas kontraŭ la flanko de la montoj de Krimo. Laŭ la mar-bordo, la altajn rokojn senĉese ronĝadas la ondoj de la vasta maro Megalokrida.
+Tiu malpura ventopuŝo kurbigas la arbojn de la Volsinia marbordo kaj rompiĝas kontraŭ la flanko de la montoj de Krimmo. Laŭlonge de la marbordo, la altajn rokojn senĉese ronĝas la ondoj el la vasta maro de Megalokrido.
 
 Frritt!... Flakk!...
 
-En la fundo de la haveno kaŝas sin la eta vilaĝo Luktropo. Iujn centoj da domoj, kun verdaj rigard-turoj, kiuj defendas kontraŭ la maraj ventoj laŭeble. Kvar aŭ kvin krutaj stratoj, pli ravinoj ol vojoj, pavimitaj per ŝtonoj, malpurigitaj de la skorioj, kiujn ĵetas la erupciaj konusoj el la fundo. La vulkano ne estas fore — Vangloro. Dumtage, la interna puŝo disiĝas je formo de sulfuraj vaporoj. Dumnokte, po minuto, granda vomado da flamoj. Kiel lum-turo, de antingo de kvindek cent kertzoj, Vangloro montras la Luktropa havenon al la marbordaj navigantoj, felzanoj, verliĉoj aŭ pesilistoj, kies arkoj tranĉas la akvojn de Megalokrido.
+Funde de la haveno kaŝas la urbeto de Luktropo. Iuj centoj da domoj, kun verdaj rigardejoj, kiuj ĝin defendas pli-malpli kontraŭ la mara vento. Kvar aŭ kvin krutaj stratoj, pli ravinoj ol vojoj, pavimitaj per ŝtonoj, malpurigitaj de skorio, kiun ĵetas la vulkanaj konusoj elfunde. La vulkano ne estas for -- Vangloro. Tage, la enaj emanoj etendiĝas en formo de sulfuraj vaporoj. Nokte, de minuto al minuto, grandaj vomadoj de flamoj. Kiel lumturo, starante cent kvindek kertzoj alta, Vangloro montras la Luktropan havenon al la trafik-, fiŝ- kaj transport-ŝipoj, kies stevenoj segas la akvojn de Megalokrido.
 
-Transurbe estas kelkaj ruinoj de la krima epoko. Post araba-aspekta suburbo, kasbaho, de blankaj muroj, de rondaj plafonoj, de terasoj voritaj de la suno — Amaso de ŝtonkuboj ĵetitaj hazarde. Vera amaso de ĵetkuboj por ludi, kies punktojn forviŝis la patino de la tempo.
+Trans la urbeto akumuliĝas kelkaj ruinoj de la krimma epoko. Post arab-aspekta kvartalo, alkazabo blankmura, kun rondaj plafonoj kaj sunvoritaj terasoj --- amaso da ŝtonkuboj ĵetitaj hazarde, kies punktojn forviŝis la tempa patino.
 
-Inter aliaj, distingas sin Ses-Kvaro, nomo donita al stranga konstruo, kiu havas ses aperturojn surflanke, kvar suralie.
+Inter aliaj, rimarkiĝas Ses-Kvaro, nomo donita al stranga konstruaĵo, kiu havas ses fenestrojn sur fronto, kaj kvar sur la alia.
 
-Sonoril-turo dominas la vilaĝon, la kvardrata sonoril-turo de Sankta Filfilena, kun sonoriloj pendigitaj en la kavoj inter la muroj, kaj kiun la uragano resonigas foje.
+Sonorilturo dominas la urbeton, la kvadrata sonorilturo de Sankta Filfileno, kun sonoriloj pendigitaj dikaj kiel la muroj, kaj kiujn la uragano foje sonigas.
 
-Malbona signalo. Tiam, oni timas ĉi-lande.
+Malbona signalo. Tiam, ĉi-landujoj timas.
 
-Jen estas Luktropo. Poste, loĝejoj disaj en la kampo, inter balailoj kaj erikoj, _passim_, kiel Bretonujon. Sed ĝi ne estas Bretonujon.
+Jen Luktropo. Poste, iuj loĝejoj disaj surkampe, inter stipoj kaj erikoj, _passim_, kiel en Britujo, sed ne estas ĝi en Britujo.
 
-Ĉu estas Francujon? Mi ne scias. Eŭropon? Mi nek scias.
+Ĉu estas ĝi Francujo? Mi ne scias. Ĉu en Eŭropo? Mi nek scias.
 
-Ĉiuokaze, ne serĉu Luktropon en la mapo — eĉ en la atlaso de Stieler.
+Ĉiuokaze, ne serĉu Luktropon en la mapo --- ne eĉ en la atlaso de Stieler.
 
-***
+</article>
+<article>
 
 # II
 
-Frok!... Diskreta frapo resonas ĉe la malalta pordo de Ses-Kvaro, en la maldesktra angulo de strato Misagio. Estas unu el la plej komfortaj domoj, se, tamen, tiu ĉi vorto esteblas en Luktropo — unu el la plej riĉaj, se ekhavi kelkajn milojn da fretzoj po jaro konsistigas riĉecon.
+Frok!... diskreta frapo sonas ĉe la mallarĝa pordo de Ses-Kvaro, en la maldekstra angulo de strato Mesagliero. Estas el la plej komfortaj domoj, se, tamen, ĉi tiu vorto eblas en Luktropo --- unu el la plej riĉaj, se gajni jare post jare iujn milojn da fretzoj konsistigas riĉecon.
 
-Al _frok_' respondas unu el tiuj sovaĝaj bojoj, en kiu estas hurloj, — kiu al oni memorigas bojon de lupo. Poste fenestro malfermas super la pordo de Ses-Kvaro.
+Al frapo respondas iu el tiaj sovaĝaj bojoj, kie estas hurlo --- kiu memorigas la bojon de lupo. Poste fenestro malfermas super la pordo de Ses-Kvaro.
 
-— Al ĉiuj diabloj, la maloportunaj! — diras malbon-humora voĉo.
+--- Al ĉiuj diabloj, la maloportunaj! --- diris voĉo malbon-humora.
 
-Junuletino, tremante sub la pluvo, envolvita de malbona kabo,  demandas, ĉu doktoro Trifulgo estas hejme.
+Junulino tremis sub la pluvo, envolvita en malbona kovraĵo, demandante, se doktoro Trifulgo estis hejme.
 
-— Li estas aŭ ne estas, ĝi dependas!
+--- Li estas aŭ ne, tio dependas!
 
-— Mi venas pro mia patro, kiu mortas!
+--- Mi venis pro mia patro, kiu mortas!
 
-— Kie mortas li?
+--- Kie li mortas?
 
-— En Val Karnioŭ, kvar kertsojn de tie ĉi.
+--- Apud Val Karnio, kvar kertzojn el ĉi tie.
 
-— Kaj lia nomo estas...?
+--- Kiel li nomas?
 
-— Vort Kartifo.
+--- Vort Kartifo.
 
-— Vort Kartifo... la bakisto?
+--- Vort Kartifo... la bakisto?
 
-— Jes, kaj se doktoro Trifulgo...
+--- Jes, kaj se doktoro Trifulgo...
 
-— Doktoro Trifulgo ne ĉe-estas!
+--- Doktoro Trifulgo ne estas hejme!
 
-Kaj li la fenestron fermas bruske, dum la _frritt_-oj de la vento kaj la _flakk_-oj de la pluvo konfuziĝas en surdiga bruego.
+Kaj la fenestro fermis abrupte, dum la _frritt_-oj de la vento kaj la _flakk_-oj de la pluvo konfuziĝis en surdigan bruadon.
 
-***
+</article>
+<article>
 
 # III
 
-Malfacila viro, estas doktoro Trifulgo. Senkompatema, sanigas nur pagita antaŭtempe. Eĉ lia maljuna Hurzofo — krucigo de buldogo kaj ŝpico — estis pli kompatema ol li. La domo Ses-Kvaro, negastama al malriĉuloj, estas malfermitia nur al la riĉuloj. Krome, estas tarifo: kaj pro tifoida febro, kaj pro kongesto, kaj pro perikardiito kaj aliaj malsanaĵoj, kiun la sanigistoj elpensas dekduope. Do, la bakisto Vort Kartifo estis malriĉa viro el mizera familio. Kial doktoro Trifulgo ĝenu sin, kaj tianokte?
+Malmola viro, estas doktoro Trifulgo. Ne tre kompata, li ne sanigis se ne pagita antaŭe. Lia maljuna Kurzofo --- mikso de buldogo kaj pomeri-hundo --- havas pli da koro ol li. La domo Ses-Kvaro, negastama al la malriĉuloj, malfermas nur al la riĉaj. Krome, estas tarifo: kaj por tifoidea, kaj por kongesto, kaj por perikardiito kaj aliaj malsanoj, kiujn kuracistoj inventas po dekduoj. Tamen, la bakisto Vort Kartifo estas malriĉulo, el mizera familio. Kial doktoro Trifulgo zorgu pri li, dum nokto tia?
 
-— Nur ellitigi min, murmuris reenlitiĝante, kostu dek fretzojn!
+--- Nur ellitigi min --- murmuris li reenlitiĝante --- kostu dek fretzojn!
 
-Apenaŭ dudek minutoj pasis, kiam la fera frapilo rebatis la pordon de Ses-Kvaro.
+Apenaŭ dudek minutoj pasis, kiam la pordfrapilo refrapis la pordon de Ses-Kvaro.
 
-Grumblante, la doktoro eliris sian liton, kaj rigardis tra la fenestro:
+Grumblante, la doktoro eliris sian liton kaj kliniĝis tra la fenestro.
 
-— Kiu estas? li kriis.
+--- Kiu estas? --- li kriis.
 
-— Estas mi, la edzino de Vort Kartifo.
+--- Mi estas la edzino de Vort Kartifo.
 
-— La bakisto de Vort Karnioŭ'?
+--- La bakisto de Val Karnio?
 
-— Jes, kaj se vi neas veni, li mortos!
+--- Jes, kaj se vi neas iri, li mortos!
 
-— Bone, vi estos vivdo!
+--- Bone, vi vidviĝos!
 
-— Jen dudek fretzoj...
+--- Jen dudek fretzoj...
 
-— Dudek fretzoj, por iri al Val Karnioŭ', kvar kertsojn de ĉi tie!
+--- Dudek fretzoj, pro iri al Val Karnio, kvar kertzojn el ĉi tie!
 
-— Bonvolu!
+--- Mi petas!
 
-— Al diablo!
+--- Al diablo!
 
-Kaj la fenestron li refermis. Dudek fretzoj! Bela prezo! Riski malvarmumi aŭ havi postekzercan doloron por dudek fretzoj, precipe kiam, morgaŭ, antendas min en Kiltreno, ĉe riĉulo Edzingovo, la podagrulo, kies podagro estas eksplutata por kvindek fretzoj vizitope!
+Kaj la fenestro refermis. Dudek fretzoj! Bela rabataĵo! Riski malvarmumi aŭ doloriĝi postekzerce pro dudek fretzoj, precipe kiam morgaŭ atendos lin en Kiltreno la riĉulo Edzingovo, la podagra, kies podagron li ekspluatas pro kvindek fretzoj povizite!
 
-Je ĉi tiu agrabla perspektivo, doktoro Trifulgo redormis pli profunde ol antaŭe.
+Kun tiu agrabla perspektivo, doktoro Trifulgo redormis pli profunde ol antaŭe.
 
-***
+</article>
+<article>
 
 # IV
 
 Frritt!... Flakk!... kaj poste, frok!... frok!... frok!...
 
-Al la ventopuŝo kuniĝas nun tri frapoj, faritaj de pli delikata mano. La doktoro dromas. Li ellitiĝas, sed kia humoro! Jam malfermita la fenestro, la uragano eniras kiel mitrajlo.
+Al la ventopuŝo kuniĝas, ĉi-okaze, tri frapoj, de pli senhezita mano. La doktoro dormis. Li ellitiĝis, sed kun kia humoro! Kiam la fenestron li malfermis, la uragano eniris kiel mitrajl-sako.
 
-— Estas pro la bakisto...
+--- Estas pri la bakisto...
 
-— Denove tiu aĉulo!
+--- Ankoraŭ tiu mizerulo!
 
-— Mi estas lia patrino!
+--- Mi estas lia patrino!
 
-— La patrino, la edzino kaj la filino kreviĝu kun li!
+--- La patrino, la edzino kaj la filino kreviĝu kun li!
 
-— Li suferis atakon!
+--- Li suferis atakon...
 
-— Do li defendu sin!
+--- Do li sin defendu!
 
-— Al ni estis donita iom da mono, plu-diras la maljunulino, antaŭpago pro la domo, kiun ni vendis al [] Dontrupo, el strato Misagio. Se vi ne venas, mia nepino ne plu havos patron, mia bofilino ne plu havos edzon, kaj mi mem ne plu havos filon!
+--- Al ni estis sendita iom da mono, --- respondis la maljunulino --- antaŭpago de la domo, kiun ni vendis al komandanto Dontrupo, en strato Mesagliero. Se vi ne venas, mia nepino ne plu havos patron, mia filino ne plu havos edzon, kaj mi ne plu havos filon!
 
-Estas
+Estis penige kaj terure aŭskulti la voĉon de la maljunulino, pensi, ke la ventopuŝo malvarmigis la sangon de ŝiaj vejnoj kaj la pluvo humidigis la ostrojn sub ŝia maldika karno!
 
-***
+--- Atako kostas ducent fretzojn! --- respondis senkore Trifulgo.
+
+--- Ni nur havas cent dudek!
+
+--- Bonan nokton!
+
+Kaj la fenestro fermis. Sed, post pripensado, cent dudek fretzoj pro unu horo kaj duono travoje, plus duonhoro vizite, faras sesdek fretzojn po horo --- unu fretzo po minuto. Malmulta profito, sed ne malestiminda.
+
+Anstataŭ reenlitiĝi, la doktoro envolvis sin en sian veston, enmetis siajn grandajn akvimunajn botojn, surmetis sian lavĉifon-jupon, kaj, kun sia haŭta ĉapo surkape kaj siaj mufgantoj enmane, li lasis la lampon bruligita, apud sia kodekso, malfermita je la 197a paĝo. Do, malfermante la pordon de Ses-Kvaro, li haltis sur la sojlo.
+
+La maljunulino restis tie, apogante sur sia bastono, senkarnigita de siaj okdek jaroj da mizero!
+
+--- Ĉu la cent dudek fretzoj?
+
+--- Jene, kaj Dio redonu ilin centobligitajn!
+
+--- Dio! La mono de Dio! Ĉu estas persono, kiu eĉ vidis ĝian koloron?
+
+La doktoro fajfis por Hurzofo, metis lampeton en ĝian buŝon, kaj prenis la vojon apud la maro.
+
+La maljunulino sekvis.
+
+</article>
+<article>
 
 # V
 
-Kia vetero da _frritt_-oj kaj _flakk_-oj! La sonoriloj de Sankta Filfilena ekmovadis pro la burasko! Malbona signalo! Ba! Doktoro Trifulgo ne estas superstiĉa. Li kredas je nenio, nek sia scienco, — krom tio, kion ĝi al li alportas. Kia vetero, sed ankaŭ kia vojo! Ŝtonoj kaj skorioj, — la ŝtonoj, glitigaj pro la algoj, la skorioj, kraketaj kiel postaĵoj de forno. Neniu lumo krom la lanterno de la hundo Hurzof, malpreciza, hezitema. Foje, la flamaj eruptoj de Vangloro, en kies mezo aspektas, ke ruliĝadas grandaj strangaj siluetoj. Neniu scias, kio estas en la fundo de ĉi tiu nesondeblaj krateroj. Eble la spiritoj el la subtera mondo, kiu malaperas enirante.
+Kia vetero de _frritt_-oj kaj _flakk_-oj! La sonorilojn de Sankta Filfileno movas la burasko! Malbona signalo! Bah! Doktoro Trifulgo ne estas superstiĉa. Li kredas je nenio, nek je sia propra scienco --- krom tio, kio lin gajnigas. Kia vetero, sed ankoraŭ kia vojo! Ŝtonoj kaj skorioj --- ŝtonoj, glitigaj pro algoj, skorioj, krepitantaj kiel ŝlako. Neniu alia lumo ol la lanterno de hundo Hurzofo, svaga, hezitema. Foje, la flampuŝado de Vangloro, en kies mezo ŝajnas ruliĝi grandaj siluetoj. Neniu scias, kio estas en la fundo de tiuj nesondeblaj krateroj. Eble la animoj el submondo, kiuj volatiliĝas ĵus elirinte.
 
-La doktoro kaj la maljunulino sekvas la konturo de la golfetoj de la marbordo. La maro estas tinkurita je livida blanko, — blanko de funebro. Ĝi briletas, faligante la fosforeskan linion de la hulo, kiu ŝajnas verŝi lampirojn, kiam ĝi etendiĝas sur la plaĝo.
+La doktoro kaj la maljunulino trairas konturon de la marbordaj golfetoj. La maro blankas livide --- blanko funebra. Ĝi brilegas frakasante kontraŭ la linio fosforeska de la surfo, kiu ŝajnas ĵeti lumvermo-stufaĵojn sur la plaĝon.
 
-Ili ambaŭ iras supren tiel ĝis la vojdevio, inter la ondomovantaj dunoj, kies genistoj kaj uleksoj interkolizas kun tintosono de bajoneto.
+Tiele ambaŭ supreniras ĝis la voja kubuto, inter la ondaj dunoj, kies espartoj kaj junkoj interkolizias kun bajoneta tintado.
 
-La hundo proksimiĝis al sia mastro kaj ŝajnis, ke ĝi diras al li:
+La hundo proksimiĝas al sia mastro kiel dirante:
 
-«Ha! Dudek cent fretzoj por enmeti en la monŝranko! Tiel oni riĉiĝas! Mezuro plu por grandigi la barilo de la vitejo! Manĝo plu vespere ! Manĝaĵo plu por fidela Hurzofo! Sanigu ni la malsanajn riĉulojn kaj [] ilin... por ilia mono!»
+«Eh! Cent dudek fretzoj por meti en la kiraskason! Ĉi tiel oni riĉiĝas! Iom plu por la korto de vivo! Unu plado plu por manĝi nokte! Unu manĝaĵo plu por fidela Hurzofo! Prizorgu ni la riĉajn malsanulojn kaj... iliajn monujojn!»
 
-Tie ĉi, la maljunulino haltas. Per sia tremanta fingro ŝi montras, en la mallumo, ruĝa lumo. Estas la domo de Vort Kartifo, la bakisto.
+Tiam, la maljunulino haltas. Treme ŝi montras fingre, en la mallumo, ruĝan lumon. Estas la domo de Vort Kartifo, la bakisto.
 
-— Ĉu tie? diras la doktoro.
+--- Ĉu tie? --- diras la doktoro.
 
-— Jes, respondas la maljunulino.
+--- Jes --- respondas la maljunulino.
 
-— Harraouh! bojas la hundo Hurzofo.
+--- Harrahŭau! --- bojas hundo Hurzofo.
 
-Subite, Vangloro eksplodas, agitata êc en la spronoj de sia bazo. Amaso da fulgokoloraj flamoj supreniras al la pinto,  rompante la nubojn. Doktoro Trifulgo estas faligita per unu bato.
+Subite, Vangloro tondras, skuata eĉ la abutmento de ĝia bazo. Fasko de fulgokoloraj flamoj supreniras ĝiszeniten, truante la nubojn. Doktoron Trifulgon faligas frapo.
 
-Ĵuras kiel kristano, ekstaras kaj vidas.
+Li ĵuras kristane, leviĝas, rigardas.
 
-La maljunulino jam ne estas malantaŭe de li. Ĉu ŝi malaperis en iu malfermaĵon en la tero, aŭ ĉu ŝi malaperis tra la ondanta nebulo?
+La maljunulino ne estas plu malantaŭ li. Ĉu ŝi malaperis en iun aperturon de la tero, aŭ flugis tra la brumo?
 
-Pri la hundo, ĝi ĉiam estas tie, ripozante en sia malantaŭaj kruroj, la buŝo malferma, la lanterno estingita.
+Pri la hundo, ĝi ankaŭ estas kun li, starante sur siaj malantaŭaj kruroj, buŝo malfermita, lia lanterno estingita.
 
-— Ni plu iru! murmuras doktoro Trifulgo.
+--- Antaŭen! --- murmuras doktoro Trifulgo.
 
-La honesta homo prenis siajn dudek cent fretzojn. Li gajnu ilin.
+La honesta homo ricevis siajn cent dudek fretzojn. Li meritu ilin.
 
-***
+</article>
+<article>
 
 # VI
 
-Estis videbla nur luma punkto, je duona kertzo. Estas la lampo de la mortanto, — de la mortinto, eble. Tiu estas sendube la domo de la bakisto. La maljunulino montris ĝin fingre. Ne eblas eraro.
+Nur unu luma punkto, je duonkertzo. Estas la lamparo de la mortanto --- de la mortinto eble. Jen la domo de la bakisto. La maljunulino jam montris fingre. Eblas nenia eraro.
 
-Meze de la fajfantaj _frritt_-oj, de la krepitantaj _flakk_-oj, en la bruado de la tempeseto, doktoro Trifulgo iras rapide.
+Inter la fajfantaj _frritt_-oj, la krepitantaj _flakk_-oj kaj la ŝtormbruado, doktoro Trifulgo iradas urĝe.
 
-Dum li iras antaŭen, la domo plidistingebliĝa, estante sola en la mezo de la erikejo.
+Ju pli li avancas, des pli bone la domo distingiĝas, sola en erikejo.
 
-Estas kurioza observi, kiom ĝi similas al la domo de la doktoro, al Ses-Kvaro de Luktropo. La sama aranĝo de la fenestroj en la fronto, la sama malgranda cintrita pordo.
+Estas unike observi, kiom simila ĝi estas ol tiu de la doktoro, ol Ses-Kvaro de Luktropo. Sama fenestra aranĝo sur la fronto, sama kurba pordeto.
 
-Doktoro Trifulgo rapidas kiel eblas la ventopuŝo. La pordo estas duonaperta, li nur puŝu ĝin; li ĝin puŝas, eniras, kaj la vento brutale remalfermas ĝin malantaŭ li. La hundo Hurzofo, ekstere, hurlas, silentante de tempo al tempo, kiel la kantistoj inter la versikloj  de psalmo  de la Kvardek Horoj.
+Doktoro Trifulgo iras tiel rapide, kiel permesas la ventopuŝo. La pordo estas duone malfermita, li nur puŝu. Li puŝas, eniras, kaj la vento ĝin refermas subite malantaŭ li. La hundo Hurzofo, ekstere, hurlas, silentante intertempe, kiel la kantorestroj inter la versikloj de psalmo de la Kvardek Horoj.
 
-Strange! Oni diras, ke doktoro Trifulgo revenas al sia propra hejmo. Li ne deturnis. Li estas en Val Karnioŭ', ne en Luktropo. Tamen, la sama malalta kurba koridoro, la sama spirala ŝtuparo de ligno kun dika manrelo, trivita de la frotado de la manoj.
+Strange! Oni dirus, ke doktoro Trifulgo revenis en sian propran domon. Sed li ne perdiĝis. Neniam li deviis. Li certe estis en Val Karnio, ne en Luktropo. Tamen, la sama koridoro malalta kaj kurba, la sama ligna helik-ŝtuparo, kun dika balustrado, eluzita de mantuŝado.
 
-Li iras supren. Li alvenas al ŝtuparhaltejo. Antaŭ la pordo, malforta luma filtriĝas sube, kiel en Ses-Kvaro. Ĉu estas halucino? Per malpreciza lumo, li rekonas sian ĉambron,  la flavan sofon, destre, la verd-pirarba kofro, maldestre, la monŝranko plena, kie li intencis meti la dudek kvin fretzojn. Tie estas lia ledseĝo, tie estas lia tablo kun torditaj piedoj, kaj sur ĝi, proksime de la estingiĝanta lampo, lia kodekso, malfermita je la paĝo 197.
+Li iras supren, alvenas ŝtupar-haltejen. Antaŭporde, malforta lumo filtriĝas sube, same kiel en Ses-Kvaro. Ĉu estas halucino? En svaga lumo, li rekonas sian ĉambron, la flava kanapo, dekstre la pirarba kofro, maldekstre la kiraskaso, en kiun li planis deponi la cent dudek fretzojn. Jen lia brakseĝo kun felaj kap-apogiloj, jen lia tord-pieda tablo, kaj sure, apud la mortanta lamparo, estas kodekso, malfermita je la 197a paĝo.
 
-— Kio okazas al mi? li murmuras.
+--- Kio okazas al mi? --- murmuras li.
 
-Kio okazas al li? Li timas. Lia pupilo ekdilatas. Lia korpo kuntiriĝas, reduktiĝas. Ŝviteto malvarmigadas lian haŭto, sur kiu li sensas kuirantajn rapidajn timotremojn.
+Kio okazas al li? Li timas. Liaj pupiloj dilatiĝas. Lia korpo kuntiriĝas, reduktiĝas. Malvarma ŝvito malvarmigas lian haŭton, sur kiu li sentas kurantajn rapidajn timtremojn.
 
-Sed rapidu! Manko de oleo, la lampo jam estingiĝos, — la mortanto ankaŭ!
+Sed rapidu! Mankas oleo, la lamparo estingiĝos --- ankaŭ la mortanto!
 
-Jes, jen la lito, — lia lito, kun kolonoj, kun kaldakeno, longa kiel larĝa, fermita de kurtenoj []. Ĉu eblas, ke tiu ĉi estas la lito de misera bakisto?
+Jes, enlite li estas --- lia lito, kun kolonoj, kun baldakeno, tiel longa kiel larĝa, fermita de flormotivaj kurtenoj. Ĉu vere eblas, ke tiun liton posedus mizera bakistaĉo?
 
-Per tremanta mano, doktoro Trifulgo ekkaptas la kurtenoj. Li malfermas ĝin, kaj vidas.
+Per tremanta mano, doktoro Trifulgo prenas la kurtenojn. Li ilin malfermas, rigardas.
 
-La mortanto, sia kapo nekovrita, restas senmova, kiel en la fino de sia lasta spiro. La doktoro kliniĝas al li...
+La mortanto, kies kapo montriĝas sur la kovrilo, ne movas, kiel tuj laste spironte. La doktoro kliniĝas...
 
-Ha! Kia krio, al kiu respondas, ekstere,  terura bojo de hundo.
+Ah! Kia krio, al kiu respondas, ekstere, la terura hurlo de lia hundo.
 
-La mortanto ne estas la bakisto Vort Kartifo.... Li estas doktoro Trifulgo!... Estas li, kiun la kongesto malvarmigas, — li mem! Cerba apopleksio kun amaso da seraĵo en la kavoj de la cerbo, kaj korpa paralizoj en la kontraŭa flanko, kie estas la lezo!
+La mortanto ja ne estas bakisto Vort Kartifo... Estas doktoro Trifulgo! Tiu, kiu kongestas --- estas li mem! Cerba apopleksio kun akumuliĝo de seraĵoj en la cerbaj kavoj, kun korpa paralizo trans tie, kie troviĝas la lezo!
 
-Jes! Estas li mem, kiun li venis serĉi, pro kiu li ricevis dudek cent fretzojn! Li mem, kiu per malmoleco de koro rifuzis sanigi la malriĉa bakisto! Li mem, kiu mortos!
+Jes! Estas li mem, kiun li venis viziti, pro kiu ili pagis cent dudek fretzojn! Li, kiu pro malmoleco kora neis sanigi la malriĉan bakiston! Li, kiu jam mortos!
 
-Doktoro Trifulgo freneziĝas. Li sentas sin perdita. La sinkopoj grandiĝadas de minuto al minuto. Ne nur ĉiuj funkcioj de rilato foriĝos de li, sed ankaŭ ĉesiĝos la movadoj de la koro kaj de la spirado. Kaj, tamen, li ankoraŭ ne tute perdas sian propan konscion!
+Doktoro Trifulgo freneziĝas. Li sentas sin perdita. La simptomoj kreskas de minuto al minuto. Ne nur ĉiu spira funkcio nuliĝas en li, sed ankaŭ la movado de koro kaj spiro. Kaj, malgraŭ ĉio, li jam ne tute perdis la konscion!
 
-Kion li faru? Ĉu malpliigi la amaso de sango per sangotransfuzo? Doktoro Trifulgo mortos, sendube...
+Kion fari? Ĉu malpliigi la sangvolumenon per sangeltiro? Doktoro Trifulgo mortos, se li hezitas...
 
-Oni ankoraŭ sangas ĉi-tempe, kaj, kiel nune, la sanigistoj sanigass de apopleksio tiujn, kiujn oni ne atendas morti.
+Oni ankoraŭ sangeltiris ĉi-epoke, kaj, kiel nuntempe, la kuracistoj sanigis el apopleksio tiujn, kiujn ĝi ne devus mortigi.
 
-Doktoro Trifulgo prenas sian skatolon, eltiras skalpelo, injektas la vejnon de la brako de sia duoblulo: la sango ne alvenas al lia brako. Li energie frotas sian bruston: sia [] ekhaitas. Li varmegigas siajn piedojn per varmaj ŝtonoj: siaj malvarmiĝas.
+Doktoro Trifulgo prenas sian valizeton, eltiras lanceton, pikas la brakvejnon de sia sozio: la sango ne alvenas al lia brako. Li energie frotas la bruston: lia propra korbato haltas. Li bruligas la piedojn per varmaj ŝtonoj: liaj propraj malvarmiĝas.
 
-Tiam, lia duoblulo ekrektas, luktas, kaj sprias lastfoje...
+Tiam, lia sozio ekstaras, agitiĝas, eligas egan stertoron...
 
-Kaj doktoro Trifulgo, kvankam tio, kio la sciencio povas inspiri al si, mortas en siaj manoj.
+Kaj doktoro Trifulgo, malgraŭ ĉio, kion povus inspiri sciencon, mortas en siaj manoj.
 
 Frritt!... Flakk!...
 
-***
+</article>
+<article>
 
 # VII
 
-Matene, en la domo Ses-Kvaro,  estis trovita nur morta korpo, — tiu de doktoro Trifulgo. Ĝi estis metita en ĉerko, kaj estis transportita kun granda funebra ceremonio al la Luktropa tombejo, post tiom da aliaj, kiujn tien li sendis — laŭ la kutimo.
+Matene, en domo Ses-Kvaro, estis trovita nenio krom kadavro --- la de doktoro Trifulgo. Li estis metita en ĉerkon, kaj kondukita ĉe granda pompo al la Luktropa tombejo, kun ĉiuj aliaj, kiujn li sendis tien --- laŭformule.
 
-Pri la maljuna Hurzofo, oni diras, ke ekde tiu tago, kuradis, kun sia lampo revivita, bojante al la perditaj hundoj.
+Pri maljuna Hurzofo, oni diras, ke ekde tiu tago, ĝi trairas la erikejon, kun la bruligita lanterno enbuŝe, hurlante kiel perdita hundo.
 
-Mi ne scias, ĉu tio certas, sed strangaj aferoj okazas en tiu ĉi loko de Volsinio, precize ĉirkaŭ Luktropo.
+Mi ne scias, ĉu tio certas, sed stangaj aferoj okazas ĉe la Volsinia lando, precize ĉirkaŭ Luktropo!
 
-Nu, mi rediras, ne serĉu tiu ĉi vilaĝo en la mapo. La plej bonaj geografoj ne povas interkonsenti pri ĝia latitudo — nek ĝia longitudo.
+Nu, mi ripetu, ne serĉu tiun urbeton en la mapo. La plej bonaj geografoj ne sukcesas interkonsenti pri ĝia pozicio je larĝeco --- nek eĉ je longeco.
+

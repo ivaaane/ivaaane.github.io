@@ -14,9 +14,16 @@ outputs:
 
 <div class="marquee" aria-hidden="true"><img alt="gumi" src="/media/sillies/gumi.png"></img></div>
 
-Saluton~ mi estas sieni,{{<note text="Retnomo; skribu minuskle.">}} malprofesia skribanto, [programanto](https://sienii.itch.io) kaj aĵo-faristo el Katalunujo. Tiu ĉi estas mia persona arĥivo, kie mi gardas ĉiun verkon faritan de mi. Mi skribas ĉefe [tokipone](/sp), kiel mi pli fluas. Bonan ĉeestadon!
+Saluton~ mi estas sieni,{{<note text="Retnomo; skribu minuskle.">}} malprofesia skribanto, [programanto](https://sienii.itch.io) kaj aĵofaristo kataluna. Tiu ĉi estas mia persona arĥivo, kie mi gardas ĉiujn el miaj verkoj. Mi skribas ĉefe [tokipone](/sp), kiel mi pli fluas. Bonan ĉeestadon!
 
-<p class="center"><a href="https://sijeni.atabook.org">» subskribu mian vizito-libron! «</a></p>
+<p class="center"><a href="https://sijeni.atabook.org">» subskribu mian vizitolibron! «</a></p>
+
+</article>
+<article>
+
+## Tradukoj
+
+* [Frritt-Flakk](frritt-flakk) (Julio VERNE, 1884)
 
 </article>
 <article>
@@ -32,6 +39,6 @@ Saluton~ mi estas sieni,{{<note text="Retnomo; skribu minuskle.">}} malprofesia 
 ## Aliaĵoj
 
 * [Libroŝranko](libroshranko)
-* [Televidaj serioj kaj animeoj](televidserioj)
+* [Televidaj serioj](televidserioj)
 
 </article>
