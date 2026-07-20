@@ -14,7 +14,7 @@ outputs:
 
 <div class="marquee" aria-hidden="true"><img alt="gumi" src="/media/sillies/gumi.png"></img></div>
 
-Saluton~ mi estas sieni,{{<note text="Retnomo; skribu minuskle.">}} malprofesia skribanto, [programanto](https://sienii.itch.io) kaj aĵofaristo kataluna. Tiu ĉi estas mia persona arĥivo, kie mi gardas ĉiujn el miaj verkoj. Mi skribas ĉefe [tokipone](/sp), kiel mi pli fluas. Bonan ĉeestadon!
+Saluton~ mi estas sieni,{{<note text="Retnomo; skribu minuskle.">}} malprofesia skribanto, [programanto](https://sienii.itch.io) kaj aĵofaristo kataluna. Tiu ĉi estas mia persona arĥivo, kie mi gardas ĉiujn el miaj verkoj. Mi skribas ĉefe [tokipone](/sp), en kiu mi pli fluas. Bonan ĉeestadon!
 
 <p class="center"><a href="https://sijeni.atabook.org">» subskribu mian vizitolibron! «</a></p>
 

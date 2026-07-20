@@ -4,7 +4,7 @@ date: 2026-07-20
 language: eo
 details:
 - date: 20/7/2026
-- note: Traduko al Esperanto de «Frritt-Flacc», terura novelo france verkita de Julio Verne en 1884.
+- note: Traduko al Esperanto de «Frritt-Flacc», terura novelo verkita france de Julio VERNE en 1884.
 ---
 
 # I
@@ -124,7 +124,7 @@ Al la ventopuŝo kuniĝas, ĉi-okaze, tri frapoj, de pli senhezita mano. La dokt
 
 --- Al ni estis sendita iom da mono, --- respondis la maljunulino --- antaŭpago de la domo, kiun ni vendis al komandanto Dontrupo, en strato Mesagliero. Se vi ne venas, mia nepino ne plu havos patron, mia filino ne plu havos edzon, kaj mi ne plu havos filon!
 
-Estis penige kaj terure aŭskulti la voĉon de la maljunulino, pensi, ke la ventopuŝo malvarmigis la sangon de ŝiaj vejnoj kaj la pluvo humidigis la ostrojn sub ŝia maldika karno!
+Estis penige kaj terure aŭskulti la voĉon de la maljunulino, pensi, ke la ventopuŝo malvarmigis la sangon de ŝiaj vejnoj kaj la pluvo humidigis la ostojn sub ŝia maldika karno!
 
 --- Atako kostas ducent fretzojn! --- respondis senkore Trifulgo.
 
@@ -224,7 +224,7 @@ Doktoro Trifulgo freneziĝas. Li sentas sin perdita. La simptomoj kreskas de min
 
 Kion fari? Ĉu malpliigi la sangvolumenon per sangeltiro? Doktoro Trifulgo mortos, se li hezitas...
 
-Oni ankoraŭ sangeltiris ĉi-epoke, kaj, kiel nuntempe, la kuracistoj sanigis el apopleksio tiujn, kiujn ĝi ne devus mortigi.
+Oni ankoraŭ sangeltiris ĉi-epoke, kaj, kiel nuntempe, la kuracistoj sanigis el apopleksio tiujn, kiuj ne mortu.
 
 Doktoro Trifulgo prenas sian valizeton, eltiras lanceton, pikas la brakvejnon de sia sozio: la sango ne alvenas al lia brako. Li energie frotas la bruston: lia propra korbato haltas. Li bruligas la piedojn per varmaj ŝtonoj: liaj propraj malvarmiĝas.
 
