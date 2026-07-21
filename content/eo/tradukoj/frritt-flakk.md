@@ -220,7 +220,7 @@ La mortanto ja ne estas bakisto Vort Kartifo... Estas doktoro Trifulgo! Tiu, kiu
 
 Jes! Estas li mem, kiun li venis viziti, pro kiu ili pagis cent dudek fretzojn! Li, kiu pro malmoleco kora neis sanigi la malriĉan bakiston! Li, kiu jam mortos!
 
-Doktoro Trifulgo freneziĝas. Li sentas sin perdita. La simptomoj kreskas de minuto al minuto. Ne nur ĉiu spira funkcio nuliĝas en li, sed ankaŭ la movado de koro kaj spiro. Kaj, malgraŭ ĉio, li jam ne tute perdis la konscion!
+Doktoro Trifulgo freneziĝas. Li sin sentas perdita. La simptomoj kreskas de minuto al minuto. Ne nur ĉiu spira funkcio nuliĝas en li, sed ankaŭ la movado de koro kaj spiro. Kaj, malgraŭ ĉio, li jam ne tute perdis la konscion!
 
 Kion fari? Ĉu malpliigi la sangvolumenon per sangeltiro? Doktoro Trifulgo mortos, se li hezitas...
 
@@ -230,7 +230,7 @@ Doktoro Trifulgo prenas sian valizeton, eltiras lanceton, pikas la brakvejnon de
 
 Tiam, lia sozio ekstaras, agitiĝas, eligas egan stertoron...
 
-Kaj doktoro Trifulgo, malgraŭ ĉio, kion povus inspiri sciencon, mortas en siaj manoj.
+Kaj doktoro Trifulgo, malgraŭ ĉio, kion povus inspiri scienco, mortas en siaj manoj.
 
 Frritt!... Flakk!...
 
