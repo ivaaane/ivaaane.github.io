@@ -17,7 +17,7 @@ Tiu malpura ventopuŝo kurbigas la arbojn de la Volsinia marbordo kaj rompiĝas 
 
 Frritt!... Flakk!...
 
-Funde de la haveno kaŝas la urbeto de Luktropo. Iuj centoj da domoj, kun verdaj rigardejoj, kiuj ĝin defendas pli-malpli kontraŭ la mara vento. Kvar aŭ kvin krutaj stratoj, pli ravinoj ol vojoj, pavimitaj per ŝtonoj, malpurigitaj de skorio, kiun ĵetas la vulkanaj konusoj elfunde. La vulkano ne estas for -- Vangloro. Tage, la enaj emanoj etendiĝas en formo de sulfuraj vaporoj. Nokte, de minuto al minuto, grandaj vomadoj de flamoj. Kiel lumturo, starante cent kvindek kertzoj alta, Vangloro montras la Luktropan havenon al la trafik-, fiŝ- kaj transport-ŝipoj, kies stevenoj segas la akvojn de Megalokrido.
+Funde de la haveno kaŝas la urbeto de Luktropo. Iuj centoj da domoj, kun verdaj rigardejoj, kiuj domojn defendas pli-malpli kontraŭ la mara vento. Kvar aŭ kvin krutaj stratoj, pli ravinoj ol vojoj, pavimitaj per ŝtonoj, malpurigitaj de skorio, kiun ĵetas la vulkanaj konusoj elfunde. La vulkano ne estas for -- Vangloro. Tage, la enaj emanoj etendiĝas en formo de sulfuraj vaporoj. Nokte, de minuto al minuto, grandaj vomadoj de flamoj. Kiel lumturo, starante cent kvindek kertzoj alta, Vangloro montras la Luktropan havenon al la trafik-, fiŝ- kaj transport-ŝipoj, kies stevenoj segas la akvojn de Megalokrido.
 
 Trans la urbeto akumuliĝas kelkaj ruinoj de la krimma epoko. Post arab-aspekta kvartalo, alkazabo blankmura, kun rondaj plafonoj kaj sunvoritaj terasoj --- amaso da ŝtonkuboj ĵetitaj hazarde, kies punktojn forviŝis la tempa patino.
 

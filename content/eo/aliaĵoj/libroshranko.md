@@ -9,7 +9,7 @@ details:
 
 | titolo | aŭtoro |
 | ------ | ------ |
-| L'aŭko de sinjoro Esteve {{<note text="L'auca del senjor Esteve">}} | Santiago RUSIÑOL |
+| Vortoj de Opotono la Maljuna {{<note text="Paraules d'Opòton el Vell">}} | Avel·lço ARTÍS-GENER |
 
 <br>
 
@@ -17,6 +17,7 @@ details:
 
 | titolo | aŭtoro |
 | ------ | ------ |
+| La bildrakonto de sinjoro Esteve {{<note text="L'auca del senjor Esteve">}} | Santiago RUSIÑOL |
 | Omaĝo al Katalunujo {{<note text="Homage to Catalonia">}} | George ORWELL |
 | Duno-mesio {{<note text="Dune Messiah">}} | Frank HERBERT |
 | Gardistoj! Gardistoj! {{<note text="Guards! Guards!">}} | Terry PRATCHETT |
@@ -90,10 +91,10 @@ details:
 | titolo | aŭtoro |
 | ------------------------------- | ------------------- |
 | [ĉiu romano el Diskomondo] {{<note text="Discworld">}} | Terry PRATCHETT |
+| Odiseado {{<note text="Οδύσσεια">}} | Όμηρος |
 | Ŝtormo de glavoj {{<note text="A storm of swords">}} | George R.R. MARTIN |
-| Vortoj de Opotono la Maljuna {{<note text="Paraules d'Opòton el Vell">}} | Avel·lço ARTÍS-GENER |
-| La taglibroj de la apotekistino {{<note text="薬屋のひとりごと">}} | 日向夏 |
 | La nomo de l'vento {{<note text="The name of the wind">}} | Patrick ROTHFUSS |
+| La taglibroj de la apotekistino {{<note text="薬屋のひとりごと">}} | 日向夏 |
 | Don Kiĥoto el Manĉo {{<note text="Don Quijote de la Mancha">}} | Miguel DE CERVANTES |
 | La Biblio {{<note text="ביבליה / ܟܬܒܐ ܩܕܝܫܐ / Αγία Γραφή">}} |   |
 
