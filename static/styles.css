@@ -83,6 +83,7 @@ a {
         background-color: var(--link);
         color: var(--page);
     }
+
 }
 
 img:not(.tokipona, .marquee *) {
@@ -98,8 +99,7 @@ img:not(.tokipona, .marquee *) {
         scale: 1.2;
         rotate: 10deg;
         transition: 100ms;
-}
-
+    }
 }
 
 table {

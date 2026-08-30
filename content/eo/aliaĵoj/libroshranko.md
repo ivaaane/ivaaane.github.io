@@ -9,7 +9,8 @@ details:
 
 | titolo | aŭtoro |
 | ------ | ------ |
-| Vortoj de Opotono la Maljuna {{<note text="Paraules d'Opòton el Vell">}} | Avel·lço ARTÍS-GENER |
+| Odiseado {{<note text="Οδύσσεια">}} | Όμηρος |
+| Asumin interesas lesbaj malĉastejoj! {{<note text="彩純ちゃんはレズ風俗に興味があります!">}} | 伊月クロ |
 
 <br>
 
@@ -17,6 +18,7 @@ details:
 
 | titolo | aŭtoro |
 | ------ | ------ |
+| Vortoj de Opotono la Maljuna {{<note text="Paraules d'Opòton el Vell">}} | Avel·lís ARTÍS-GENER |
 | La bildrakonto de sinjoro Esteve {{<note text="L'auca del senjor Esteve">}} | Santiago RUSIÑOL |
 | Omaĝo al Katalunujo {{<note text="Homage to Catalonia">}} | George ORWELL |
 | Duno-mesio {{<note text="Dune Messiah">}} | Frank HERBERT |
@@ -25,7 +27,7 @@ details:
 | Mort | Terry PRATCHETT |
 | La sekreto de sekretoj {{<note text="The secret of secrets">}} | Dan BROWN |
 | La enketo de la kanalo 4a {{<note text="L'enquesta del canal 4">}} | Avel·lí ARTÍS-GENER |
-| Frankenŝtejno {{<note text="Frankenstein; or the modern Prometheus">}} | Mary Shelley |
+| Frankenŝtejno {{<note text="Frankenstein; or the modern Prometheus">}} | Mary SHELLY |
 | Kolizio de reĝoj {{<note text="A clash of kings">}} | George R.R. MARTIN |
 | Kiam la verd-tea fiulino ĉantaĝis min {{<note text="关于被班上绿茶威胁那件事">}} | 闲君 |
 | Ludo de tronoj {{<note text="A game of thrones">}} | George R.R. MARTIN |
@@ -39,7 +41,7 @@ details:
 | Tero Firma {{<note text="Tierra Firme">}} | Matilde ASENSI |
 | Silmariliono {{<note text="The Silmarillion">}} | J.R.R. Tolkien |
 | La voko de Ktulhu {{<note text="The call of Cthulhu">}} | H.P. LOVECRAFT |
-| Mi amas Amjon {{<note text="나는 에이미를 사랑해">}} | Unni |
+| Mi amas Amjon {{<note text="나는 에이미를 사랑해">}} | 언니 |
 | Neniu por skribi al la kolonelo {{<note text="El coronel no tiene quien le escriba">}} | García MÁRQUEZ |
 | Murdo en la Orienta Ekspreso {{<note text="Murder on the Orient Express">}} | Agatha CHRISTIE |
 | La aventuroj de Alico en Mirlando {{<note text="Alice's adventures in Wonderland">}} | Lewis CARROLL |
@@ -91,7 +93,6 @@ details:
 | titolo | aŭtoro |
 | ------------------------------- | ------------------- |
 | [ĉiu romano el Diskomondo] {{<note text="Discworld">}} | Terry PRATCHETT |
-| Odiseado {{<note text="Οδύσσεια">}} | Όμηρος |
 | Ŝtormo de glavoj {{<note text="A storm of swords">}} | George R.R. MARTIN |
 | La nomo de l'vento {{<note text="The name of the wind">}} | Patrick ROTHFUSS |
 | La taglibroj de la apotekistino {{<note text="薬屋のひとりごと">}} | 日向夏 |
