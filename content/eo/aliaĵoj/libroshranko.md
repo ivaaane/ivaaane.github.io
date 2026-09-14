@@ -18,6 +18,7 @@ details:
 
 | titolo | aŭtoro |
 | ------ | ------ |
+| La Galaksia Gvidlibro por Petveturantoj {{<note text="The Hitchhiker's Guide to the Galaxy">}} | Douglas ADAMS |
 | Vortoj de Opotono la Maljuna {{<note text="Paraules d'Opòton el Vell">}} | Avel·lís ARTÍS-GENER |
 | La bildrakonto de sinjoro Esteve {{<note text="L'auca del senjor Esteve">}} | Santiago RUSIÑOL |
 | Omaĝo al Katalunujo {{<note text="Homage to Catalonia">}} | George ORWELL |

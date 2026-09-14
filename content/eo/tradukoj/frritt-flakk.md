@@ -42,11 +42,11 @@ Frok!... diskreta frapo sonas ĉe la mallarĝa pordo de Ses-Kvaro, en la maldeks
 
 Al frapo respondas iu el tiaj sovaĝaj bojoj, kie estas hurlo --- kiu memorigas la bojon de lupo. Poste fenestro malfermas super la pordo de Ses-Kvaro.
 
---- Al ĉiuj diabloj, la maloportunaj! --- diris voĉo malbon-humora.
+--- Al ĉiuj diabloj, la maloportunaj! --- diris voĉo malbonhumora.
 
-Junulino tremis sub la pluvo, envolvita en malbona kovraĵo, demandante, se doktoro Trifulgo estis hejme.
+Junulino tremis sub la pluvo, envolvita en malbona kovraĵo, demandante, se doktoro Trifulgo estas hejme.
 
---- Li estas aŭ ne, tio dependas!
+--- Li estas aŭ ne, depende!
 
 --- Mi venis pro mia patro, kiu mortas!
 

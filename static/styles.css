@@ -336,6 +336,11 @@ theme-switch {
     src: url("/fonts/tngani.ttf") format("truetype");
 }
 
+@font-face {
+    font-family: "unown";
+    src: url("/fonts/unown.ttf") format("truetype");
+}
+
 .tp {
     h1 {
         text-transform: none;
@@ -378,6 +383,10 @@ theme-switch {
 
 .qy {
     font-family: tengwar;
+}
+
+.pk {
+    font-family: unown;
 }
 
 /* MOBILE */
