@@ -9,8 +9,7 @@ details:
 
 | titolo | aŭtoro |
 | ------ | ------ |
-| Odiseado {{<note text="Οδύσσεια">}} | Όμηρος |
-| Asumin interesas lesbaj malĉastejoj! {{<note text="彩純ちゃんはレズ風俗に興味があります!">}} | 伊月クロ |
+| La nomo de l'vento {{<note text="The name of the wind">}} | Patrick ROTHFUSS |
 
 <br>
 
@@ -94,8 +93,9 @@ details:
 | titolo | aŭtoro |
 | ------------------------------- | ------------------- |
 | [ĉiu romano el Diskomondo] {{<note text="Discworld">}} | Terry PRATCHETT |
+| Tri regnoj {{<note text="三國演義">}} | 罗贯中 |
+| La tri-korpa problemo {{<note text="三体">}} | 刘慈欣 |
 | Ŝtormo de glavoj {{<note text="A storm of swords">}} | George R.R. MARTIN |
-| La nomo de l'vento {{<note text="The name of the wind">}} | Patrick ROTHFUSS |
 | La taglibroj de la apotekistino {{<note text="薬屋のひとりごと">}} | 日向夏 |
 | Don Kiĥoto el Manĉo {{<note text="Don Quijote de la Mancha">}} | Miguel DE CERVANTES |
 | La Biblio {{<note text="ביבליה / ܟܬܒܐ ܩܕܝܫܐ / Αγία Γραφή">}} |   |
